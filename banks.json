@@ -11088,6 +11088,13 @@
         "countryCode": "LK"
     },
     {
+        "code": "NDBSLKLX100",
+        "bankName": "NDB Bank Ltd Colombo 07",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
         "code": "NDBSLKLX064",
         "bankName": "NDB Bank Ltd Dambulla",
         "agentOption": "SwiftCode",
@@ -11188,13 +11195,6 @@
     {
         "code": "NDBSLKLX900",
         "bankName": "NDB Bank Ltd Head Office (Corporate)",
-        "agentOption": "SwiftCode",
-        "bankCountry": "SRI LANKA",
-        "countryCode": "LK"
-    },
-    {
-        "code": "NDBSLKLX100",
-        "bankName": "NDB Bank Ltd Head Office (Retail)",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -23382,6 +23382,13 @@
     {
         "code": "SBINLKLX999",
         "bankName": "State Bank of India LKR DRAFT CLE",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "SBINLKLX005",
+        "bankName": "State Bank Of India / Trincomalee",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
