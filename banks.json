@@ -4382,13 +4382,6 @@
         "countryCode": "LK"
     },
     {
-        "code": "BCEYLKLX179",
-        "bankName": "Bank of Ceylon Wilgamuwa",
-        "agentOption": "SwiftCode",
-        "bankCountry": "SRI LANKA",
-        "countryCode": "LK"
-    },
-    {
         "code": "BCEYLKLX447",
         "bankName": "Bank of Ceylon Wilgamuwa",
         "agentOption": "SwiftCode",
@@ -4447,6 +4440,13 @@
     {
         "code": "BCEYLKLX829",
         "bankName": "BANK OF CEYLON ANDAULPOTHA",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "CGRBLKLX023",
+        "bankName": "Cargills Bank / Negombo",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -4664,6 +4664,20 @@
     {
         "code": "CITILKLX111",
         "bankName": "Citi Bank N.A. LKR DRAFT CLEARNG",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "COMCLKLX001",
+        "bankName": "Commercial Credit & Finance / Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "COMMLKLX001",
+        "bankName": "Commercial Leasing & Finance",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -6413,7 +6427,7 @@
     },
     {
         "code": "HBLILKLX232",
-        "bankName": "Hatton National Bank Anuradhapura New",
+        "bankName": "Hatton National Bank Anuradhapura Metro",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
