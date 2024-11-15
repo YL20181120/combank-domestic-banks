@@ -245,6 +245,13 @@
         "countryCode": "LK"
     },
     {
+        "code": "BCEYLKLX834",
+        "bankName": "Bank of Ceylon / Premier Br-Kurunegala",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
         "code": "BCEYLKLX448",
         "bankName": "Bank of Ceylon Addalachchenai",
         "agentOption": "SwiftCode",
@@ -1568,20 +1575,6 @@
         "countryCode": "LK"
     },
     {
-        "code": "BCEYLKLX061",
-        "bankName": "Bank of Ceylon Idama Moratuwa",
-        "agentOption": "SwiftCode",
-        "bankCountry": "SRI LANKA",
-        "countryCode": "LK"
-    },
-    {
-        "code": "BCEYLKLX317",
-        "bankName": "Bank of Ceylon Iddangoda",
-        "agentOption": "SwiftCode",
-        "bankCountry": "SRI LANKA",
-        "countryCode": "LK"
-    },
-    {
         "code": "BCEYLKLX377",
         "bankName": "Bank of Ceylon Illavalai",
         "agentOption": "SwiftCode",
@@ -2095,6 +2088,13 @@
     {
         "code": "BCEYLKLX543",
         "bankName": "Bank of Ceylon Kiribathgoda",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "BCEYLKLX317",
+        "bankName": "Bank of Ceylon Kiriella",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -2774,6 +2774,13 @@
     {
         "code": "BCEYLKLX557",
         "bankName": "Bank of Ceylon Moratumulla",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "BCEYLKLX061",
+        "bankName": "Bank of Ceylon Moratuwa",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -4424,6 +4431,13 @@
         "countryCode": "LK"
     },
     {
+        "code": "BCEYLKLX831",
+        "bankName": "Bank of Ceylon/Wayamba Central",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
         "code": "BKCHLKLX888",
         "bankName": "Bank of China LTD Colombo",
         "agentOption": "SwiftCode",
@@ -5161,6 +5175,27 @@
     {
         "code": "DFCCLKLX134",
         "bankName": "DFCC Bank / Aluthgama",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "DFCCLKLX131",
+        "bankName": "DFCC Bank / Haputale",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "DFCCLKLX130",
+        "bankName": "DFCC Bank / Naula",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "DFCCLKLX127",
+        "bankName": "DFCC Bank / Rambukkana",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -6063,7 +6098,7 @@
     },
     {
         "code": "DFCCLKLX125",
-        "bankName": "DFCC Bank Warakapola",
+        "bankName": "DFCC Bank Warakapola ",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -6126,7 +6161,7 @@
     },
     {
         "code": "FINTLKLX001",
-        "bankName": "FINTREX FINANCE LIMITED",
+        "bankName": "FINTREX FINANCE LIMITED ",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -6505,6 +6540,13 @@
     {
         "code": "HBLILKLX215",
         "bankName": "Hatton National Bank Batapola",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HBLILKLX085",
+        "bankName": "Hatton National Bank Battaramulla",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -7112,14 +7154,14 @@
         "countryCode": "LK"
     },
     {
-        "code": "HBLILKLX195",
+        "code": "HBLILKLX146",
         "bankName": "Hatton National Bank Kilinochchi",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
-        "code": "HBLILKLX146",
+        "code": "HBLILKLX195",
         "bankName": "Hatton National Bank Kilinochchi",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
@@ -7854,13 +7896,6 @@
         "countryCode": "LK"
     },
     {
-        "code": "HBLILKLX085",
-        "bankName": "Hatton National Bank Talangama",
-        "agentOption": "SwiftCode",
-        "bankCountry": "SRI LANKA",
-        "countryCode": "LK"
-    },
-    {
         "code": "HBLILKLX086",
         "bankName": "Hatton National Bank Tangalle",
         "agentOption": "SwiftCode",
@@ -8106,498 +8141,554 @@
         "countryCode": "LK"
     },
     {
-        "code": "HNBGLKLX025",
-        "bankName": "HNB Grameen Finance Ambalangoda",
-        "agentOption": "SwiftCode",
-        "bankCountry": "SRI LANKA",
-        "countryCode": "LK"
-    },
-    {
         "code": "HNBGLKLX007",
-        "bankName": "HNB Grameen Finance Ampara",
+        "bankName": "HNB Finance PLC / Ampara",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX011",
-        "bankName": "HNB Grameen Finance Anuradhapura",
+        "bankName": "HNB Finance PLC / Anuradhapura",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX045",
-        "bankName": "HNB Grameen Finance Avissawella",
+        "bankName": "HNB Finance PLC / Avissawella",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX014",
-        "bankName": "HNB Grameen Finance Badulla",
+        "bankName": "HNB Finance PLC / Badulla",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX049",
-        "bankName": "HNB Grameen Finance Balangoda",
+        "bankName": "HNB Finance PLC / Balangoda",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX005",
-        "bankName": "HNB Grameen Finance Bandaragama",
+        "bankName": "HNB Finance PLC / Bandaragama",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX064",
-        "bankName": "HNB Grameen Finance Bandarawela",
+        "bankName": "HNB Finance PLC / Bandarawela",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX019",
-        "bankName": "HNB Grameen Finance Batticoloa",
+        "bankName": "HNB Finance PLC / Batticoloa",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX028",
-        "bankName": "HNB Grameen Finance Beliattha",
+        "bankName": "HNB Finance PLC / Beliattha",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX071",
+        "bankName": "HNB Finance PLC / Borella",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX015",
-        "bankName": "HNB Grameen Finance Chilaw",
+        "bankName": "HNB Finance PLC / Chilaw",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX001",
-        "bankName": "HNB Grameen Finance City",
+        "bankName": "HNB Finance PLC / City",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX023",
-        "bankName": "HNB Grameen Finance Dambulla",
+        "bankName": "HNB Finance PLC / Dambulla",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX069",
-        "bankName": "HNB Grameen Finance Dehiattakandi",
+        "bankName": "HNB Finance PLC / Dehiattakandi",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX029",
-        "bankName": "HNB Grameen Finance Embilipitiya",
+        "bankName": "HNB Finance PLC / Embilipitiya",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX062",
-        "bankName": "HNB Grameen Finance Galenbidunuwe",
+        "bankName": "HNB Finance PLC / Galenbidunuwe",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX040",
-        "bankName": "HNB Grameen Finance Galgamuwa",
+        "bankName": "HNB Finance PLC / Galgamuwa",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX034",
-        "bankName": "HNB Grameen Finance Galle",
+        "bankName": "HNB Finance PLC / Galle",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX042",
-        "bankName": "HNB Grameen Finance Gampaha",
+        "bankName": "HNB Finance PLC / Gampaha",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX073",
+        "bankName": "HNB Finance PLC / Gampaha 2",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX033",
-        "bankName": "HNB Grameen Finance Hambantota",
+        "bankName": "HNB Finance PLC / Hambantota",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX067",
-        "bankName": "HNB Grameen Finance Hatton",
+        "bankName": "HNB Finance PLC / Hatton",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX999",
-        "bankName": "HNB Grameen Finance Head Office",
+        "bankName": "HNB Finance PLC / Head Office",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX070",
-        "bankName": "HNB Grameen Finance Head Office B",
+        "bankName": "HNB Finance PLC / Head Office Branch",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX026",
-        "bankName": "HNB Grameen Finance Homagama",
+        "bankName": "HNB Finance PLC / Homagama",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX037",
-        "bankName": "HNB Grameen Finance Horana",
+        "bankName": "HNB Finance PLC / Horana",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX020",
-        "bankName": "HNB Grameen Finance Jaela",
+        "bankName": "HNB Finance PLC / Jaela",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX003",
-        "bankName": "HNB Grameen Finance Jaffna",
+        "bankName": "HNB Finance PLC / Jaffna",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX046",
-        "bankName": "HNB Grameen Finance Kaduwela",
+        "bankName": "HNB Finance PLC / Kaduwela",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX050",
-        "bankName": "HNB Grameen Finance Kalmunai",
+        "bankName": "HNB Finance PLC / Kalmunai",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX018",
-        "bankName": "HNB Grameen Finance Kalutara",
+        "bankName": "HNB Finance PLC / Kalutara",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX010",
-        "bankName": "HNB Grameen Finance Kandy",
+        "bankName": "HNB Finance PLC / Kandy",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX024",
-        "bankName": "HNB Grameen Finance Kantale",
+        "bankName": "HNB Finance PLC / Kantale",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX072",
+        "bankName": "HNB Finance PLC / Katugastota",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX017",
-        "bankName": "HNB Grameen Finance Kegalle",
+        "bankName": "HNB Finance PLC / Kegalle",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX061",
-        "bankName": "HNB Grameen Finance Kekirawa",
+        "bankName": "HNB Finance PLC / Kekirawa",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX060",
-        "bankName": "HNB Grameen Finance Kilinochchi",
+        "bankName": "HNB Finance PLC / Kilinochchi",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX077",
+        "bankName": "HNB Finance PLC / Kiribathgoda",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX057",
-        "bankName": "HNB Grameen Finance Kuliyapitiya",
+        "bankName": "HNB Finance PLC / Kuliyapitiya",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX008",
-        "bankName": "HNB Grameen Finance Kurunegala",
+        "bankName": "HNB Finance PLC / Kurunegala",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX074",
+        "bankName": "HNB Finance PLC / Kurunegala Metro",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX079",
+        "bankName": "HNB Finance PLC / Maharagama",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX031",
-        "bankName": "HNB Grameen Finance Mahiyanganaya",
+        "bankName": "HNB Finance PLC / Mahiyanganaya",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX054",
-        "bankName": "HNB Grameen Finance Mallavi",
+        "bankName": "HNB Finance PLC / Mallavi",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX047",
-        "bankName": "HNB Grameen Finance Mannar",
+        "bankName": "HNB Finance PLC / Mannar",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX076",
+        "bankName": "HNB Finance PLC / Marawila",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX013",
-        "bankName": "HNB Grameen Finance Matale",
+        "bankName": "HNB Finance PLC / Matale",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX021",
-        "bankName": "HNB Grameen Finance Matara",
+        "bankName": "HNB Finance PLC / Matara",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX035",
-        "bankName": "HNB Grameen Finance Mathugama",
+        "bankName": "HNB Finance PLC / Mathugama",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX036",
-        "bankName": "HNB Grameen Finance Medawachchiya",
+        "bankName": "HNB Finance PLC / Medawachchiya",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX032",
-        "bankName": "HNB Grameen Finance Monaragala",
+        "bankName": "HNB Finance PLC / Monaragala",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX002",
-        "bankName": "HNB Grameen Finance Moratuwa",
+        "bankName": "HNB Finance PLC / Moratuwa",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX056",
-        "bankName": "HNB Grameen Finance Morawaka",
+        "bankName": "HNB Finance PLC / Morawaka",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX052",
-        "bankName": "HNB Grameen Finance Mullaitivu",
+        "bankName": "HNB Finance PLC / Mullaitivu",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX043",
-        "bankName": "HNB Grameen Finance Nawalapitiya",
+        "bankName": "HNB Finance PLC / Nawalapitiya",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX058",
-        "bankName": "HNB Grameen Finance Nedunkerni",
+        "bankName": "HNB Finance PLC / Nedunkerni",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX027",
-        "bankName": "HNB Grameen Finance Negombo",
+        "bankName": "HNB Finance PLC / Negombo",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX051",
-        "bankName": "HNB Grameen Finance Nellyadi",
+        "bankName": "HNB Finance PLC / Nellyadi",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX039",
-        "bankName": "HNB Grameen Finance Nikaweratiya",
+        "bankName": "HNB Finance PLC / Nikaweratiya",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX041",
-        "bankName": "HNB Grameen Finance Nittambuwa",
+        "bankName": "HNB Finance PLC / Nittambuwa",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX059",
-        "bankName": "HNB Grameen Finance Nochchiyagama",
+        "bankName": "HNB Finance PLC / Nochchiyagama",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX055",
-        "bankName": "HNB Grameen Finance Norochchole",
+        "bankName": "HNB Finance PLC / Norochchole",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX012",
-        "bankName": "HNB Grameen Finance Nuwaraeliya",
+        "bankName": "HNB Finance PLC / Nuwaraeliya",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX048",
-        "bankName": "HNB Grameen Finance Padaviya",
+        "bankName": "HNB Finance PLC / Padaviya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX075",
+        "bankName": "HNB Finance PLC / Panadura",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "HNBGLKLX078",
+        "bankName": "HNB Finance PLC / Piliyandala",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX068",
-        "bankName": "HNB Grameen Finance Pitigala",
+        "bankName": "HNB Finance PLC / Pitigala",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX030",
-        "bankName": "HNB Grameen Finance Polonnaruwa",
+        "bankName": "HNB Finance PLC / Polonnaruwa",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX053",
-        "bankName": "HNB Grameen Finance Pothuvil",
+        "bankName": "HNB Finance PLC / Pothuvil",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX016",
-        "bankName": "HNB Grameen Finance Puttalam",
+        "bankName": "HNB Finance PLC / Puttalam",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX038",
-        "bankName": "HNB Grameen Finance Ratnapura",
+        "bankName": "HNB Finance PLC / Ratnapura",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX063",
-        "bankName": "HNB Grameen Finance Rikillagaskada",
+        "bankName": "HNB Finance PLC / Rikillagaskad",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX066",
-        "bankName": "HNB Grameen Finance Thissamaharam",
+        "bankName": "HNB Finance PLC / Thissamaharam",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX004",
-        "bankName": "HNB Grameen Finance Trincomalee",
+        "bankName": "HNB Finance PLC / Trincomalee",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX006",
-        "bankName": "HNB Grameen Finance Vavuniya",
+        "bankName": "HNB Finance PLC / Vavuniya",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX065",
-        "bankName": "HNB Grameen Finance Walapane",
+        "bankName": "HNB Finance PLC / Walapane",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX009",
-        "bankName": "HNB Grameen Finance Wattala",
+        "bankName": "HNB Finance PLC / Wattala",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX022",
-        "bankName": "HNB Grameen Finance Welimada",
+        "bankName": "HNB Finance PLC / Welimada",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
     },
     {
         "code": "HNBGLKLX044",
-        "bankName": "HNB Grameen Finance Wennappuwa",
+        "bankName": "HNB Finance PLC / Wennappuwa",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -8661,6 +8752,13 @@
     {
         "code": "KANRLKLX001",
         "bankName": "Kanrich Finance Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "LBFILKLX210",
+        "bankName": "LB Finance / Panadura Premier",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -12433,7 +12531,7 @@
     },
     {
         "code": "NSBKLKLX075",
-        "bankName": "NSB Kadawatte",
+        "bankName": "NSB Kadawatha",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -14891,6 +14989,13 @@
     {
         "code": "PSBKLKLX363",
         "bankName": "Peoples Bank / Gelioya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "PSBKLKLX366",
+        "bankName": "Peoples Bank / Padukka",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -17444,6 +17549,13 @@
         "countryCode": "LK"
     },
     {
+        "code": "PCRBLKLX105",
+        "bankName": "PCRB / Uhumeeya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
         "code": "PCRBLKLX110",
         "bankName": "PCRB Bandawa",
         "agentOption": "SwiftCode",
@@ -17529,7 +17641,7 @@
     },
     {
         "code": "PCRBLKLX104",
-        "bankName": "PCRB Uhumeeya",
+        "bankName": "PCRB Wadakada",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -22659,13 +22771,6 @@
         "countryCode": "LK"
     },
     {
-        "code": "SEYBLKLX089",
-        "bankName": "Seylan Bank Meegoda",
-        "agentOption": "SwiftCode",
-        "bankCountry": "SRI LANKA",
-        "countryCode": "LK"
-    },
-    {
         "code": "SEYBLKLX086",
         "bankName": "Seylan Bank Millennium",
         "agentOption": "SwiftCode",
@@ -23403,6 +23508,13 @@
     {
         "code": "SINGLKLX001",
         "bankName": "SINGER FINANCE / Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "SMIBLKLX026",
+        "bankName": "SMIB / Panadura",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
