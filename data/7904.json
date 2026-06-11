@@ -1,0 +1,1370 @@
+[
+  {
+    "branchCodeUnique": "7904025",
+    "branchCode": "025",
+    "branchName": "AMBALANGODA",
+    "branchAddress": "AMBALANGODA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904007",
+    "branchCode": "007",
+    "branchName": "AMPARA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904011",
+    "branchCode": "011",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904045",
+    "branchCode": "045",
+    "branchName": "AVISAWELLA",
+    "branchAddress": "AVISSAWELLA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904014",
+    "branchCode": "014",
+    "branchName": "BADULLA",
+    "branchAddress": "BADULLA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904049",
+    "branchCode": "049",
+    "branchName": "BALANGODA",
+    "branchAddress": "BALANGODA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904005",
+    "branchCode": "005",
+    "branchName": "BANDARAGAMA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904064",
+    "branchCode": "064",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "BANDARAWELA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904019",
+    "branchCode": "019",
+    "branchName": "BATTICOLOA",
+    "branchAddress": "BATTICOLOA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904028",
+    "branchCode": "028",
+    "branchName": "BELIATTA",
+    "branchAddress": "BELIATTA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904015",
+    "branchCode": "015",
+    "branchName": "CHILAW",
+    "branchAddress": "CHILAW",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904001",
+    "branchCode": "001",
+    "branchName": "CITY",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904023",
+    "branchCode": "023",
+    "branchName": "DAMBULLA",
+    "branchAddress": "DAMBULLA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904069",
+    "branchCode": "069",
+    "branchName": "DEHIATTAKANDIYA",
+    "branchAddress": "DEHIATTAKANDIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904029",
+    "branchCode": "029",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "EMBILIPITIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904062",
+    "branchCode": "062",
+    "branchName": "GALENBINDUNUWEWA",
+    "branchAddress": "GALENBINDUNUWEWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904040",
+    "branchCode": "040",
+    "branchName": "GALGAMUWA",
+    "branchAddress": "GALGAMUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904034",
+    "branchCode": "034",
+    "branchName": "GALLE",
+    "branchAddress": "GALLE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904042",
+    "branchCode": "042",
+    "branchName": "GAMPAHA",
+    "branchAddress": "GAMPAHA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904033",
+    "branchCode": "033",
+    "branchName": "HAMBANTOTA",
+    "branchAddress": "HAMBANTOTA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904067",
+    "branchCode": "067",
+    "branchName": "HATTON",
+    "branchAddress": "HATTON",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "HEAD OFFICE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904026",
+    "branchCode": "026",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "HOMAGAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904037",
+    "branchCode": "037",
+    "branchName": "HORANA",
+    "branchAddress": "HORANA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904020",
+    "branchCode": "020",
+    "branchName": "JA-ELA",
+    "branchAddress": "JA-ELA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904003",
+    "branchCode": "003",
+    "branchName": "JAFFNA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904046",
+    "branchCode": "046",
+    "branchName": "KADUWELA",
+    "branchAddress": "KADUWELA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904050",
+    "branchCode": "050",
+    "branchName": "KALMUNAI",
+    "branchAddress": "KALMUNAI",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904018",
+    "branchCode": "018",
+    "branchName": "KALUTARA",
+    "branchAddress": "KALUTARA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904010",
+    "branchCode": "010",
+    "branchName": "KANDY",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904024",
+    "branchCode": "024",
+    "branchName": "KANTALE",
+    "branchAddress": "KANTALE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904017",
+    "branchCode": "017",
+    "branchName": "KEGALLE",
+    "branchAddress": "KEGALLE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904061",
+    "branchCode": "061",
+    "branchName": "KEKIRAWA",
+    "branchAddress": "KEKIRAWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904060",
+    "branchCode": "060",
+    "branchName": "KILINOCHCHIYA",
+    "branchAddress": "KILINOCHCHIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904057",
+    "branchCode": "057",
+    "branchName": "KULIYAPITIYA",
+    "branchAddress": "KULIYAPITIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904008",
+    "branchCode": "008",
+    "branchName": "KURUNEGALA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904031",
+    "branchCode": "031",
+    "branchName": "MAHIYANGANAYA",
+    "branchAddress": "MAHIYANGANAYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904054",
+    "branchCode": "054",
+    "branchName": "MALLAVI",
+    "branchAddress": "MALLAVI",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904047",
+    "branchCode": "047",
+    "branchName": "MANNAR",
+    "branchAddress": "MANNAR",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904013",
+    "branchCode": "013",
+    "branchName": "MATALE",
+    "branchAddress": "MATALE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904021",
+    "branchCode": "021",
+    "branchName": "MATARA",
+    "branchAddress": "MATARA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904035",
+    "branchCode": "035",
+    "branchName": "MATHUGAMA",
+    "branchAddress": "MATHUGAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904036",
+    "branchCode": "036",
+    "branchName": "MEDAWACHCHIYA",
+    "branchAddress": "MEDAWACHCHIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904032",
+    "branchCode": "032",
+    "branchName": "MONERAGALA",
+    "branchAddress": "MONERAGALA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904002",
+    "branchCode": "002",
+    "branchName": "MORATUWA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904056",
+    "branchCode": "056",
+    "branchName": "MORAWAKA",
+    "branchAddress": "MORAWAKA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904052",
+    "branchCode": "052",
+    "branchName": "MULLATIVU",
+    "branchAddress": "MULLATIVU",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904043",
+    "branchCode": "043",
+    "branchName": "NAWALAPITIYA",
+    "branchAddress": "NAWALAPITIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904058",
+    "branchCode": "058",
+    "branchName": "NEDUNKERNI",
+    "branchAddress": "NEDUNKERNI",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904027",
+    "branchCode": "027",
+    "branchName": "NEGAMBO",
+    "branchAddress": "NEGAMBO",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904051",
+    "branchCode": "051",
+    "branchName": "NELLIYADI",
+    "branchAddress": "NELLIYADI",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "79040510",
+    "branchCode": "0510",
+    "branchName": "NELLIYADI",
+    "branchAddress": "NELLIYADI",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904039",
+    "branchCode": "039",
+    "branchName": "NIKAWERATIYA",
+    "branchAddress": "NIKAWERATIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904041",
+    "branchCode": "041",
+    "branchName": "NITTAMBUWA",
+    "branchAddress": "NITTAMBUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904059",
+    "branchCode": "059",
+    "branchName": "NOCHCHIYAGAMA",
+    "branchAddress": "NOCHCHIYAGAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904055",
+    "branchCode": "055",
+    "branchName": "NOROCHCHOLE",
+    "branchAddress": "NOROCHCHOLE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904012",
+    "branchCode": "012",
+    "branchName": "NUWARA ELIYA",
+    "branchAddress": "NUWARA ELIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904048",
+    "branchCode": "048",
+    "branchName": "PADAVIYA",
+    "branchAddress": "PADAVIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904078",
+    "branchCode": "078",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "Piliyandala",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904068",
+    "branchCode": "068",
+    "branchName": "PITIGALA",
+    "branchAddress": "PITIGALA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904030",
+    "branchCode": "030",
+    "branchName": "POLONNARUWA",
+    "branchAddress": "POLONNARUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904053",
+    "branchCode": "053",
+    "branchName": "POTHUVIL",
+    "branchAddress": "POTHUVIL",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904016",
+    "branchCode": "016",
+    "branchName": "PUTTALAM",
+    "branchAddress": "PUTTALAM",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904038",
+    "branchCode": "038",
+    "branchName": "RATHNAPURA",
+    "branchAddress": "RATHNAPURA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904063",
+    "branchCode": "063",
+    "branchName": "RIKILLAGASKADA",
+    "branchAddress": "RIKILLAGASKADA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904066",
+    "branchCode": "066",
+    "branchName": "THISSAMAHARAMAYA",
+    "branchAddress": "THISSAMAHARAMAYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904004",
+    "branchCode": "004",
+    "branchName": "TRINCOMALEE",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904006",
+    "branchCode": "006",
+    "branchName": "VAVUNIYA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904065",
+    "branchCode": "065",
+    "branchName": "WALAPANE",
+    "branchAddress": "WALAPANE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904009",
+    "branchCode": "009",
+    "branchName": "WATTALA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904022",
+    "branchCode": "022",
+    "branchName": "WELIMADA",
+    "branchAddress": "WELIMADA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7904044",
+    "branchCode": "044",
+    "branchName": "WENNAPPUWA",
+    "branchAddress": "WENNAPPUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7904",
+      "bankName": "HNB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6904"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

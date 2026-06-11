@@ -1,0 +1,78 @@
+[
+  {
+    "branchCodeUnique": "7825001",
+    "branchCode": "001",
+    "branchName": "COLOMBO BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7825",
+      "bankName": "CENTRAL FINANCE COMP",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6825"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7825010",
+    "branchCode": "010",
+    "branchName": "GALLE",
+    "branchAddress": "Galle",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7825",
+      "bankName": "CENTRAL FINANCE COMP",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6825"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7825002",
+    "branchCode": "002",
+    "branchName": "KANDY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7825",
+      "bankName": "CENTRAL FINANCE COMP",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6825"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7825016",
+    "branchCode": "016",
+    "branchName": "NUGEGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7825",
+      "bankName": "CENTRAL FINANCE COMP",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6825"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

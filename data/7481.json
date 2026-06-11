@@ -1,0 +1,363 @@
+[
+  {
+    "branchCodeUnique": "7481025",
+    "branchCode": "025",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "Bandarawela",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481925",
+    "branchCode": "925",
+    "branchName": "CENTAL PROCE. UNIT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481017",
+    "branchCode": "017",
+    "branchName": "CHILAW",
+    "branchAddress": "No 98, COLOMBO ROAD, CHILAW",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481011",
+    "branchCode": "011",
+    "branchName": "CHUNNAKKAM",
+    "branchAddress": "CHUNNAKKAM",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481001",
+    "branchCode": "001",
+    "branchName": "CORPORATE BRANCH",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": true,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481021",
+    "branchCode": "021",
+    "branchName": "FORT BRANCH",
+    "branchAddress": "FORT",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "748110",
+    "branchCode": "10",
+    "branchName": "JAFFNA CITY CENTER",
+    "branchAddress": "JAFFNA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481019",
+    "branchCode": "019",
+    "branchName": "KADURUWELA",
+    "branchAddress": "KADURUWELA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481009",
+    "branchCode": "009",
+    "branchName": "KURUNAGALA BRANCH",
+    "branchAddress": "KURUNAGALA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481005",
+    "branchCode": "005",
+    "branchName": "MAHARAGAMA BRANCH",
+    "branchAddress": "MAHARAGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481002",
+    "branchCode": "002",
+    "branchName": "MAITLAND CRESCENT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481004",
+    "branchCode": "004",
+    "branchName": "MATARA BRANCH",
+    "branchAddress": "MATARA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481022",
+    "branchCode": "022",
+    "branchName": "NAWALAPITIYA BRANCH",
+    "branchAddress": "NAWALAPITIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481023",
+    "branchCode": "023",
+    "branchName": "NEGOMBO",
+    "branchAddress": "Negombo",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481003",
+    "branchCode": "003",
+    "branchName": "OLD MOOR STREET BRA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481015",
+    "branchCode": "015",
+    "branchName": "PERADENIYA",
+    "branchAddress": "PERADENIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481020",
+    "branchCode": "020",
+    "branchName": "RAJAGIRIYA",
+    "branchAddress": "RAJAGIRIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481006",
+    "branchCode": "006",
+    "branchName": "VAVUNIYA",
+    "branchAddress": "VAVUNIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7481018",
+    "branchCode": "018",
+    "branchName": "WATTALA",
+    "branchAddress": "Wattala",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7481",
+      "bankName": "CARGILLS BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6481"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

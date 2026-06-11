@@ -1,0 +1,4961 @@
+[
+  {
+    "branchCodeUnique": "7719158",
+    "branchCode": "158",
+    "branchName": "AHANGAMA",
+    "branchAddress": "AHANGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719752",
+    "branchCode": "752",
+    "branchName": "AKKARAIPATTU",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719055",
+    "branchCode": "055",
+    "branchName": "AKURESSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719132",
+    "branchCode": "132",
+    "branchName": "ALAWATHUGODA BRN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719742",
+    "branchCode": "742",
+    "branchName": "ALAWWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719105",
+    "branchCode": "105",
+    "branchName": "ALUTHGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719033",
+    "branchCode": "033",
+    "branchName": "AMBALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719011",
+    "branchCode": "011",
+    "branchName": "AMBALANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719030",
+    "branchCode": "030",
+    "branchName": "AMPARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719746",
+    "branchCode": "746",
+    "branchName": "ANAMADUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719760",
+    "branchCode": "760",
+    "branchName": "ANGUNAKOLAPELESSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719005",
+    "branchCode": "005",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719721",
+    "branchCode": "721",
+    "branchName": "ARANAYAKE PIYASA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719727",
+    "branchCode": "727",
+    "branchName": "ARAYAMPATHY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719718",
+    "branchCode": "718",
+    "branchName": "ATCHUVELY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719703",
+    "branchCode": "703",
+    "branchName": "ATHURUGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719057",
+    "branchCode": "057",
+    "branchName": "AVISSAWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719128",
+    "branchCode": "128",
+    "branchName": "BADALKUMBURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719734",
+    "branchCode": "734",
+    "branchName": "BADDEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719022",
+    "branchCode": "022",
+    "branchName": "BADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719786",
+    "branchCode": "786",
+    "branchName": "BADURALIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719091",
+    "branchCode": "091",
+    "branchName": "BALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719023",
+    "branchCode": "023",
+    "branchName": "BAMBALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719126",
+    "branchCode": "126",
+    "branchName": "BANDARAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719060",
+    "branchCode": "060",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719080",
+    "branchCode": "080",
+    "branchName": "BATTARAMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719021",
+    "branchCode": "021",
+    "branchName": "BATTICALOA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719048",
+    "branchCode": "048",
+    "branchName": "BELIATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719028",
+    "branchCode": "028",
+    "branchName": "BERUWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719708",
+    "branchCode": "708",
+    "branchName": "BIBILE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719785",
+    "branchCode": "785",
+    "branchName": "BINGIRIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719124",
+    "branchCode": "124",
+    "branchName": "BORALESGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719061",
+    "branchCode": "061",
+    "branchName": "BORELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719912",
+    "branchCode": "912",
+    "branchName": "BR. MANAGEMENT DIV",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719710",
+    "branchCode": "710",
+    "branchName": "BULATHKOHUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719738",
+    "branchCode": "738",
+    "branchName": "BULATHSINHALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719741",
+    "branchCode": "741",
+    "branchName": "BUTTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719725",
+    "branchCode": "725",
+    "branchName": "CHANKANAI PIYASA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719073",
+    "branchCode": "073",
+    "branchName": "CHAVAKACHCHERI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719109",
+    "branchCode": "109",
+    "branchName": "CHENKALADI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719007",
+    "branchCode": "007",
+    "branchName": "CHILAW",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719072",
+    "branchCode": "072",
+    "branchName": "CHUNNAKAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719002",
+    "branchCode": "002",
+    "branchName": "CITY OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719149",
+    "branchCode": "149",
+    "branchName": "CITY PLUS BRANCH",
+    "branchAddress": "CITY PLUS BRANCH",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719910",
+    "branchCode": "910",
+    "branchName": "CREDIT DIVISION H.L",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719103",
+    "branchCode": "103",
+    "branchName": "DAMBULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719129",
+    "branchCode": "129",
+    "branchName": "DANKOTUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719024",
+    "branchCode": "024",
+    "branchName": "DEHIWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719747",
+    "branchCode": "747",
+    "branchName": "DELGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719119",
+    "branchCode": "119",
+    "branchName": "DELKANDA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719783",
+    "branchCode": "783",
+    "branchName": "DELTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719054",
+    "branchCode": "054",
+    "branchName": "DENIYAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719112",
+    "branchCode": "112",
+    "branchName": "DERANIYAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719039",
+    "branchCode": "039",
+    "branchName": "DEVINUWARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719748",
+    "branchCode": "748",
+    "branchName": "DIGANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719082",
+    "branchCode": "082",
+    "branchName": "DIKWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719096",
+    "branchCode": "096",
+    "branchName": "DIVULAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719917",
+    "branchCode": "917",
+    "branchName": "EHELIYAGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719094",
+    "branchCode": "094",
+    "branchName": "ELPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719013",
+    "branchCode": "013",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719788",
+    "branchCode": "788",
+    "branchName": "EPPAWALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719137",
+    "branchCode": "137",
+    "branchName": "GALENBINDUNUWEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719755",
+    "branchCode": "755",
+    "branchName": "GALEWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719729",
+    "branchCode": "729",
+    "branchName": "GALGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719003",
+    "branchCode": "003",
+    "branchName": "GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719058",
+    "branchCode": "058",
+    "branchName": "GALNEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719037",
+    "branchCode": "037",
+    "branchName": "GAMPAHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719074",
+    "branchCode": "074",
+    "branchName": "GAMPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719705",
+    "branchCode": "705",
+    "branchName": "GANEMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719791",
+    "branchCode": "791",
+    "branchName": "GELIOYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719784",
+    "branchCode": "784",
+    "branchName": "GINIGATHHENA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719787",
+    "branchCode": "787",
+    "branchName": "GIRIULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719133",
+    "branchCode": "133",
+    "branchName": "GODAKAWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719735",
+    "branchCode": "735",
+    "branchName": "HABARADUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719062",
+    "branchCode": "062",
+    "branchName": "HAKMANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719751",
+    "branchCode": "751",
+    "branchName": "HALI ELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719781",
+    "branchCode": "781",
+    "branchName": "HAMBANTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719750",
+    "branchCode": "750",
+    "branchName": "HANWELLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719116",
+    "branchCode": "116",
+    "branchName": "HATTON BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719709",
+    "branchCode": "709",
+    "branchName": "HETTIPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719113",
+    "branchCode": "113",
+    "branchName": "HIKKADUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719076",
+    "branchCode": "076",
+    "branchName": "HINGURAKGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719027",
+    "branchCode": "027",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719063",
+    "branchCode": "063",
+    "branchName": "HORANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719136",
+    "branchCode": "136",
+    "branchName": "HOROWPATHANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719771",
+    "branchCode": "771",
+    "branchName": "IBBAGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719911",
+    "branchCode": "911",
+    "branchName": "IBU (NRFC)",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719757",
+    "branchCode": "757",
+    "branchName": "IMADUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719764",
+    "branchCode": "764",
+    "branchName": "INGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719036",
+    "branchCode": "036",
+    "branchName": "JA-ELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719006",
+    "branchCode": "006",
+    "branchName": "JAFFNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719916",
+    "branchCode": "916",
+    "branchName": "JAFFNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719075",
+    "branchCode": "075",
+    "branchName": "KADAWATHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719095",
+    "branchCode": "095",
+    "branchName": "KADUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719122",
+    "branchCode": "122",
+    "branchName": "KADUWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719759",
+    "branchCode": "759",
+    "branchName": "KAHATAGASDIGILIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719104",
+    "branchCode": "104",
+    "branchName": "KAHATUDUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719737",
+    "branchCode": "737",
+    "branchName": "KAHAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719739",
+    "branchCode": "739",
+    "branchName": "KALAWANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719047",
+    "branchCode": "047",
+    "branchName": "KALMUNAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719115",
+    "branchCode": "115",
+    "branchName": "KALUBOWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719012",
+    "branchCode": "012",
+    "branchName": "KALUTARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719114",
+    "branchCode": "114",
+    "branchName": "KALUWNCHIKUDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719086",
+    "branchCode": "086",
+    "branchName": "KAMBURUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719141",
+    "branchCode": "141",
+    "branchName": "KANDANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719015",
+    "branchCode": "015",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719081",
+    "branchCode": "081",
+    "branchName": "KANDY 2",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719711",
+    "branchCode": "711",
+    "branchName": "KANDY CITY CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719762",
+    "branchCode": "762",
+    "branchName": "KANTALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719731",
+    "branchCode": "731",
+    "branchName": "KARAINAGAR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719121",
+    "branchCode": "121",
+    "branchName": "KARAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719093",
+    "branchCode": "093",
+    "branchName": "KATUBEDDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719723",
+    "branchCode": "723",
+    "branchName": "KATUGASTOTA PIYASA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719052",
+    "branchCode": "052",
+    "branchName": "KATUNAYAKE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719730",
+    "branchCode": "730",
+    "branchName": "KAYTS",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719767",
+    "branchCode": "767",
+    "branchName": "KEBITHIGOLLAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719018",
+    "branchCode": "018",
+    "branchName": "KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719775",
+    "branchCode": "775",
+    "branchName": "KEKANADURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719014",
+    "branchCode": "014",
+    "branchName": "KEKIRAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719716",
+    "branchCode": "716",
+    "branchName": "KELANIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719019",
+    "branchCode": "019",
+    "branchName": "KILINOCHCHI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719067",
+    "branchCode": "067",
+    "branchName": "KIRIBATHGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719778",
+    "branchCode": "778",
+    "branchName": "KIRIELLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719099",
+    "branchCode": "099",
+    "branchName": "KIRINDIWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719031",
+    "branchCode": "031",
+    "branchName": "KOCHCHIKADE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719131",
+    "branchCode": "131",
+    "branchName": "KODIKAMAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719065",
+    "branchCode": "065",
+    "branchName": "KOLLUPITIYA 2",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719147",
+    "branchCode": "147",
+    "branchName": "KOPAY BRANCH",
+    "branchAddress": "KOPAY",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719087",
+    "branchCode": "087",
+    "branchName": "KOTAHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719102",
+    "branchCode": "102",
+    "branchName": "KOTTAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719008",
+    "branchCode": "008",
+    "branchName": "KULIYAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719017",
+    "branchCode": "017",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719772",
+    "branchCode": "772",
+    "branchName": "KURUWITA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719761",
+    "branchCode": "761",
+    "branchName": "MADAMPE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719083",
+    "branchCode": "083",
+    "branchName": "MAHABAGE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719053",
+    "branchCode": "053",
+    "branchName": "MAHARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719041",
+    "branchCode": "041",
+    "branchName": "MAHIYANGANAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719142",
+    "branchCode": "142",
+    "branchName": "MAHO BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719153",
+    "branchCode": "153",
+    "branchName": "MAKOLA",
+    "branchAddress": "makola",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719123",
+    "branchCode": "123",
+    "branchName": "MALABE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719077",
+    "branchCode": "077",
+    "branchName": "MALIGAWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719774",
+    "branchCode": "774",
+    "branchName": "MALLAVI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719107",
+    "branchCode": "107",
+    "branchName": "MANIPAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719049",
+    "branchCode": "049",
+    "branchName": "MANNAR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719069",
+    "branchCode": "069",
+    "branchName": "MARAWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719016",
+    "branchCode": "016",
+    "branchName": "MATALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719004",
+    "branchCode": "004",
+    "branchName": "MATARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719045",
+    "branchCode": "045",
+    "branchName": "MATHUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719059",
+    "branchCode": "059",
+    "branchName": "MAWANELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719749",
+    "branchCode": "749",
+    "branchName": "MAWATHAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719763",
+    "branchCode": "763",
+    "branchName": "MEDAWACHCHIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719776",
+    "branchCode": "776",
+    "branchName": "MEDIRIGIRIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719106",
+    "branchCode": "106",
+    "branchName": "MEEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719780",
+    "branchCode": "780",
+    "branchName": "MELSIRIPURA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719724",
+    "branchCode": "724",
+    "branchName": "MIDDENIYA PIYASA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719098",
+    "branchCode": "098",
+    "branchName": "MINUWANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719079",
+    "branchCode": "079",
+    "branchName": "MIRIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719046",
+    "branchCode": "046",
+    "branchName": "MONARAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719125",
+    "branchCode": "125",
+    "branchName": "MORATUMULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719020",
+    "branchCode": "020",
+    "branchName": "MORATUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719090",
+    "branchCode": "090",
+    "branchName": "MORAWAKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719068",
+    "branchCode": "068",
+    "branchName": "MOUNT LAVINIA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719127",
+    "branchCode": "127",
+    "branchName": "MULGAMPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719130",
+    "branchCode": "130",
+    "branchName": "MULLATIVE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719733",
+    "branchCode": "733",
+    "branchName": "MULLERIYAWA NEW TWN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719732",
+    "branchCode": "732",
+    "branchName": "MUTWAL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719064",
+    "branchCode": "064",
+    "branchName": "NARAHENPITA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719707",
+    "branchCode": "707",
+    "branchName": "NARAMMALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719034",
+    "branchCode": "034",
+    "branchName": "NATTANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719779",
+    "branchCode": "779",
+    "branchName": "NAULA BRANCH",
+    "branchAddress": "NAULA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719111",
+    "branchCode": "111",
+    "branchName": "NAWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719050",
+    "branchCode": "050",
+    "branchName": "NAWALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719009",
+    "branchCode": "009",
+    "branchName": "NEGOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719717",
+    "branchCode": "717",
+    "branchName": "NELLIADY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719704",
+    "branchCode": "704",
+    "branchName": "NELUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719040",
+    "branchCode": "040",
+    "branchName": "NIKAWERATIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719100",
+    "branchCode": "100",
+    "branchName": "NITTAMBUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719777",
+    "branchCode": "777",
+    "branchName": "NIVITHIGALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719745",
+    "branchCode": "745",
+    "branchName": "NOCHCHIYAGAMA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719026",
+    "branchCode": "026",
+    "branchName": "NUGEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719056",
+    "branchCode": "056",
+    "branchName": "NUWARAELIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719753",
+    "branchCode": "753",
+    "branchName": "PALURAMAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719043",
+    "branchCode": "043",
+    "branchName": "PANADURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719152",
+    "branchCode": "152",
+    "branchName": "PANNALA",
+    "branchAddress": "PANNALA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719758",
+    "branchCode": "758",
+    "branchName": "PASSARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719909",
+    "branchCode": "909",
+    "branchName": "PBU AMPARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719906",
+    "branchCode": "906",
+    "branchName": "PBU ANURADHAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719903",
+    "branchCode": "903",
+    "branchName": "PBU GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719908",
+    "branchCode": "908",
+    "branchName": "PBU GAMPAHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719901",
+    "branchCode": "901",
+    "branchName": "PBU HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719907",
+    "branchCode": "907",
+    "branchName": "PBU KALUTARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719902",
+    "branchCode": "902",
+    "branchName": "PBU KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719905",
+    "branchCode": "905",
+    "branchName": "PBU KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719915",
+    "branchCode": "915",
+    "branchName": "PBU KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719904",
+    "branchCode": "904",
+    "branchName": "PBU MATARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719025",
+    "branchCode": "025",
+    "branchName": "PELIYAGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719736",
+    "branchCode": "736",
+    "branchName": "PELMADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719148",
+    "branchCode": "148",
+    "branchName": "PERADENIYA BRANCH",
+    "branchAddress": "PERADENIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719134",
+    "branchCode": "134",
+    "branchName": "PERIYAKALLAR BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719051",
+    "branchCode": "051",
+    "branchName": "PETTAH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719084",
+    "branchCode": "084",
+    "branchName": "PILIMATALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719071",
+    "branchCode": "071",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719150",
+    "branchCode": "150",
+    "branchName": "PILIYANDALA 2ND",
+    "branchAddress": "PILIYANDALA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719138",
+    "branchCode": "138",
+    "branchName": "PITAKOTTE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719139",
+    "branchCode": "139",
+    "branchName": "PITIGALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719032",
+    "branchCode": "032",
+    "branchName": "POINT PEDRO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719726",
+    "branchCode": "726",
+    "branchName": "POLGAHAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719159",
+    "branchCode": "159",
+    "branchName": "POLPITHIGAMA",
+    "branchAddress": "Polpithigama",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719770",
+    "branchCode": "770",
+    "branchName": "POTHUVIL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719790",
+    "branchCode": "790",
+    "branchName": "PUGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719744",
+    "branchCode": "744",
+    "branchName": "PUNDALUOYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719769",
+    "branchCode": "769",
+    "branchName": "PUSSELLAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719044",
+    "branchCode": "044",
+    "branchName": "PUTTALAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719719",
+    "branchCode": "719",
+    "branchName": "PUWAKARAMBA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719728",
+    "branchCode": "728",
+    "branchName": "RADDOLUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719792",
+    "branchCode": "792",
+    "branchName": "RAGALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719701",
+    "branchCode": "701",
+    "branchName": "RAGAMA - NSB PIYASA",
+    "branchAddress": "RAGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719765",
+    "branchCode": "765",
+    "branchName": "RAMBUKKANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719010",
+    "branchCode": "010",
+    "branchName": "RATNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719782",
+    "branchCode": "782",
+    "branchName": "RIDEEGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719722",
+    "branchCode": "722",
+    "branchName": "RIKILLAGASKADA PIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719035",
+    "branchCode": "035",
+    "branchName": "RUWANWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719118",
+    "branchCode": "118",
+    "branchName": "SAMANTHURAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719146",
+    "branchCode": "146",
+    "branchName": "SIYAMBALANDUWA",
+    "branchAddress": "Siyambalanduwa",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719754",
+    "branchCode": "754",
+    "branchName": "SOORIYAWEWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719756",
+    "branchCode": "756",
+    "branchName": "TAMBUTTEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719713",
+    "branchCode": "713",
+    "branchName": "TANGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719078",
+    "branchCode": "078",
+    "branchName": "THALAWAKELE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719789",
+    "branchCode": "789",
+    "branchName": "THALAWATHUGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719135",
+    "branchCode": "135",
+    "branchName": "THAMBILUVIL BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719108",
+    "branchCode": "108",
+    "branchName": "THIRUNAVELI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719097",
+    "branchCode": "097",
+    "branchName": "TISSAMAHARAMAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719089",
+    "branchCode": "089",
+    "branchName": "TRINCOMALEE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719143",
+    "branchCode": "143",
+    "branchName": "UDUGAMA",
+    "branchAddress": "UDUGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719144",
+    "branchCode": "144",
+    "branchName": "UHANA",
+    "branchAddress": "UHANA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719110",
+    "branchCode": "110",
+    "branchName": "URAGASMANHANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719140",
+    "branchCode": "140",
+    "branchName": "URUBOKKA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719720",
+    "branchCode": "720",
+    "branchName": "VALAICHENAI PIYASA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719773",
+    "branchCode": "773",
+    "branchName": "VANKALAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719088",
+    "branchCode": "088",
+    "branchName": "VAVUNIA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719092",
+    "branchCode": "092",
+    "branchName": "VEYANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719715",
+    "branchCode": "715",
+    "branchName": "WADDUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719714",
+    "branchCode": "714",
+    "branchName": "WALASMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719042",
+    "branchCode": "042",
+    "branchName": "WARAKAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719766",
+    "branchCode": "766",
+    "branchName": "WARIYAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719085",
+    "branchCode": "085",
+    "branchName": "WATTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719768",
+    "branchCode": "768",
+    "branchName": "WATTEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719712",
+    "branchCode": "712",
+    "branchName": "WEERAKETIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719066",
+    "branchCode": "066",
+    "branchName": "WELIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719117",
+    "branchCode": "117",
+    "branchName": "WELIKADA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719101",
+    "branchCode": "101",
+    "branchName": "WELIMADA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719156",
+    "branchCode": "156",
+    "branchName": "WELIWERIYA",
+    "branchAddress": "WELIWERIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719706",
+    "branchCode": "706",
+    "branchName": "WELLAMPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719070",
+    "branchCode": "070",
+    "branchName": "WELLAWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719740",
+    "branchCode": "740",
+    "branchName": "WELLAWAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719029",
+    "branchCode": "029",
+    "branchName": "WENNAPPUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719702",
+    "branchCode": "702",
+    "branchName": "WORLD TRADE CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719120",
+    "branchCode": "120",
+    "branchName": "YAKKALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719157",
+    "branchCode": "157",
+    "branchName": "YAKKALAMULLA BRANCH",
+    "branchAddress": "Yakkalamulla",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7719743",
+    "branchCode": "743",
+    "branchName": "YATIYANTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7719",
+      "bankName": "NATIONAL SAVINGS BNK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6719"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "branchCodeUnique": "7940001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "HEAD OFFICE",
+    "bankCode": {
+      "version": 0,
+      "bankCode": "7940",
+      "bankName": "FINTREX FINANCE LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6940"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

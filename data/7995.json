@@ -1,0 +1,21 @@
+[
+  {
+    "branchCodeUnique": "7995001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "2nd Floor, Parkland 1, No 33, Part Street, Colombo 02",
+    "bankCode": {
+      "version": 0,
+      "bankCode": "7995",
+      "bankName": "DIALOG FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6995"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

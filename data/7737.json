@@ -1,0 +1,40 @@
+[
+  {
+    "branchCodeUnique": "7737020",
+    "branchCode": "020",
+    "branchName": "GAMPAHA",
+    "branchAddress": "GAMPAHA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7737",
+      "bankName": "HDFC BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6737"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7737001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7737",
+      "bankName": "HDFC BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6737"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

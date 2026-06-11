@@ -1,0 +1,952 @@
+[
+  {
+    "branchCodeUnique": "7898114",
+    "branchCode": "114",
+    "branchName": "AMBALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898116",
+    "branchCode": "116",
+    "branchName": "AMBALANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898115",
+    "branchCode": "115",
+    "branchName": "AMPARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898112",
+    "branchCode": "112",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898117",
+    "branchCode": "117",
+    "branchName": "AVISSAWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898118",
+    "branchCode": "118",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898119",
+    "branchCode": "119",
+    "branchName": "BATTICALOA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898120",
+    "branchCode": "120",
+    "branchName": "CHILAW BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898121",
+    "branchCode": "121",
+    "branchName": "CITY OFFICE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898122",
+    "branchCode": "122",
+    "branchName": "DAMBULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898123",
+    "branchCode": "123",
+    "branchName": "DENIYAYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898124",
+    "branchCode": "124",
+    "branchName": "EMBILIPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898107",
+    "branchCode": "107",
+    "branchName": "GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898102",
+    "branchCode": "102",
+    "branchName": "GAMPAHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898125",
+    "branchCode": "125",
+    "branchName": "HAMBANTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898128",
+    "branchCode": "128",
+    "branchName": "HATTON BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898151",
+    "branchCode": "151",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898126",
+    "branchCode": "126",
+    "branchName": "HINGURAKGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898127",
+    "branchCode": "127",
+    "branchName": "HORANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898129",
+    "branchCode": "129",
+    "branchName": "JA-ELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898130",
+    "branchCode": "130",
+    "branchName": "JAFFNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898101",
+    "branchCode": "101",
+    "branchName": "KADAWATHA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898105",
+    "branchCode": "105",
+    "branchName": "KALUTARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898136",
+    "branchCode": "136",
+    "branchName": "KANDANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898131",
+    "branchCode": "131",
+    "branchName": "KANDY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898133",
+    "branchCode": "133",
+    "branchName": "KANDY CITY OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898135",
+    "branchCode": "135",
+    "branchName": "KEKIRAWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898134",
+    "branchCode": "134",
+    "branchName": "KILINOCHCHI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898132",
+    "branchCode": "132",
+    "branchName": "KIRIBATHGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898109",
+    "branchCode": "109",
+    "branchName": "KOTAHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898104",
+    "branchCode": "104",
+    "branchName": "KOTTAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898137",
+    "branchCode": "137",
+    "branchName": "KULIYAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898110",
+    "branchCode": "110",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898138",
+    "branchCode": "138",
+    "branchName": "MAHARAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898142",
+    "branchCode": "142",
+    "branchName": "MATARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898143",
+    "branchCode": "143",
+    "branchName": "MATUGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898141",
+    "branchCode": "141",
+    "branchName": "METROPOLITAN BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898140",
+    "branchCode": "140",
+    "branchName": "MONARAGALA BRNACH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898106",
+    "branchCode": "106",
+    "branchName": "MORATUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898103",
+    "branchCode": "103",
+    "branchName": "NEGOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898144",
+    "branchCode": "144",
+    "branchName": "NITTAMBUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898108",
+    "branchCode": "108",
+    "branchName": "NUGEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898145",
+    "branchCode": "145",
+    "branchName": "PANADURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898146",
+    "branchCode": "146",
+    "branchName": "PUTTLAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898113",
+    "branchCode": "113",
+    "branchName": "RATNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898147",
+    "branchCode": "147",
+    "branchName": "TRINCOMALLEE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898100",
+    "branchCode": "100",
+    "branchName": "UNION PLACE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898148",
+    "branchCode": "148",
+    "branchName": "VAVUNIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898150",
+    "branchCode": "150",
+    "branchName": "WATTALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7898149",
+    "branchCode": "149",
+    "branchName": "WENNAPPUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7898",
+      "bankName": "MBSL & FINANCE SL",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6898"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

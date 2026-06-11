@@ -1,0 +1,78 @@
+[
+  {
+    "branchCodeUnique": "7108001",
+    "branchCode": "001",
+    "branchName": "COLOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7108",
+      "bankName": "INDIAN BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6108"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7108999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7108",
+      "bankName": "INDIAN BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6108"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7108002",
+    "branchCode": "002",
+    "branchName": "JAFFNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7108",
+      "bankName": "INDIAN BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6108"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7108100",
+    "branchCode": "100",
+    "branchName": "RUPEE DRAFT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7108",
+      "bankName": "INDIAN BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6108"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

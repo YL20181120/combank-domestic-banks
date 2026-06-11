@@ -1,0 +1,5417 @@
+[
+  {
+    "branchCodeUnique": "7755103",
+    "branchCode": "103",
+    "branchName": "AGALAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755617",
+    "branchCode": "617",
+    "branchName": "AGARAPATHANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755243",
+    "branchCode": "243",
+    "branchName": "AHANGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755805",
+    "branchCode": "805",
+    "branchName": "AKKARAIPATHTHU",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755222",
+    "branchCode": "222",
+    "branchName": "AKMEEMANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755204",
+    "branchCode": "204",
+    "branchName": "AKURESSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755304",
+    "branchCode": "304",
+    "branchName": "ALAWWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755208",
+    "branchCode": "208",
+    "branchName": "AMBALANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755331",
+    "branchCode": "331",
+    "branchName": "AMBANPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755801",
+    "branchCode": "801",
+    "branchName": "AMPARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755315",
+    "branchCode": "315",
+    "branchName": "ANAMADUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755209",
+    "branchCode": "209",
+    "branchName": "ANGUNUKOLAPALASSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755423",
+    "branchCode": "423",
+    "branchName": "ARALAGANWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755506",
+    "branchCode": "506",
+    "branchName": "ARNAYAKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755127",
+    "branchCode": "127",
+    "branchName": "AWISSAWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755711",
+    "branchCode": "711",
+    "branchName": "BADALKUMBURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755217",
+    "branchCode": "217",
+    "branchName": "BADDEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755705",
+    "branchCode": "705",
+    "branchName": "BADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755114",
+    "branchCode": "114",
+    "branchName": "BADURALIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755414",
+    "branchCode": "414",
+    "branchName": "BAKAMOONA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755514",
+    "branchCode": "514",
+    "branchName": "BALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755249",
+    "branchCode": "249",
+    "branchName": "BALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755715",
+    "branchCode": "715",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755240",
+    "branchCode": "240",
+    "branchName": "BARAWAKUMBUKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755213",
+    "branchCode": "213",
+    "branchName": "BATAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755811",
+    "branchCode": "811",
+    "branchName": "BATTICALOA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755211",
+    "branchCode": "211",
+    "branchName": "BELIATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755721",
+    "branchCode": "721",
+    "branchName": "BIBILE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755720",
+    "branchCode": "720",
+    "branchName": "BOGAHAKUMBURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755907",
+    "branchCode": "907",
+    "branchName": "BOGASWEWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755328",
+    "branchCode": "328",
+    "branchName": "BOWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755107",
+    "branchCode": "107",
+    "branchName": "BREWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755510",
+    "branchCode": "510",
+    "branchName": "BULATHKOHUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755101",
+    "branchCode": "101",
+    "branchName": "BULATHSINGHALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755701",
+    "branchCode": "701",
+    "branchName": "BUTTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755813",
+    "branchCode": "813",
+    "branchName": "CHENKALADY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755313",
+    "branchCode": "313",
+    "branchName": "CHILAW",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755904",
+    "branchCode": "904",
+    "branchName": "CHUNNAKAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755233",
+    "branchCode": "233",
+    "branchName": "CITY-MATARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755620",
+    "branchCode": "620",
+    "branchName": "DAMBULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755605",
+    "branchCode": "605",
+    "branchName": "DANTURE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755627",
+    "branchCode": "627",
+    "branchName": "DAULAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755802",
+    "branchCode": "802",
+    "branchName": "DEHIATTHAKANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755529",
+    "branchCode": "529",
+    "branchName": "DEHIOVITA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755203",
+    "branchCode": "203",
+    "branchName": "DEIYANDARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755226",
+    "branchCode": "226",
+    "branchName": "DENIYAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755511",
+    "branchCode": "511",
+    "branchName": "DERANIYAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755254",
+    "branchCode": "254",
+    "branchName": "DEVINUWARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755509",
+    "branchCode": "509",
+    "branchName": "DEWALEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755247",
+    "branchCode": "247",
+    "branchName": "DIKWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755498",
+    "branchCode": "498",
+    "branchName": "DIS OFF POLONNARUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755298",
+    "branchCode": "298",
+    "branchName": "DISTRICT OFF-GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755297",
+    "branchCode": "297",
+    "branchName": "DISTRICT OFF-HAMBAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755299",
+    "branchCode": "299",
+    "branchName": "DISTRICT OFF-MATARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755123",
+    "branchCode": "123",
+    "branchName": "DIVULAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755724",
+    "branchCode": "724",
+    "branchName": "DIYATHALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755112",
+    "branchCode": "112",
+    "branchName": "DODANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755305",
+    "branchCode": "305",
+    "branchName": "DUMMALASOORIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755424",
+    "branchCode": "424",
+    "branchName": "ECONOMIC CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755518",
+    "branchCode": "518",
+    "branchName": "EHELIYAGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755212",
+    "branchCode": "212",
+    "branchName": "ELPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755515",
+    "branchCode": "515",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755523",
+    "branchCode": "523",
+    "branchName": "ERATHNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755812",
+    "branchCode": "812",
+    "branchName": "ERAUR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755418",
+    "branchCode": "418",
+    "branchName": "GALAMUNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755415",
+    "branchCode": "415",
+    "branchName": "GALENBINDUNUWEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755621",
+    "branchCode": "621",
+    "branchName": "GALEWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755312",
+    "branchCode": "312",
+    "branchName": "GALGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755228",
+    "branchCode": "228",
+    "branchName": "GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755405",
+    "branchCode": "405",
+    "branchName": "GALNEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755116",
+    "branchCode": "116",
+    "branchName": "GAMPAHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755198",
+    "branchCode": "198",
+    "branchName": "GAMPAHA DISTRICT OF",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755601",
+    "branchCode": "601",
+    "branchName": "GAMPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755206",
+    "branchCode": "206",
+    "branchName": "GANDARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755613",
+    "branchCode": "613",
+    "branchName": "GINIGATHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755719",
+    "branchCode": "719",
+    "branchName": "GIRANDURUKOTTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755320",
+    "branchCode": "320",
+    "branchName": "GIRIULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755522",
+    "branchCode": "522",
+    "branchName": "GODAKAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755215",
+    "branchCode": "215",
+    "branchName": "GONAGALAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755416",
+    "branchCode": "416",
+    "branchName": "GONAPATHIRAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755105",
+    "branchCode": "105",
+    "branchName": "GOONAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755201",
+    "branchCode": "201",
+    "branchName": "HAKMANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755718",
+    "branchCode": "718",
+    "branchName": "HALDUMMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755238",
+    "branchCode": "238",
+    "branchName": "HAMBANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755626",
+    "branchCode": "626",
+    "branchName": "HANGURANKETHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755712",
+    "branchCode": "712",
+    "branchName": "HAPUTALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755603",
+    "branchCode": "603",
+    "branchName": "HATARALIYADDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755630",
+    "branchCode": "630",
+    "branchName": "HEDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755516",
+    "branchCode": "516",
+    "branchName": "HEMMATHAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755244",
+    "branchCode": "244",
+    "branchName": "HIKKADUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755413",
+    "branchCode": "413",
+    "branchName": "HINGURAKGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755804",
+    "branchCode": "804",
+    "branchName": "HINGURANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755125",
+    "branchCode": "125",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755109",
+    "branchCode": "109",
+    "branchName": "HORANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755329",
+    "branchCode": "329",
+    "branchName": "HQB",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755321",
+    "branchCode": "321",
+    "branchName": "IBBAGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755216",
+    "branchCode": "216",
+    "branchName": "IMADUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755111",
+    "branchCode": "111",
+    "branchName": "INGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755132",
+    "branchCode": "132",
+    "branchName": "J-ELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755905",
+    "branchCode": "905",
+    "branchName": "JAFFNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755421",
+    "branchCode": "421",
+    "branchName": "KADURUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755404",
+    "branchCode": "404",
+    "branchName": "KAHATAGASDIGILIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755526",
+    "branchCode": "526",
+    "branchName": "KAHAWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755520",
+    "branchCode": "520",
+    "branchName": "KALAWANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755806",
+    "branchCode": "806",
+    "branchName": "KALMUNAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755115",
+    "branchCode": "115",
+    "branchName": "KALUTARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755199",
+    "branchCode": "199",
+    "branchName": "KALUTARA DISTRICT O",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755818",
+    "branchCode": "818",
+    "branchName": "KALUWANCHIKUDI BRAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755252",
+    "branchCode": "252",
+    "branchName": "KALUWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755225",
+    "branchCode": "225",
+    "branchName": "KAMBURUGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755227",
+    "branchCode": "227",
+    "branchName": "KAMBURUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755902",
+    "branchCode": "902",
+    "branchName": "KANAGARAYANKULAM BR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755708",
+    "branchCode": "708",
+    "branchName": "KANDAKETIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755632",
+    "branchCode": "632",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755814",
+    "branchCode": "814",
+    "branchName": "KANTHALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755223",
+    "branchCode": "223",
+    "branchName": "KARANDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755248",
+    "branchCode": "248",
+    "branchName": "KARAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755816",
+    "branchCode": "816",
+    "branchName": "KATHANKUDI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755615",
+    "branchCode": "615",
+    "branchName": "KATUGASTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755210",
+    "branchCode": "210",
+    "branchName": "KATUWANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755612",
+    "branchCode": "612",
+    "branchName": "KDY MARKETING CENT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755501",
+    "branchCode": "501",
+    "branchName": "KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755599",
+    "branchCode": "599",
+    "branchName": "KEGALLE DIS OFF",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755207",
+    "branchCode": "207",
+    "branchName": "KEKANADURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755422",
+    "branchCode": "422",
+    "branchName": "KEKIRAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755134",
+    "branchCode": "134",
+    "branchName": "KELANIYA H Q",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755906",
+    "branchCode": "906",
+    "branchName": "KILINOCHCHI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755530",
+    "branchCode": "530",
+    "branchName": "KIRIELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755317",
+    "branchCode": "317",
+    "branchName": "KIRIMETIYANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755245",
+    "branchCode": "245",
+    "branchName": "KIRINDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755131",
+    "branchCode": "131",
+    "branchName": "KIRINDIWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755507",
+    "branchCode": "507",
+    "branchName": "KITHULGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755819",
+    "branchCode": "819",
+    "branchName": "KOKKADICHCHOLAI BBR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755517",
+    "branchCode": "517",
+    "branchName": "KOLONNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755126",
+    "branchCode": "126",
+    "branchName": "KOLONNAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755624",
+    "branchCode": "624",
+    "branchName": "KOTAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755527",
+    "branchCode": "527",
+    "branchName": "KOTIYAKUMBURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755301",
+    "branchCode": "301",
+    "branchName": "KULIYAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755311",
+    "branchCode": "311",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755399",
+    "branchCode": "399",
+    "branchName": "KURUNEGALA DIST OFF",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755524",
+    "branchCode": "524",
+    "branchName": "KURUWITA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755622",
+    "branchCode": "622",
+    "branchName": "LAGGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755717",
+    "branchCode": "717",
+    "branchName": "LUNUGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755219",
+    "branchCode": "219",
+    "branchName": "LUNUGAMWEHERA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755407",
+    "branchCode": "407",
+    "branchName": "MADAWACHCHIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755726",
+    "branchCode": "726",
+    "branchName": "MADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755807",
+    "branchCode": "807",
+    "branchName": "MAHAOYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755325",
+    "branchCode": "325",
+    "branchName": "MAHAWEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755709",
+    "branchCode": "709",
+    "branchName": "MAHIYANGANAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755319",
+    "branchCode": "319",
+    "branchName": "MAHO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755324",
+    "branchCode": "324",
+    "branchName": "MAMPURI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755417",
+    "branchCode": "417",
+    "branchName": "MANAMPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755903",
+    "branchCode": "903",
+    "branchName": "MANNAR BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755604",
+    "branchCode": "604",
+    "branchName": "MARASSANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755619",
+    "branchCode": "619",
+    "branchName": "MATALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755121",
+    "branchCode": "121",
+    "branchName": "MATHUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755504",
+    "branchCode": "504",
+    "branchName": "MAWANELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755236",
+    "branchCode": "236",
+    "branchName": "MAWARALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755117",
+    "branchCode": "117",
+    "branchName": "MAWARAMANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755309",
+    "branchCode": "309",
+    "branchName": "MAWATHAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755702",
+    "branchCode": "702",
+    "branchName": "MEDAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755411",
+    "branchCode": "411",
+    "branchName": "MEDIRIGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755716",
+    "branchCode": "716",
+    "branchName": "MEEGAHAKIULA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755113",
+    "branchCode": "113",
+    "branchName": "MEEGAHATHENNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755119",
+    "branchCode": "119",
+    "branchName": "MEERIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755330",
+    "branchCode": "330",
+    "branchName": "MELSIRIPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755625",
+    "branchCode": "625",
+    "branchName": "MENIKHINNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755246",
+    "branchCode": "246",
+    "branchName": "MIDDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755401",
+    "branchCode": "401",
+    "branchName": "MIHINTHALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755104",
+    "branchCode": "104",
+    "branchName": "MILLANIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755118",
+    "branchCode": "118",
+    "branchName": "MINUWANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755251",
+    "branchCode": "251",
+    "branchName": "MIRISSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755133",
+    "branchCode": "133",
+    "branchName": "MIRISWATHTHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755703",
+    "branchCode": "703",
+    "branchName": "MONARAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755120",
+    "branchCode": "120",
+    "branchName": "MORAGAHAHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755106",
+    "branchCode": "106",
+    "branchName": "MORANTHUDUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755237",
+    "branchCode": "237",
+    "branchName": "MORAWAKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755607",
+    "branchCode": "607",
+    "branchName": "MORAYAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755322",
+    "branchCode": "322",
+    "branchName": "MUNDEL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755820",
+    "branchCode": "820",
+    "branchName": "MUTHTUR BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755326",
+    "branchCode": "326",
+    "branchName": "NARAMMALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755316",
+    "branchCode": "316",
+    "branchName": "NATTANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755628",
+    "branchCode": "628",
+    "branchName": "NAULA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755323",
+    "branchCode": "323",
+    "branchName": "NAWAGATTEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755629",
+    "branchCode": "629",
+    "branchName": "NAWALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755122",
+    "branchCode": "122",
+    "branchName": "NEGAMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755519",
+    "branchCode": "519",
+    "branchName": "NELUMDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755235",
+    "branchCode": "235",
+    "branchName": "NELUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755419",
+    "branchCode": "419",
+    "branchName": "NEW TOWN BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755307",
+    "branchCode": "307",
+    "branchName": "NIKAWERATIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755616",
+    "branchCode": "616",
+    "branchName": "NILDANDAHINNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755810",
+    "branchCode": "810",
+    "branchName": "NINTAVUR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755124",
+    "branchCode": "124",
+    "branchName": "NITTAMBUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755525",
+    "branchCode": "525",
+    "branchName": "NIVITHIGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755135",
+    "branchCode": "135",
+    "branchName": "NUGEGODA",
+    "branchAddress": "NUGEGODA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755610",
+    "branchCode": "610",
+    "branchName": "NUWARA ELIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755314",
+    "branchCode": "314",
+    "branchName": "PALAKUDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755250",
+    "branchCode": "250",
+    "branchName": "PAMBURANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755108",
+    "branchCode": "108",
+    "branchName": "PANADURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755303",
+    "branchCode": "303",
+    "branchName": "PANDUWASNUWARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755302",
+    "branchCode": "302",
+    "branchName": "PANNALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755706",
+    "branchCode": "706",
+    "branchName": "PASSARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755513",
+    "branchCode": "513",
+    "branchName": "PELMADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755633",
+    "branchCode": "633",
+    "branchName": "PERADENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755128",
+    "branchCode": "128",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755220",
+    "branchCode": "220",
+    "branchName": "PITABADDERA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755502",
+    "branchCode": "502",
+    "branchName": "PITAGALDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755214",
+    "branchCode": "214",
+    "branchName": "PITIGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755410",
+    "branchCode": "410",
+    "branchName": "POLONNARUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755327",
+    "branchCode": "327",
+    "branchName": "POLPITHIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755614",
+    "branchCode": "614",
+    "branchName": "POONDALUOYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755306",
+    "branchCode": "306",
+    "branchName": "POTHUHERA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755531",
+    "branchCode": "531",
+    "branchName": "POTHUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755808",
+    "branchCode": "808",
+    "branchName": "POTHUVIL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755500",
+    "branchCode": "500",
+    "branchName": "PRO OFF RATNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755600",
+    "branchCode": "600",
+    "branchName": "PRO OFFICE-CENTRAL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755003",
+    "branchCode": "003",
+    "branchName": "PROV OFF CENTRAL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755700",
+    "branchCode": "700",
+    "branchName": "PROV OFFICE - UVA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755200",
+    "branchCode": "200",
+    "branchName": "PROV OFFICE-SOUTHER",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755400",
+    "branchCode": "400",
+    "branchName": "PROVIN OFFICE-NORTH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755100",
+    "branchCode": "100",
+    "branchName": "PROVINCIAL OFF-WEST",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755609",
+    "branchCode": "609",
+    "branchName": "PUJAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755412",
+    "branchCode": "412",
+    "branchName": "PULASTHIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755534",
+    "branchCode": "534",
+    "branchName": "PULUNGUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755318",
+    "branchCode": "318",
+    "branchName": "PUTTALAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755398",
+    "branchCode": "398",
+    "branchName": "PUTTALAM DISTRICT O",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755129",
+    "branchCode": "129",
+    "branchName": "RAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755528",
+    "branchCode": "528",
+    "branchName": "RAKWANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755409",
+    "branchCode": "409",
+    "branchName": "RAMBEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755503",
+    "branchCode": "503",
+    "branchName": "RAMBUKKANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755242",
+    "branchCode": "242",
+    "branchName": "RANNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755512",
+    "branchCode": "512",
+    "branchName": "RATHNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755623",
+    "branchCode": "623",
+    "branchName": "RATTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755308",
+    "branchCode": "308",
+    "branchName": "RIDEEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755713",
+    "branchCode": "713",
+    "branchName": "RIDEEMALIYADDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755611",
+    "branchCode": "611",
+    "branchName": "RIKILLAGASKADA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755508",
+    "branchCode": "508",
+    "branchName": "RUWANWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755803",
+    "branchCode": "803",
+    "branchName": "SAMANTHURAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755332",
+    "branchCode": "332",
+    "branchName": "SANTHA ANAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755425",
+    "branchCode": "425",
+    "branchName": "SEVANAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755725",
+    "branchCode": "725",
+    "branchName": "SEWANAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755420",
+    "branchCode": "420",
+    "branchName": "SIRIPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755723",
+    "branchCode": "723",
+    "branchName": "SIYAMBALANDUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755224",
+    "branchCode": "224",
+    "branchName": "SOORIYAWEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755533",
+    "branchCode": "533",
+    "branchName": "SRI PALABADDALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755234",
+    "branchCode": "234",
+    "branchName": "TANGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755608",
+    "branchCode": "608",
+    "branchName": "TELDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755406",
+    "branchCode": "406",
+    "branchName": "THALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755221",
+    "branchCode": "221",
+    "branchName": "THALGASWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755403",
+    "branchCode": "403",
+    "branchName": "THAMBUTHTHEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755704",
+    "branchCode": "704",
+    "branchName": "THANAMALWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755232",
+    "branchCode": "232",
+    "branchName": "THIHAGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755408",
+    "branchCode": "408",
+    "branchName": "THIRAPPANE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755218",
+    "branchCode": "218",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755402",
+    "branchCode": "402",
+    "branchName": "TOWN BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755817",
+    "branchCode": "817",
+    "branchName": "TRINCOMALEE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755602",
+    "branchCode": "602",
+    "branchName": "UDAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755618",
+    "branchCode": "618",
+    "branchName": "UDUDUMBARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755241",
+    "branchCode": "241",
+    "branchName": "UDUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755809",
+    "branchCode": "809",
+    "branchName": "UHANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755229",
+    "branchCode": "229",
+    "branchName": "URAGASMANHANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755202",
+    "branchCode": "202",
+    "branchName": "URUBOKKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755722",
+    "branchCode": "722",
+    "branchName": "UVA MALIGATHENNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755714",
+    "branchCode": "714",
+    "branchName": "UVAPARANAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755815",
+    "branchCode": "815",
+    "branchName": "VALACHENAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755901",
+    "branchCode": "901",
+    "branchName": "VAUNIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755130",
+    "branchCode": "130",
+    "branchName": "WADDUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755102",
+    "branchCode": "102",
+    "branchName": "WALAGEDARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755239",
+    "branchCode": "239",
+    "branchName": "WALASMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755110",
+    "branchCode": "110",
+    "branchName": "WARAKAGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755505",
+    "branchCode": "505",
+    "branchName": "WARAKAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755253",
+    "branchCode": "253",
+    "branchName": "WARAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755310",
+    "branchCode": "310",
+    "branchName": "WARIYAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755606",
+    "branchCode": "606",
+    "branchName": "WATTEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755300",
+    "branchCode": "300",
+    "branchName": "WAYAMBA PROVVI OFFI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755231",
+    "branchCode": "231",
+    "branchName": "WEERAKATIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755205",
+    "branchCode": "205",
+    "branchName": "WELIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755532",
+    "branchCode": "532",
+    "branchName": "WELIGEPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755707",
+    "branchCode": "707",
+    "branchName": "WELIMADA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755710",
+    "branchCode": "710",
+    "branchName": "WELLAWAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755336",
+    "branchCode": "336",
+    "branchName": "WENNAPPUWA",
+    "branchAddress": "WENNAPPUWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755631",
+    "branchCode": "631",
+    "branchName": "WILGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755230",
+    "branchCode": "230",
+    "branchName": "YAKKALAMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7755521",
+    "branchCode": "521",
+    "branchName": "YATIYANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7755",
+      "bankName": "REGIONAL DEVELOPMENT",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6755"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

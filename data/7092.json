@@ -1,0 +1,344 @@
+[
+  {
+    "branchCodeUnique": "7092003",
+    "branchCode": "003",
+    "branchName": "BORELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092001",
+    "branchCode": "001",
+    "branchName": "COLOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": true,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092007",
+    "branchCode": "007",
+    "branchName": "COLPETTY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092022",
+    "branchCode": "022",
+    "branchName": "GALLE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092021",
+    "branchCode": "021",
+    "branchName": "JAFFNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092002",
+    "branchCode": "002",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092020",
+    "branchCode": "020",
+    "branchName": "KOHUWALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092018",
+    "branchCode": "018",
+    "branchName": "MORATUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092017",
+    "branchCode": "017",
+    "branchName": "NEGOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092005",
+    "branchCode": "005",
+    "branchName": "NUGEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092008",
+    "branchCode": "008",
+    "branchName": "PELAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092015",
+    "branchCode": "015",
+    "branchName": "PREMIER CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092777",
+    "branchCode": "777",
+    "branchName": "RUPEE DRAFT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092012",
+    "branchCode": "012",
+    "branchName": "UNION PLACE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092014",
+    "branchCode": "014",
+    "branchName": "WATTALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092004",
+    "branchCode": "004",
+    "branchName": "WELLAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7092006",
+    "branchCode": "006",
+    "branchName": "WORLD TRADE CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7092",
+      "bankName": "HONGKONG&SHANGHAI BK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6092"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

@@ -1,0 +1,6842 @@
+[
+  {
+    "branchCodeUnique": "7135228",
+    "branchCode": "228",
+    "branchName": "ADDALACHCHI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135188",
+    "branchCode": "188",
+    "branchName": "AHANGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135063",
+    "branchCode": "063",
+    "branchName": "AKKARAIPATTU",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135153",
+    "branchCode": "153",
+    "branchName": "AKURANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135117",
+    "branchCode": "117",
+    "branchName": "AKURESSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135294",
+    "branchCode": "294",
+    "branchName": "ALAWATHUGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135149",
+    "branchCode": "149",
+    "branchName": "ALAWWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135084",
+    "branchCode": "084",
+    "branchName": "ALUTHGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135035",
+    "branchCode": "035",
+    "branchName": "AMBALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135072",
+    "branchCode": "072",
+    "branchName": "AMBALANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135015",
+    "branchCode": "015",
+    "branchName": "AMPARAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135267",
+    "branchCode": "267",
+    "branchName": "ANAMADUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135205",
+    "branchCode": "205",
+    "branchName": "ANGUNAKOLAPELESSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135183",
+    "branchCode": "183",
+    "branchName": "ANKUMBURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135008",
+    "branchCode": "008",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135253",
+    "branchCode": "253",
+    "branchName": "ARALAGANWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135248",
+    "branchCode": "248",
+    "branchName": "ARANAYAKE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135107",
+    "branchCode": "107",
+    "branchName": "ATCHUVELY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135364",
+    "branchCode": "364",
+    "branchName": "ATHURUGIRIYA",
+    "branchAddress": "Athurugiriya",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135029",
+    "branchCode": "029",
+    "branchName": "AVISSAWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135347",
+    "branchCode": "347",
+    "branchName": "BADALKUMBURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135087",
+    "branchCode": "087",
+    "branchName": "BADDEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135010",
+    "branchCode": "010",
+    "branchName": "BADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135269",
+    "branchCode": "269",
+    "branchName": "BADULLA-MUTHIYANG",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135283",
+    "branchCode": "283",
+    "branchName": "BADURALIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135242",
+    "branchCode": "242",
+    "branchName": "BAKAMUNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135017",
+    "branchCode": "017",
+    "branchName": "BALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135154",
+    "branchCode": "154",
+    "branchName": "BALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135310",
+    "branchCode": "310",
+    "branchName": "BAMBALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135121",
+    "branchCode": "121",
+    "branchName": "BANDARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135037",
+    "branchCode": "037",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135234",
+    "branchCode": "234",
+    "branchName": "BATAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135075",
+    "branchCode": "075",
+    "branchName": "BATITICALOA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135208",
+    "branchCode": "208",
+    "branchName": "BATTARAMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135113",
+    "branchCode": "113",
+    "branchName": "BATTICALOA TOWN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135244",
+    "branchCode": "244",
+    "branchName": "BELIATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135311",
+    "branchCode": "311",
+    "branchName": "BERUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135011",
+    "branchCode": "011",
+    "branchName": "BIBILE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135172",
+    "branchCode": "172",
+    "branchName": "BINGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135354",
+    "branchCode": "354",
+    "branchName": "BOGAWANTHALAWA BRAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135209",
+    "branchCode": "209",
+    "branchName": "BORALANDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135348",
+    "branchCode": "348",
+    "branchName": "BORALESGAMUWA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135078",
+    "branchCode": "078",
+    "branchName": "BORELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135252",
+    "branchCode": "252",
+    "branchName": "BULATHKOHUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135161",
+    "branchCode": "161",
+    "branchName": "BULATHSINGHALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135147",
+    "branchCode": "147",
+    "branchName": "BUTTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135326",
+    "branchCode": "326",
+    "branchName": "CAPRICORN BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135600",
+    "branchCode": "600",
+    "branchName": "CARD CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": true,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135108",
+    "branchCode": "108",
+    "branchName": "CHANKANAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135110",
+    "branchCode": "110",
+    "branchName": "CHAVAKACHCHERI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135356",
+    "branchCode": "356",
+    "branchName": "CHEDDIKULAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135227",
+    "branchCode": "227",
+    "branchName": "CHENKALADY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135024",
+    "branchCode": "024",
+    "branchName": "CHILAW",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135109",
+    "branchCode": "109",
+    "branchName": "CHUNNAKAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135320",
+    "branchCode": "320",
+    "branchName": "COTTA ROAD BORELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135297",
+    "branchCode": "297",
+    "branchName": "DAM STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135138",
+    "branchCode": "138",
+    "branchName": "DAMBULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135291",
+    "branchCode": "291",
+    "branchName": "DANKOTUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135206",
+    "branchCode": "206",
+    "branchName": "DAVULAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135330",
+    "branchCode": "330",
+    "branchName": "DEHIATTAKANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135293",
+    "branchCode": "293",
+    "branchName": "DEHIOWITA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135337",
+    "branchCode": "337",
+    "branchName": "DEHIWALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135019",
+    "branchCode": "019",
+    "branchName": "DEHIWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135118",
+    "branchCode": "118",
+    "branchName": "DELGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135257",
+    "branchCode": "257",
+    "branchName": "DELTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135071",
+    "branchCode": "071",
+    "branchName": "DEMATAGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135132",
+    "branchCode": "132",
+    "branchName": "DENIYAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135180",
+    "branchCode": "180",
+    "branchName": "DERANIYAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135243",
+    "branchCode": "243",
+    "branchName": "DEVINUWARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135135",
+    "branchCode": "135",
+    "branchName": "DIKWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135151",
+    "branchCode": "151",
+    "branchName": "DIYATALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135001",
+    "branchCode": "001",
+    "branchName": "DUKE STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135085",
+    "branchCode": "085",
+    "branchName": "EHELIYAGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135362",
+    "branchCode": "362",
+    "branchName": "ELEGANCE  PREMIER BRANCH",
+    "branchAddress": "PREMIER BRANCH",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135073",
+    "branchCode": "073",
+    "branchName": "ELPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135045",
+    "branchCode": "045",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135170",
+    "branchCode": "170",
+    "branchName": "EPPAWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135123",
+    "branchCode": "123",
+    "branchName": "ERAVUR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135114",
+    "branchCode": "114",
+    "branchName": "GALAGEDERA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135177",
+    "branchCode": "177",
+    "branchName": "GALENBIDUNUWEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135115",
+    "branchCode": "115",
+    "branchName": "GALEWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135184",
+    "branchCode": "184",
+    "branchName": "GALGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135185",
+    "branchCode": "185",
+    "branchName": "GALIGAMUWA/KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135301",
+    "branchCode": "301",
+    "branchName": "GALKIRIYAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135169",
+    "branchCode": "169",
+    "branchName": "GALLE BAZAAR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135013",
+    "branchCode": "013",
+    "branchName": "GALLE FORT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135179",
+    "branchCode": "179",
+    "branchName": "GALNEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135026",
+    "branchCode": "026",
+    "branchName": "GAMPAHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135018",
+    "branchCode": "018",
+    "branchName": "GAMPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135307",
+    "branchCode": "307",
+    "branchName": "GANDARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135332",
+    "branchCode": "332",
+    "branchName": "GANEMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135097",
+    "branchCode": "097",
+    "branchName": "GANGODAWILLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135363",
+    "branchCode": "363",
+    "branchName": "GELIOYA BRANCH",
+    "branchAddress": "GELIOYA",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135302",
+    "branchCode": "302",
+    "branchName": "GINIGATHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135298",
+    "branchCode": "298",
+    "branchName": "GINTHUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135268",
+    "branchCode": "268",
+    "branchName": "GIRANDURUKOTTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135092",
+    "branchCode": "092",
+    "branchName": "GIRIULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135245",
+    "branchCode": "245",
+    "branchName": "GODAKAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135238",
+    "branchCode": "238",
+    "branchName": "GONAGALDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135126",
+    "branchCode": "126",
+    "branchName": "GRANDPASS",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135203",
+    "branchCode": "203",
+    "branchName": "HABARANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135130",
+    "branchCode": "130",
+    "branchName": "HAKMANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135195",
+    "branchCode": "195",
+    "branchName": "HALDUMMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135225",
+    "branchCode": "225",
+    "branchName": "HALIELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135007",
+    "branchCode": "007",
+    "branchName": "HAMBANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135022",
+    "branchCode": "022",
+    "branchName": "HANGURANKETHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135229",
+    "branchCode": "229",
+    "branchName": "HANWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135216",
+    "branchCode": "216",
+    "branchName": "HAPUTALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135140",
+    "branchCode": "140",
+    "branchName": "HASALAKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135341",
+    "branchCode": "341",
+    "branchName": "HATHARALIYADDA BR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135186",
+    "branchCode": "186",
+    "branchName": "HATTON",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135204",
+    "branchCode": "204",
+    "branchName": "HEAD QUARTERS BRNCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135221",
+    "branchCode": "221",
+    "branchName": "HEMMATHAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135144",
+    "branchCode": "144",
+    "branchName": "HETTIPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135136",
+    "branchCode": "136",
+    "branchName": "HIKKADUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135006",
+    "branchCode": "006",
+    "branchName": "HINGURAKGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135049",
+    "branchCode": "049",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135041",
+    "branchCode": "041",
+    "branchName": "HORANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135218",
+    "branchCode": "218",
+    "branchName": "HOROWPATHANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135207",
+    "branchCode": "207",
+    "branchName": "IBBAGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135247",
+    "branchCode": "247",
+    "branchName": "IMADUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135300",
+    "branchCode": "300",
+    "branchName": "INGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135004",
+    "branchCode": "004",
+    "branchName": "INTERNATIONAL DIVI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135286",
+    "branchCode": "286",
+    "branchName": "INTERNATIONAL DIVI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135239",
+    "branchCode": "239",
+    "branchName": "JA-ELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135284",
+    "branchCode": "284",
+    "branchName": "JAFFNA KANNATHIDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135104",
+    "branchCode": "104",
+    "branchName": "JAFFNA MAIN STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135162",
+    "branchCode": "162",
+    "branchName": "JAFFNA MODEL MARKET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135030",
+    "branchCode": "030",
+    "branchName": "JAFFNA STANELY ROA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135273",
+    "branchCode": "273",
+    "branchName": "KADAWATA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135159",
+    "branchCode": "159",
+    "branchName": "KADUGANNAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135196",
+    "branchCode": "196",
+    "branchName": "KADUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135051",
+    "branchCode": "051",
+    "branchName": "KAHATAGASDIGILIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135155",
+    "branchCode": "155",
+    "branchName": "KAHAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135235",
+    "branchCode": "235",
+    "branchName": "KALAWANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135339",
+    "branchCode": "339",
+    "branchName": "KALLAR BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135023",
+    "branchCode": "023",
+    "branchName": "KALMUNAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135125",
+    "branchCode": "125",
+    "branchName": "KALPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135289",
+    "branchCode": "289",
+    "branchName": "KALTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135039",
+    "branchCode": "039",
+    "branchName": "KALUTARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135190",
+    "branchCode": "190",
+    "branchName": "KALUWANCHIKUDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135133",
+    "branchCode": "133",
+    "branchName": "KAMBURUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135250",
+    "branchCode": "250",
+    "branchName": "KANDAKETIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135175",
+    "branchCode": "175",
+    "branchName": "KANDANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135003",
+    "branchCode": "003",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135357",
+    "branchCode": "357",
+    "branchName": "KANDY CITY CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135090",
+    "branchCode": "090",
+    "branchName": "KANTALAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135343",
+    "branchCode": "343",
+    "branchName": "KARAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135223",
+    "branchCode": "223",
+    "branchName": "KARATIVU BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135168",
+    "branchCode": "168",
+    "branchName": "KATARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135065",
+    "branchCode": "065",
+    "branchName": "KATTANKUDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135313",
+    "branchCode": "313",
+    "branchName": "KATUBEDDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135089",
+    "branchCode": "089",
+    "branchName": "KATUGASTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135276",
+    "branchCode": "276",
+    "branchName": "KATUNAYAKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135105",
+    "branchCode": "105",
+    "branchName": "KAYTS",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135150",
+    "branchCode": "150",
+    "branchName": "KEBITIGOLLEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135027",
+    "branchCode": "027",
+    "branchName": "KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135299",
+    "branchCode": "299",
+    "branchName": "KEGALLE BAZAAR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135259",
+    "branchCode": "259",
+    "branchName": "KEHELWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135042",
+    "branchCode": "042",
+    "branchName": "KEKIRAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135055",
+    "branchCode": "055",
+    "branchName": "KELANIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135240",
+    "branchCode": "240",
+    "branchName": "KEPPETIPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135327",
+    "branchCode": "327",
+    "branchName": "KESBEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135048",
+    "branchCode": "048",
+    "branchName": "KILINOCHCHI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135094",
+    "branchCode": "094",
+    "branchName": "KINNIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135237",
+    "branchCode": "237",
+    "branchName": "KIRIBATHGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135266",
+    "branchCode": "266",
+    "branchName": "KIRIELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135319",
+    "branchCode": "319",
+    "branchName": "KIRILLAPONE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135202",
+    "branchCode": "202",
+    "branchName": "KIRINDIWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135281",
+    "branchCode": "281",
+    "branchName": "KOBEIGANE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135142",
+    "branchCode": "142",
+    "branchName": "KOCHCHIKADE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135329",
+    "branchCode": "329",
+    "branchName": "KOGGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135342",
+    "branchCode": "342",
+    "branchName": "KOKKADDICHOLAI BRN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135210",
+    "branchCode": "210",
+    "branchName": "KOLLUPITIYA CO-OP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135194",
+    "branchCode": "194",
+    "branchName": "KOLONNAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135260",
+    "branchCode": "260",
+    "branchName": "KOSLANDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135308",
+    "branchCode": "308",
+    "branchName": "KOTAHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135098",
+    "branchCode": "098",
+    "branchName": "KOTIKAWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135355",
+    "branchCode": "355",
+    "branchName": "KOTIYAKUMBURA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135328",
+    "branchCode": "328",
+    "branchName": "KOTTAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135288",
+    "branchCode": "288",
+    "branchName": "KUDAWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135028",
+    "branchCode": "028",
+    "branchName": "KULIYAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135334",
+    "branchCode": "334",
+    "branchName": "KURNGL. ATHUGALPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135012",
+    "branchCode": "012",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135263",
+    "branchCode": "263",
+    "branchName": "KURUWITA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135309",
+    "branchCode": "309",
+    "branchName": "LIBERTY PLAZA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135331",
+    "branchCode": "331",
+    "branchName": "LUCKY PLAZA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135251",
+    "branchCode": "251",
+    "branchName": "LUNUGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135215",
+    "branchCode": "215",
+    "branchName": "MADAMPE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135282",
+    "branchCode": "282",
+    "branchName": "MAGGONA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135181",
+    "branchCode": "181",
+    "branchName": "MAHAOYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135217",
+    "branchCode": "217",
+    "branchName": "MAHARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135306",
+    "branchCode": "306",
+    "branchName": "MAHARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135303",
+    "branchCode": "303",
+    "branchName": "MAHAWEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135058",
+    "branchCode": "058",
+    "branchName": "MAHIYANGANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135052",
+    "branchCode": "052",
+    "branchName": "MAHO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135200",
+    "branchCode": "200",
+    "branchName": "MAJESTIC CITY",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135137",
+    "branchCode": "137",
+    "branchName": "MAKANDURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135226",
+    "branchCode": "226",
+    "branchName": "MALIYADEVA ST KURU",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135191",
+    "branchCode": "191",
+    "branchName": "MALWANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135312",
+    "branchCode": "312",
+    "branchName": "MALWATTE ROAD",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135165",
+    "branchCode": "165",
+    "branchName": "MANKULAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135044",
+    "branchCode": "044",
+    "branchName": "MANNAR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135236",
+    "branchCode": "236",
+    "branchName": "MARADANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135176",
+    "branchCode": "176",
+    "branchName": "MARADANA RAILWAY H",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135100",
+    "branchCode": "100",
+    "branchName": "MARANDAGAHAMULA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135322",
+    "branchCode": "322",
+    "branchName": "MARAWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135346",
+    "branchCode": "346",
+    "branchName": "MARUTHAMUNAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135178",
+    "branchCode": "178",
+    "branchName": "MASKELIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135002",
+    "branchCode": "002",
+    "branchName": "MATALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135152",
+    "branchCode": "152",
+    "branchName": "MATARA DHARMAPALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135032",
+    "branchCode": "032",
+    "branchName": "MATARA-UYANWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135070",
+    "branchCode": "070",
+    "branchName": "MATHUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135069",
+    "branchCode": "069",
+    "branchName": "MAWANELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135199",
+    "branchCode": "199",
+    "branchName": "MAWATHAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135258",
+    "branchCode": "258",
+    "branchName": "MEDAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135096",
+    "branchCode": "096",
+    "branchName": "MEDAWACHCHIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135231",
+    "branchCode": "231",
+    "branchName": "MEDIRIGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135246",
+    "branchCode": "246",
+    "branchName": "MEEGALEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135344",
+    "branchCode": "344",
+    "branchName": "MELSIRIPURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135157",
+    "branchCode": "157",
+    "branchName": "MENIKHINNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135265",
+    "branchCode": "265",
+    "branchName": "MIDDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135021",
+    "branchCode": "021",
+    "branchName": "MINUWANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135198",
+    "branchCode": "198",
+    "branchName": "MIRIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135068",
+    "branchCode": "068",
+    "branchName": "MONERAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135290",
+    "branchCode": "290",
+    "branchName": "MORATUMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135091",
+    "branchCode": "091",
+    "branchName": "MORATUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135060",
+    "branchCode": "060",
+    "branchName": "MORAWAKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135336",
+    "branchCode": "336",
+    "branchName": "MT LAVINIA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135046",
+    "branchCode": "046",
+    "branchName": "MUDALIGE MAWATHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135020",
+    "branchCode": "020",
+    "branchName": "MULATIVU",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135166",
+    "branchCode": "166",
+    "branchName": "MURUNKAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135095",
+    "branchCode": "095",
+    "branchName": "MUTTUR BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135214",
+    "branchCode": "214",
+    "branchName": "MUTUWAL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135119",
+    "branchCode": "119",
+    "branchName": "NARAHENPITA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135082",
+    "branchCode": "082",
+    "branchName": "NARAMMALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135083",
+    "branchCode": "083",
+    "branchName": "NATTANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135146",
+    "branchCode": "146",
+    "branchName": "NAULA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135053",
+    "branchCode": "053",
+    "branchName": "NAWALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135249",
+    "branchCode": "249",
+    "branchName": "NEBODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135034",
+    "branchCode": "034",
+    "branchName": "NEGOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135106",
+    "branchCode": "106",
+    "branchName": "NELLIADY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135124",
+    "branchCode": "124",
+    "branchName": "NIKAWERATIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135127",
+    "branchCode": "127",
+    "branchName": "NILDANDAHINNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135296",
+    "branchCode": "296",
+    "branchName": "NINTHAVUR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135278",
+    "branchCode": "278",
+    "branchName": "NITTAMBUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135192",
+    "branchCode": "192",
+    "branchName": "NIVITHIGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135171",
+    "branchCode": "171",
+    "branchName": "NOCHCHIYAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135174",
+    "branchCode": "174",
+    "branchName": "NUGEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135335",
+    "branchCode": "335",
+    "branchName": "NUGEGODA CITY BRNCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135134",
+    "branchCode": "134",
+    "branchName": "NUWARA ELIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135220",
+    "branchCode": "220",
+    "branchName": "NUWARAWEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135340",
+    "branchCode": "340",
+    "branchName": "ODDAMAVADY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135275",
+    "branchCode": "275",
+    "branchName": "OLCOTT MAWATHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135796",
+    "branchCode": "796",
+    "branchName": "OVERSEAS CUSTOMER",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135043",
+    "branchCode": "043",
+    "branchName": "PADAVIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135366",
+    "branchCode": "366",
+    "branchName": "PADUKKA",
+    "branchAddress": "PADUKKA",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135349",
+    "branchCode": "349",
+    "branchName": "PALLEBEDDA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135241",
+    "branchCode": "241",
+    "branchName": "PALLEPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135318",
+    "branchCode": "318",
+    "branchName": "PAMUNUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135148",
+    "branchCode": "148",
+    "branchName": "PANADURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135321",
+    "branchCode": "321",
+    "branchName": "PANADURA TOWN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135211",
+    "branchCode": "211",
+    "branchName": "PANWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135111",
+    "branchCode": "111",
+    "branchName": "PARANTHAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135025",
+    "branchCode": "025",
+    "branchName": "PARK STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135116",
+    "branchCode": "116",
+    "branchName": "PASSARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135990",
+    "branchCode": "990",
+    "branchName": "PAY ORDERS DIVISION",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135999",
+    "branchCode": "999",
+    "branchName": "PAY ORDERS DIVISION",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135261",
+    "branchCode": "261",
+    "branchName": "PELAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135160",
+    "branchCode": "160",
+    "branchName": "PELMADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135057",
+    "branchCode": "057",
+    "branchName": "PERADENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135139",
+    "branchCode": "139",
+    "branchName": "PETTAH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135256",
+    "branchCode": "256",
+    "branchName": "PILIMATALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135103",
+    "branchCode": "103",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135359",
+    "branchCode": "359",
+    "branchName": "PILIYANDALA CITY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135279",
+    "branchCode": "279",
+    "branchName": "PITTA KOTTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135285",
+    "branchCode": "285",
+    "branchName": "POINT PEDRO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135059",
+    "branchCode": "059",
+    "branchName": "POLGAHAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135005",
+    "branchCode": "005",
+    "branchName": "POLONNARUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135232",
+    "branchCode": "232",
+    "branchName": "POLONNARUWA TOWN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135360",
+    "branchCode": "360",
+    "branchName": "POLPITHIGAMA",
+    "branchAddress": "POLPITHIGAMA",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135358",
+    "branchCode": "358",
+    "branchName": "POOJAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135280",
+    "branchCode": "280",
+    "branchName": "POTHUHERA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135164",
+    "branchCode": "164",
+    "branchName": "POTTUVIL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135093",
+    "branchCode": "093",
+    "branchName": "PUGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135352",
+    "branchCode": "352",
+    "branchName": "PULMUDAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135173",
+    "branchCode": "173",
+    "branchName": "PUNDALUOYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135274",
+    "branchCode": "274",
+    "branchName": "PUSSELLAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135009",
+    "branchCode": "009",
+    "branchName": "PUTTALAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135033",
+    "branchCode": "033",
+    "branchName": "QUEEN STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135036",
+    "branchCode": "036",
+    "branchName": "RAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135316",
+    "branchCode": "316",
+    "branchName": "RAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135129",
+    "branchCode": "129",
+    "branchName": "RAKWANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135101",
+    "branchCode": "101",
+    "branchName": "RAMBUKKANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135345",
+    "branchCode": "345",
+    "branchName": "RANNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135080",
+    "branchCode": "080",
+    "branchName": "RATMALANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135088",
+    "branchCode": "088",
+    "branchName": "RATNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135317",
+    "branchCode": "317",
+    "branchName": "RATNAPURA TOWN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135128",
+    "branchCode": "128",
+    "branchName": "RATTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135193",
+    "branchCode": "193",
+    "branchName": "RIDIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135353",
+    "branchCode": "353",
+    "branchName": "RIKILLAGASKADA BRAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135888",
+    "branchCode": "888",
+    "branchName": "RUPEE DRAFT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135081",
+    "branchCode": "081",
+    "branchName": "RUWANWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135338",
+    "branchCode": "338",
+    "branchName": "SAINTHAMARUTHU BRAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135064",
+    "branchCode": "064",
+    "branchName": "SAMMANTHURAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135277",
+    "branchCode": "277",
+    "branchName": "SEA STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135324",
+    "branchCode": "324",
+    "branchName": "SEEDUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135158",
+    "branchCode": "158",
+    "branchName": "SENKADAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135233",
+    "branchCode": "233",
+    "branchName": "SERUNUWARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135365",
+    "branchCode": "365",
+    "branchName": "SIYAMBALANDUWA",
+    "branchAddress": "SIYAMBALANDUWA",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135056",
+    "branchCode": "056",
+    "branchName": "SRI SANGARAJA MWTHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135143",
+    "branchCode": "143",
+    "branchName": "SUDUWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135264",
+    "branchCode": "264",
+    "branchName": "SURIYAWEWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135315",
+    "branchCode": "315",
+    "branchName": "TALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135038",
+    "branchCode": "038",
+    "branchName": "TALAWAKELE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135272",
+    "branchCode": "272",
+    "branchName": "TALGASWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135230",
+    "branchCode": "230",
+    "branchName": "TANAMALWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135067",
+    "branchCode": "067",
+    "branchName": "TANGALLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135112",
+    "branchCode": "112",
+    "branchName": "TELDENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135031",
+    "branchCode": "031",
+    "branchName": "TELLIPALAI",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135351",
+    "branchCode": "351",
+    "branchName": "THAMBALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135219",
+    "branchCode": "219",
+    "branchName": "THAMBUTTEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135086",
+    "branchCode": "086",
+    "branchName": "THIMBIRIGASYAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135224",
+    "branchCode": "224",
+    "branchName": "THIRUKKOVIL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135270",
+    "branchCode": "270",
+    "branchName": "THULHIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135061",
+    "branchCode": "061",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135167",
+    "branchCode": "167",
+    "branchName": "TOWN HALL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135066",
+    "branchCode": "066",
+    "branchName": "TRINCOMALEE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135255",
+    "branchCode": "255",
+    "branchName": "TRINCOMALEE TOWN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135292",
+    "branchCode": "292",
+    "branchName": "UDAPUSSELLAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135295",
+    "branchCode": "295",
+    "branchName": "UDAWALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135131",
+    "branchCode": "131",
+    "branchName": "UDUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135189",
+    "branchCode": "189",
+    "branchName": "UHANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135201",
+    "branchCode": "201",
+    "branchName": "UKUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135014",
+    "branchCode": "014",
+    "branchName": "UNION PLACE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135197",
+    "branchCode": "197",
+    "branchName": "URGASMANHANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135271",
+    "branchCode": "271",
+    "branchName": "URUBOKKA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135156",
+    "branchCode": "156",
+    "branchName": "UVA PARANAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135102",
+    "branchCode": "102",
+    "branchName": "VALACHCHENAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135040",
+    "branchCode": "040",
+    "branchName": "VAVUNIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135141",
+    "branchCode": "141",
+    "branchName": "VELIVETITHURAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135079",
+    "branchCode": "079",
+    "branchName": "VEYANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135262",
+    "branchCode": "262",
+    "branchName": "WADDUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135304",
+    "branchCode": "304",
+    "branchName": "WALASGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135120",
+    "branchCode": "120",
+    "branchName": "WALASMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135325",
+    "branchCode": "325",
+    "branchName": "WANDURAMBA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135054",
+    "branchCode": "054",
+    "branchName": "WARAKAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135163",
+    "branchCode": "163",
+    "branchName": "WARIYAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135222",
+    "branchCode": "222",
+    "branchName": "WATTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135074",
+    "branchCode": "074",
+    "branchName": "WATTEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135350",
+    "branchCode": "350",
+    "branchName": "WEERAKETIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135077",
+    "branchCode": "077",
+    "branchName": "WELIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135254",
+    "branchCode": "254",
+    "branchName": "WELIKANDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135016",
+    "branchCode": "016",
+    "branchName": "WELIMADA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135145",
+    "branchCode": "145",
+    "branchName": "WELLAWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135062",
+    "branchCode": "062",
+    "branchName": "WELLAWAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135076",
+    "branchCode": "076",
+    "branchName": "WENNAPPUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135122",
+    "branchCode": "122",
+    "branchName": "WILGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135333",
+    "branchCode": "333",
+    "branchName": "YAKKALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7135047",
+    "branchCode": "047",
+    "branchName": "YATIYANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7135",
+      "bankName": "PEOPLES BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6135"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

@@ -1,0 +1,1218 @@
+[
+  {
+    "branchCodeUnique": "7746057",
+    "branchCode": "057",
+    "branchName": "AMBALANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746011",
+    "branchCode": "011",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746065",
+    "branchCode": "065",
+    "branchName": "AVISSAWELLA",
+    "branchAddress": "AVISSAWELLA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746009",
+    "branchCode": "009",
+    "branchName": "BADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746024",
+    "branchCode": "024",
+    "branchName": "BATTARAMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746034",
+    "branchCode": "034",
+    "branchName": "BATTICALOA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746043",
+    "branchCode": "043",
+    "branchName": "BORALESGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746010",
+    "branchCode": "010",
+    "branchName": "CHILAW",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746031",
+    "branchCode": "031",
+    "branchName": "COLOMBO OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746028",
+    "branchCode": "028",
+    "branchName": "DAMBULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746060",
+    "branchCode": "060",
+    "branchName": "DEHIWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746042",
+    "branchCode": "042",
+    "branchName": "EHELIYAGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746041",
+    "branchCode": "041",
+    "branchName": "ELA KANDA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746023",
+    "branchCode": "023",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746027",
+    "branchCode": "027",
+    "branchName": "GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746007",
+    "branchCode": "007",
+    "branchName": "GAMPAHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746038",
+    "branchCode": "038",
+    "branchName": "HEAD OFF BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746050",
+    "branchCode": "050",
+    "branchName": "HORANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746014",
+    "branchCode": "014",
+    "branchName": "JA ELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746032",
+    "branchCode": "032",
+    "branchName": "JAFFNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746029",
+    "branchCode": "029",
+    "branchName": "KADURUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746015",
+    "branchCode": "015",
+    "branchName": "KADUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746020",
+    "branchCode": "020",
+    "branchName": "KALUTHARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746039",
+    "branchCode": "039",
+    "branchName": "KANDANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746006",
+    "branchCode": "006",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746054",
+    "branchCode": "054",
+    "branchName": "KATUGASTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746016",
+    "branchCode": "016",
+    "branchName": "KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746005",
+    "branchCode": "005",
+    "branchName": "KELANIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746052",
+    "branchCode": "052",
+    "branchName": "KOCHCHIKADE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746030",
+    "branchCode": "030",
+    "branchName": "KOTAHENA 1",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746062",
+    "branchCode": "062",
+    "branchName": "KOTTAWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746045",
+    "branchCode": "045",
+    "branchName": "KULIYAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746004",
+    "branchCode": "004",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746026",
+    "branchCode": "026",
+    "branchName": "MAHARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746021",
+    "branchCode": "021",
+    "branchName": "MAHARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746070",
+    "branchCode": "070",
+    "branchName": "MAHIYANGANAYA",
+    "branchAddress": "MAHIYANGANAYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746058",
+    "branchCode": "058",
+    "branchName": "MALABE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746044",
+    "branchCode": "044",
+    "branchName": "MARAWILA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746055",
+    "branchCode": "055",
+    "branchName": "MATALE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746022",
+    "branchCode": "022",
+    "branchName": "MATARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746019",
+    "branchCode": "019",
+    "branchName": "MATHUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746059",
+    "branchCode": "059",
+    "branchName": "MINUWANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746002",
+    "branchCode": "002",
+    "branchName": "MORATUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746063",
+    "branchCode": "063",
+    "branchName": "NARAMMALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746003",
+    "branchCode": "003",
+    "branchName": "NEGOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746017",
+    "branchCode": "017",
+    "branchName": "NITTAMBUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746048",
+    "branchCode": "048",
+    "branchName": "NUGEGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746047",
+    "branchCode": "047",
+    "branchName": "PANADURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746051",
+    "branchCode": "051",
+    "branchName": "PELMADULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746056",
+    "branchCode": "056",
+    "branchName": "PILIYANDALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746049",
+    "branchCode": "049",
+    "branchName": "PREMIER CENTER",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746040",
+    "branchCode": "040",
+    "branchName": "RAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746053",
+    "branchCode": "053",
+    "branchName": "RAJAGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746008",
+    "branchCode": "008",
+    "branchName": "RATHNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746046",
+    "branchCode": "046",
+    "branchName": "RATMALANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746071",
+    "branchCode": "071",
+    "branchName": "THALAWATHUGODA",
+    "branchAddress": "Thalawathugoda",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746035",
+    "branchCode": "035",
+    "branchName": "TINCOMALEE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746025",
+    "branchCode": "025",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746033",
+    "branchCode": "033",
+    "branchName": "VAVUNIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746061",
+    "branchCode": "061",
+    "branchName": "WARAKAPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746013",
+    "branchCode": "013",
+    "branchName": "WATTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746012",
+    "branchCode": "012",
+    "branchName": "WELLAWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7746018",
+    "branchCode": "018",
+    "branchName": "WENNAPUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7746",
+      "bankName": "CITIZENS DEV.BUS FIN",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6746"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "branchCodeUnique": "7047001",
+    "branchCode": "001",
+    "branchName": "COLOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7047",
+      "bankName": "CITI BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6047"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7047999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7047",
+      "bankName": "CITI BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6047"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7047111",
+    "branchCode": "111",
+    "branchName": "RUPEE DRAFT CLEARIN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7047",
+      "bankName": "CITI BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6047"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

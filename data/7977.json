@@ -1,0 +1,1427 @@
+[
+  {
+    "branchCodeUnique": "7977039",
+    "branchCode": "039",
+    "branchName": "AHUNGALLA",
+    "branchAddress": "AHUNGALLA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977036",
+    "branchCode": "036",
+    "branchName": "AKKARAIPATTU",
+    "branchAddress": "AKKARAIPATTU",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977013",
+    "branchCode": "013",
+    "branchName": "AMBALANGODA",
+    "branchAddress": "AMBALANGODA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977037",
+    "branchCode": "037",
+    "branchName": "AMBLANTOTA",
+    "branchAddress": "AMBLANTOTA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977008",
+    "branchCode": "008",
+    "branchName": "AMPARA",
+    "branchAddress": "AMPARA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977004",
+    "branchCode": "004",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "ANURADHAPURA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977032",
+    "branchCode": "032",
+    "branchName": "BATTICALOA",
+    "branchAddress": "BATTICALOA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977026",
+    "branchCode": "026",
+    "branchName": "BELIATTA",
+    "branchAddress": "BELIATTA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977040",
+    "branchCode": "040",
+    "branchName": "BERUWALA",
+    "branchAddress": "BERUWALA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977041",
+    "branchCode": "041",
+    "branchName": "CHENKALADY",
+    "branchAddress": "CHENKALADY",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977021",
+    "branchCode": "021",
+    "branchName": "DAMBULLA",
+    "branchAddress": "DAMBULLA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977015",
+    "branchCode": "015",
+    "branchName": "DELGODA",
+    "branchAddress": "DELGODA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977027",
+    "branchCode": "027",
+    "branchName": "DICKWELLA",
+    "branchAddress": "DICKWELLA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977042",
+    "branchCode": "042",
+    "branchName": "DIGANA",
+    "branchAddress": "DIGANA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977043",
+    "branchCode": "043",
+    "branchName": "DODANGODA",
+    "branchAddress": "DODANGODA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977044",
+    "branchCode": "044",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "EMBILIPITIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977020",
+    "branchCode": "020",
+    "branchName": "ERAVUR TOWN",
+    "branchAddress": "ERAVUR TOWN",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977012",
+    "branchCode": "012",
+    "branchName": "GALEWELA",
+    "branchAddress": "GALEWELA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977006",
+    "branchCode": "006",
+    "branchName": "GALLE",
+    "branchAddress": "GALLE",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977024",
+    "branchCode": "024",
+    "branchName": "GAMPAHA",
+    "branchAddress": "GAMPAHA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977019",
+    "branchCode": "019",
+    "branchName": "GAMPOLA",
+    "branchAddress": "GAMPOLA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977023",
+    "branchCode": "023",
+    "branchName": "HABARADUWA",
+    "branchAddress": "HABARADUWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977045",
+    "branchCode": "045",
+    "branchName": "HAKMANA",
+    "branchAddress": "HAKMANA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977031",
+    "branchCode": "031",
+    "branchName": "HAMBANTHOTA",
+    "branchAddress": "HAMBANTHOTA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977016",
+    "branchCode": "016",
+    "branchName": "HARISPATTUWA",
+    "branchAddress": "HARISPATTUWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977022",
+    "branchCode": "022",
+    "branchName": "HIKKADUWA",
+    "branchAddress": "HIKKADUWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977046",
+    "branchCode": "046",
+    "branchName": "HINGURAKGODA",
+    "branchAddress": "HINGURAKGODA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977047",
+    "branchCode": "047",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "HOMAGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977048",
+    "branchCode": "048",
+    "branchName": "HORANA",
+    "branchAddress": "HORANA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977049",
+    "branchCode": "049",
+    "branchName": "IBBAGAMUWA",
+    "branchAddress": "IBBAGAMUWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977030",
+    "branchCode": "030",
+    "branchName": "JA-ELA",
+    "branchAddress": "JA-ELA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977017",
+    "branchCode": "017",
+    "branchName": "KADAWATHA",
+    "branchAddress": "KADAWATHA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977076",
+    "branchCode": "076",
+    "branchName": "KADUGANNAWA",
+    "branchAddress": "KADUGANNAWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977051",
+    "branchCode": "051",
+    "branchName": "KAHATAGASDIGILIYA",
+    "branchAddress": "KAHATAGASDIGILIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977003",
+    "branchCode": "003",
+    "branchName": "KALMUNAI",
+    "branchAddress": "KALMUNAI",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977052",
+    "branchCode": "052",
+    "branchName": "KALUTHARA",
+    "branchAddress": "KALUTHARA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977053",
+    "branchCode": "053",
+    "branchName": "KALUTHAWALAI",
+    "branchAddress": "KALUTHAWALAI",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977054",
+    "branchCode": "054",
+    "branchName": "KALUWANCHIKUDY",
+    "branchAddress": "KALUWANCHIKUDY",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977055",
+    "branchCode": "055",
+    "branchName": "KAMBURUPITIYA",
+    "branchAddress": "KAMBURUPITIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977002",
+    "branchCode": "002",
+    "branchName": "KANDY",
+    "branchAddress": "KANDY",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977056",
+    "branchCode": "056",
+    "branchName": "KANTHALE",
+    "branchAddress": "KANTHALE",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977057",
+    "branchCode": "057",
+    "branchName": "KARAPITIYA",
+    "branchAddress": "KARAPITIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977007",
+    "branchCode": "007",
+    "branchName": "KARATHIVU",
+    "branchAddress": "KARATHIVU",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977058",
+    "branchCode": "058",
+    "branchName": "KEGALLE",
+    "branchAddress": "KEGALLE",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977059",
+    "branchCode": "059",
+    "branchName": "KEKIRAWA",
+    "branchAddress": "KEKIRAWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977060",
+    "branchCode": "060",
+    "branchName": "KELANIYA",
+    "branchAddress": "KELANIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977062",
+    "branchCode": "062",
+    "branchName": "KINNIYA",
+    "branchAddress": "KINNIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977038",
+    "branchCode": "038",
+    "branchName": "KIRINDIWALA",
+    "branchAddress": "KIRINDIWALA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977035",
+    "branchCode": "035",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "KURUNEGALA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977025",
+    "branchCode": "025",
+    "branchName": "LANKAPURA",
+    "branchAddress": "LANKAPURA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977001",
+    "branchCode": "001",
+    "branchName": "LOLC DEVELOPMENT FIN HEAD OFFICE",
+    "branchAddress": "Head Office",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977028",
+    "branchCode": "028",
+    "branchName": "MAHARAGAMA",
+    "branchAddress": "MAHARAGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977050",
+    "branchCode": "050",
+    "branchName": "MALABE",
+    "branchAddress": "MALABE",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977063",
+    "branchCode": "063",
+    "branchName": "MANMUNAIPATTU",
+    "branchAddress": "MANMUNAIPATTU",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977064",
+    "branchCode": "064",
+    "branchName": "MATALE",
+    "branchAddress": "MATALE",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977034",
+    "branchCode": "034",
+    "branchName": "MATARA",
+    "branchAddress": "MATARA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977065",
+    "branchCode": "065",
+    "branchName": "MATHUGAMA",
+    "branchAddress": "MATHUGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977011",
+    "branchCode": "011",
+    "branchName": "MEDAWACHCHIYA",
+    "branchAddress": "MEDAWACHCHIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977029",
+    "branchCode": "029",
+    "branchName": "MEDIRIGIRIYA",
+    "branchAddress": "MEDIRIGIRIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977066",
+    "branchCode": "066",
+    "branchName": "MORATUWA",
+    "branchAddress": "MORATUWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977018",
+    "branchCode": "018",
+    "branchName": "MULLIPOTHANA",
+    "branchAddress": "MULLIPOTHANA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977033",
+    "branchCode": "033",
+    "branchName": "NOCHCHIYAGAMA",
+    "branchAddress": "NOCHCHIYAGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977067",
+    "branchCode": "067",
+    "branchName": "PANADURA",
+    "branchAddress": "PANADURA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977061",
+    "branchCode": "061",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "PILIYANDALA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977068",
+    "branchCode": "068",
+    "branchName": "POLGAHAWELA",
+    "branchAddress": "POLGAHAWELA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977005",
+    "branchCode": "005",
+    "branchName": "POLONNARUWA",
+    "branchAddress": "POLONNARUWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977069",
+    "branchCode": "069",
+    "branchName": "RATHTHOTA",
+    "branchAddress": "RATHTHOTA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977070",
+    "branchCode": "070",
+    "branchName": "SAINTHAMARUTHU",
+    "branchAddress": "SAINTHAMARUTHU",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977010",
+    "branchCode": "010",
+    "branchName": "SOORIYAWEWA",
+    "branchAddress": "SOORIYAWEWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977071",
+    "branchCode": "071",
+    "branchName": "THELIJJAVILA",
+    "branchAddress": "THELIJJAVILA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977072",
+    "branchCode": "072",
+    "branchName": "THIRUKKOVIL",
+    "branchAddress": "THIRUKKOVIL",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977073",
+    "branchCode": "073",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "TISSAMAHARAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977074",
+    "branchCode": "074",
+    "branchName": "TRINCOMALEE",
+    "branchAddress": "TRINCOMALEE",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977075",
+    "branchCode": "075",
+    "branchName": "UKUWELA",
+    "branchAddress": "UKUWELA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7977009",
+    "branchCode": "009",
+    "branchName": "WELIGAMA",
+    "branchAddress": "WELIGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7977",
+      "bankName": "LOLC DEVELOPMENT FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6977"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

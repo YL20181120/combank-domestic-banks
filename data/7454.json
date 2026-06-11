@@ -1,0 +1,2339 @@
+[
+  {
+    "branchCodeUnique": "7454058",
+    "branchCode": "058",
+    "branchName": "AKKARAIPATTU BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454054",
+    "branchCode": "054",
+    "branchName": "AKURESSA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454134",
+    "branchCode": "134",
+    "branchName": "ALUTHGAMA",
+    "branchAddress": "ALUTHGAMA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454038",
+    "branchCode": "038",
+    "branchName": "AMBALANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454095",
+    "branchCode": "095",
+    "branchName": "AMBALANTOTA",
+    "branchAddress": "AMBALANTOTA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454041",
+    "branchCode": "041",
+    "branchName": "AMPARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454009",
+    "branchCode": "009",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454115",
+    "branchCode": "115",
+    "branchName": "ATURUGIRIYA",
+    "branchAddress": "Aturugiriya",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454039",
+    "branchCode": "039",
+    "branchName": "AVISSAWELLA BRANCHY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454099",
+    "branchCode": "099",
+    "branchName": "BADDEGAMA",
+    "branchAddress": "Baddegama",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454011",
+    "branchCode": "011",
+    "branchName": "BADULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454080",
+    "branchCode": "080",
+    "branchName": "BALANGODA",
+    "branchAddress": "BALANGODA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454081",
+    "branchCode": "081",
+    "branchName": "BANDARAGAMA",
+    "branchAddress": "Bandaragama",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454015",
+    "branchCode": "015",
+    "branchName": "BANDARANAYAKE MW BR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454017",
+    "branchCode": "017",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454040",
+    "branchCode": "040",
+    "branchName": "BATTICALOA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454117",
+    "branchCode": "117",
+    "branchName": "BELIATTA BRANCH",
+    "branchAddress": "BELIATTA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454124",
+    "branchCode": "124",
+    "branchName": "BIBILA",
+    "branchAddress": "BIBILA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454012",
+    "branchCode": "012",
+    "branchName": "BORELLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454103",
+    "branchCode": "103",
+    "branchName": "BUTTALA",
+    "branchAddress": "WELLAWAYA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454032",
+    "branchCode": "032",
+    "branchName": "CHILAW BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454059",
+    "branchCode": "059",
+    "branchName": "CHUNNAKAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454007",
+    "branchCode": "007",
+    "branchName": "CITY  OFFICE(DFCC)",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454020",
+    "branchCode": "020",
+    "branchName": "DAMBULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454094",
+    "branchCode": "094",
+    "branchName": "DANKOTUWA",
+    "branchAddress": "DANKOTUWA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454084",
+    "branchCode": "084",
+    "branchName": "DEHIATTAKANDIYA",
+    "branchAddress": "DEHIATTAKANDIYA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454025",
+    "branchCode": "025",
+    "branchName": "DENIYAYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454065",
+    "branchCode": "065",
+    "branchName": "DIGANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454068",
+    "branchCode": "068",
+    "branchName": "EHELIYAGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454053",
+    "branchCode": "053",
+    "branchName": "ELPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454045",
+    "branchCode": "045",
+    "branchName": "EMBILIPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454105",
+    "branchCode": "105",
+    "branchName": "EPPAWALA BRANCH",
+    "branchAddress": "ANURADHAPURA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454111",
+    "branchCode": "111",
+    "branchName": "FORT SUPER GRADE BRANCH",
+    "branchAddress": "FORT",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454067",
+    "branchCode": "067",
+    "branchName": "GALEWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454035",
+    "branchCode": "035",
+    "branchName": "GALLE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454010",
+    "branchCode": "010",
+    "branchName": "GAMPAHA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454030",
+    "branchCode": "030",
+    "branchName": "GAMPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454002",
+    "branchCode": "002",
+    "branchName": "GANGODA/NUGEGOD EXT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454076",
+    "branchCode": "076",
+    "branchName": "GANGODAWILA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454090",
+    "branchCode": "090",
+    "branchName": "GIRIULLA",
+    "branchAddress": "Giriulla",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454109",
+    "branchCode": "109",
+    "branchName": "GODAKAWELA",
+    "branchAddress": "GODAKAWELA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454062",
+    "branchCode": "062",
+    "branchName": "HAMBANTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454073",
+    "branchCode": "073",
+    "branchName": "HATTON BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454092",
+    "branchCode": "092",
+    "branchName": "HIKKADUWA",
+    "branchAddress": "HIKKADUWA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454079",
+    "branchCode": "079",
+    "branchName": "HINGURAKGODA",
+    "branchAddress": "HINGURAKGODA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454128",
+    "branchCode": "128",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "HOMAGAMA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454034",
+    "branchCode": "034",
+    "branchName": "HORANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454075",
+    "branchCode": "075",
+    "branchName": "IBBAGAMUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454063",
+    "branchCode": "063",
+    "branchName": "JA-ELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454042",
+    "branchCode": "042",
+    "branchName": "JAFFNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454029",
+    "branchCode": "029",
+    "branchName": "KADAWATHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454014",
+    "branchCode": "014",
+    "branchName": "KADURUWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454078",
+    "branchCode": "078",
+    "branchName": "KADUWELA",
+    "branchAddress": "KADUWELA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454088",
+    "branchCode": "088",
+    "branchName": "KAHAWATTA",
+    "branchAddress": "KAHAWATTA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454037",
+    "branchCode": "037",
+    "branchName": "KALAWANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454026",
+    "branchCode": "026",
+    "branchName": "KALUTARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454006",
+    "branchCode": "006",
+    "branchName": "KANDY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454083",
+    "branchCode": "083",
+    "branchName": "KANDY CITY CENTRE",
+    "branchAddress": "KANDY",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454055",
+    "branchCode": "055",
+    "branchName": "KATTANKUDY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454048",
+    "branchCode": "048",
+    "branchName": "KATUGASTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454049",
+    "branchCode": "049",
+    "branchName": "KEGALLE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454113",
+    "branchCode": "113",
+    "branchName": "KEKIRAWA",
+    "branchAddress": "KEKIRAWA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454052",
+    "branchCode": "052",
+    "branchName": "KILINOCHCHI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454027",
+    "branchCode": "027",
+    "branchName": "KIRIBATHGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454089",
+    "branchCode": "089",
+    "branchName": "KOCHCHIKADE",
+    "branchAddress": "KOCHCHIKADE",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454064",
+    "branchCode": "064",
+    "branchName": "KOTAHENA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454019",
+    "branchCode": "019",
+    "branchName": "KOTTAWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454022",
+    "branchCode": "022",
+    "branchName": "KULIYAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454005",
+    "branchCode": "005",
+    "branchName": "KURUNEGALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454112",
+    "branchCode": "112",
+    "branchName": "KURUWITA BRANCH",
+    "branchAddress": "KURUWITA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454118",
+    "branchCode": "118",
+    "branchName": "MAHA OYA",
+    "branchAddress": "MAHA OYA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454016",
+    "branchCode": "016",
+    "branchName": "MAHARAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454110",
+    "branchCode": "110",
+    "branchName": "MAHIYANGANAYA",
+    "branchAddress": "MAHIYANGANAYA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454003",
+    "branchCode": "003",
+    "branchName": "MALABE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454060",
+    "branchCode": "060",
+    "branchName": "MANIPAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454106",
+    "branchCode": "106",
+    "branchName": "MARAWILA",
+    "branchAddress": "NEGAMBO",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454031",
+    "branchCode": "031",
+    "branchName": "MATALE BRANHC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454004",
+    "branchCode": "004",
+    "branchName": "MATARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454069",
+    "branchCode": "069",
+    "branchName": "MATHUGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454107",
+    "branchCode": "107",
+    "branchName": "MAWANELLA BRANCH",
+    "branchAddress": "No 89, New Kandy Road, Mawanella",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454086",
+    "branchCode": "086",
+    "branchName": "MEDIRIGIRIYA",
+    "branchAddress": "MEDIRIGIRIYA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454114",
+    "branchCode": "114",
+    "branchName": "MINUWANGODA BRANCH",
+    "branchAddress": "MINUWANGODA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454050",
+    "branchCode": "050",
+    "branchName": "MONARAGALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454043",
+    "branchCode": "043",
+    "branchName": "MORATUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454072",
+    "branchCode": "072",
+    "branchName": "MT.LAVINIA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454013",
+    "branchCode": "013",
+    "branchName": "NARAHENPITA",
+    "branchAddress": "Narahenpita",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454070",
+    "branchCode": "070",
+    "branchName": "NARAMMALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454028",
+    "branchCode": "028",
+    "branchName": "NAWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454093",
+    "branchCode": "093",
+    "branchName": "NAWALAPITIYA BRANCH",
+    "branchAddress": "NAWALAPITIYA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454018",
+    "branchCode": "018",
+    "branchName": "NEGOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454061",
+    "branchCode": "061",
+    "branchName": "NELLIADY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454071",
+    "branchCode": "071",
+    "branchName": "NIKAWERATIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454101",
+    "branchCode": "101",
+    "branchName": "NIVITHIGALA",
+    "branchAddress": "RATNAPURA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454036",
+    "branchCode": "036",
+    "branchName": "NUWARA ELIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454057",
+    "branchCode": "057",
+    "branchName": "ODDAMAVADI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454023",
+    "branchCode": "023",
+    "branchName": "PANADURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454082",
+    "branchCode": "082",
+    "branchName": "PERADENIYA",
+    "branchAddress": "PERADENIYA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454087",
+    "branchCode": "087",
+    "branchName": "PETTAH - MAIN STREET",
+    "branchAddress": "PETTAH",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454046",
+    "branchCode": "046",
+    "branchName": "PETTAH BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454024",
+    "branchCode": "024",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454700",
+    "branchCode": "700",
+    "branchName": "PREMIER BANKING CEN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454008",
+    "branchCode": "008",
+    "branchName": "RATNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454800",
+    "branchCode": "800",
+    "branchName": "RUPEE DRAFT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": true,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454108",
+    "branchCode": "108",
+    "branchName": "RUWANWELLA",
+    "branchAddress": "RUWANWELLA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454051",
+    "branchCode": "051",
+    "branchName": "SAINTHAMARUTHU BRN.",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454501",
+    "branchCode": "501",
+    "branchName": "SOUTHERN PROV POSTL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454056",
+    "branchCode": "056",
+    "branchName": "TANGALLE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454066",
+    "branchCode": "066",
+    "branchName": "THAMBUTTEGAMA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454097",
+    "branchCode": "097",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "Tissamaharama",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454044",
+    "branchCode": "044",
+    "branchName": "TRINCOMALEE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454119",
+    "branchCode": "119",
+    "branchName": "UHANA",
+    "branchAddress": "Uhana",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454047",
+    "branchCode": "047",
+    "branchName": "VAVUNIA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454122",
+    "branchCode": "122",
+    "branchName": "VEYANGODA",
+    "branchAddress": "VEYANGODA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454125",
+    "branchCode": "125",
+    "branchName": "WARAKAPOLA BRANCH",
+    "branchAddress": "WARAKAPOLA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454021",
+    "branchCode": "021",
+    "branchName": "WATTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454096",
+    "branchCode": "096",
+    "branchName": "WATTEGAMA",
+    "branchAddress": "WATTEGAMA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454077",
+    "branchCode": "077",
+    "branchName": "WELIGAMA BRANCH",
+    "branchAddress": "WELIGAMA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454074",
+    "branchCode": "074",
+    "branchName": "WELIMADA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454033",
+    "branchCode": "033",
+    "branchName": "WELLAWATTE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454104",
+    "branchCode": "104",
+    "branchName": "WELLAWAYA BRANCH",
+    "branchAddress": "MONARAGALA",
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7454091",
+    "branchCode": "091",
+    "branchName": "WENNAPPUWA BRANCH",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 4,
+      "bankCode": "7454",
+      "bankName": "DFCC  BANK PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6454"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

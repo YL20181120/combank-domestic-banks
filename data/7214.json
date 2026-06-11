@@ -1,0 +1,2168 @@
+[
+  {
+    "branchCodeUnique": "721494",
+    "branchCode": "94",
+    "branchName": "AKKARAIPATTU",
+    "branchAddress": "AKKARAIPATTU",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214065",
+    "branchCode": "065",
+    "branchName": "AKURESSA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214059",
+    "branchCode": "059",
+    "branchName": "ALUTHGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214047",
+    "branchCode": "047",
+    "branchName": "AMBALANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214048",
+    "branchCode": "048",
+    "branchName": "AMBALANTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214071",
+    "branchCode": "071",
+    "branchName": "ATHURUGIRIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214034",
+    "branchCode": "034",
+    "branchName": "AWISSAWELLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214077",
+    "branchCode": "077",
+    "branchName": "BALANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214112",
+    "branchCode": "112",
+    "branchName": "BAMBALAPITIYA BRANCH",
+    "branchAddress": "BAMBALAPITIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214051",
+    "branchCode": "051",
+    "branchName": "BANDARAWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214090",
+    "branchCode": "090",
+    "branchName": "BATTARAMULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214072",
+    "branchCode": "072",
+    "branchName": "BORALESGAMUWA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214052",
+    "branchCode": "052",
+    "branchName": "BORELLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214062",
+    "branchCode": "062",
+    "branchName": "CHUNNAKAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214000",
+    "branchCode": "000",
+    "branchName": "COLOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214113",
+    "branchCode": "113",
+    "branchName": "COLOMBO FORT BRANCH",
+    "branchAddress": "COLOMBO",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214064",
+    "branchCode": "064",
+    "branchName": "DAMBULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214114",
+    "branchCode": "114",
+    "branchName": "DIGANA BRANCH",
+    "branchAddress": "DIGANA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214078",
+    "branchCode": "078",
+    "branchName": "EHELIYAGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214067",
+    "branchCode": "067",
+    "branchName": "ELPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214058",
+    "branchCode": "058",
+    "branchName": "EMBILIPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214029",
+    "branchCode": "029",
+    "branchName": "GAMPAHA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214050",
+    "branchCode": "050",
+    "branchName": "GAMPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214086",
+    "branchCode": "086",
+    "branchName": "GIRIULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214057",
+    "branchCode": "057",
+    "branchName": "HAMBANTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214088",
+    "branchCode": "088",
+    "branchName": "HANDALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214096",
+    "branchCode": "096",
+    "branchName": "HANWELLA",
+    "branchAddress": "HANWELLA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214106",
+    "branchCode": "106",
+    "branchName": "HIKKADUWA",
+    "branchAddress": "HIKKADUWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214102",
+    "branchCode": "102",
+    "branchName": "HINGORAKGODA",
+    "branchAddress": "Hingorakgoda",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214601",
+    "branchCode": "601",
+    "branchName": "ISLAMIC BANKING UNI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214044",
+    "branchCode": "044",
+    "branchName": "JAELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214060",
+    "branchCode": "060",
+    "branchName": "KADURUWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214055",
+    "branchCode": "055",
+    "branchName": "KADUWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214084",
+    "branchCode": "084",
+    "branchName": "KAHAWATTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214083",
+    "branchCode": "083",
+    "branchName": "KAKIRAWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214053",
+    "branchCode": "053",
+    "branchName": "KALMUNAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214028",
+    "branchCode": "028",
+    "branchName": "KANDANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214002",
+    "branchCode": "002",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214080",
+    "branchCode": "080",
+    "branchName": "KANDY CITY CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214109",
+    "branchCode": "109",
+    "branchName": "KATANA",
+    "branchAddress": "KATANA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214110",
+    "branchCode": "110",
+    "branchName": "KATUGASTOTA",
+    "branchAddress": "KANDY",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214082",
+    "branchCode": "082",
+    "branchName": "KATUNAYAKE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214089",
+    "branchCode": "089",
+    "branchName": "KOCHCHIKADE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214024",
+    "branchCode": "024",
+    "branchName": "KOTAHENA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214111",
+    "branchCode": "111",
+    "branchName": "KOTTAWA",
+    "branchAddress": "KOTTAWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214105",
+    "branchCode": "105",
+    "branchName": "MAHAWEWA",
+    "branchAddress": "MAHAWEWA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214075",
+    "branchCode": "075",
+    "branchName": "MAHIYANGANAYA BRAN.",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214097",
+    "branchCode": "097",
+    "branchName": "MANIPAY",
+    "branchAddress": "Manipay",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214103",
+    "branchCode": "103",
+    "branchName": "MARINE DRIVE BRANCH",
+    "branchAddress": "COLOMBO",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214046",
+    "branchCode": "046",
+    "branchName": "MATALE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214006",
+    "branchCode": "006",
+    "branchName": "MATARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214045",
+    "branchCode": "045",
+    "branchName": "MATUGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214063",
+    "branchCode": "063",
+    "branchName": "MINUWANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214070",
+    "branchCode": "070",
+    "branchName": "MONARAGALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214074",
+    "branchCode": "074",
+    "branchName": "NARAHENPITA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214091",
+    "branchCode": "091",
+    "branchName": "NARAMMALA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214095",
+    "branchCode": "095",
+    "branchName": "NATTHANDIYA BRANCH",
+    "branchAddress": "NATTHANDIYA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214061",
+    "branchCode": "061",
+    "branchName": "NAWALAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214001",
+    "branchCode": "001",
+    "branchName": "NAWAM MAWATHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": true,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214040",
+    "branchCode": "040",
+    "branchName": "NDB AMPARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214019",
+    "branchCode": "019",
+    "branchName": "NDB ANURADHAPURA BR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214018",
+    "branchCode": "018",
+    "branchName": "NDB BADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214039",
+    "branchCode": "039",
+    "branchName": "NDB BATTICALOA BRAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214014",
+    "branchCode": "014",
+    "branchName": "NDB BK KOLLUPITIYAY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214010",
+    "branchCode": "010",
+    "branchName": "NDB CHILAW BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214021",
+    "branchCode": "021",
+    "branchName": "NDB GALLE BRANCH",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214030",
+    "branchCode": "030",
+    "branchName": "NDB HOMAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214027",
+    "branchCode": "027",
+    "branchName": "NDB HORANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214037",
+    "branchCode": "037",
+    "branchName": "NDB JAFFNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214003",
+    "branchCode": "003",
+    "branchName": "NDB JAWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214026",
+    "branchCode": "026",
+    "branchName": "NDB KADAWATHA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214016",
+    "branchCode": "016",
+    "branchName": "NDB KALUTARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214017",
+    "branchCode": "017",
+    "branchName": "NDB KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214025",
+    "branchCode": "025",
+    "branchName": "NDB KIRIBATHGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214032",
+    "branchCode": "032",
+    "branchName": "NDB KOHUWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214042",
+    "branchCode": "042",
+    "branchName": "NDB KULIYAPITIYA BR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214007",
+    "branchCode": "007",
+    "branchName": "NDB KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214012",
+    "branchCode": "012",
+    "branchName": "NDB MAHARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214031",
+    "branchCode": "031",
+    "branchName": "NDB MALABE BRANH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214015",
+    "branchCode": "015",
+    "branchName": "NDB MORATUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214020",
+    "branchCode": "020",
+    "branchName": "NDB MOUNT LAVINIA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214009",
+    "branchCode": "009",
+    "branchName": "NDB NEGOMBO BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214035",
+    "branchCode": "035",
+    "branchName": "NDB PANADURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214022",
+    "branchCode": "022",
+    "branchName": "NDB PELAWATTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214043",
+    "branchCode": "043",
+    "branchName": "NDB PETTAH BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214013",
+    "branchCode": "013",
+    "branchName": "NDB RATNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214041",
+    "branchCode": "041",
+    "branchName": "NDB VAVUNIYA BR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214011",
+    "branchCode": "011",
+    "branchName": "NDB WATTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214038",
+    "branchCode": "038",
+    "branchName": "NDB-TRINCOMALEE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214900",
+    "branchCode": "900",
+    "branchName": "NDBBL CORPORATE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214100",
+    "branchCode": "100",
+    "branchName": "NDBBL RETAIL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214066",
+    "branchCode": "066",
+    "branchName": "NELLIADY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214069",
+    "branchCode": "069",
+    "branchName": "NIKAWERATIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214054",
+    "branchCode": "054",
+    "branchName": "NITTAMBUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214004",
+    "branchCode": "004",
+    "branchName": "NUGEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214076",
+    "branchCode": "076",
+    "branchName": "NUWARAELIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214079",
+    "branchCode": "079",
+    "branchName": "OLD MOOR STREET BRA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214049",
+    "branchCode": "049",
+    "branchName": "PILIMATALAWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214023",
+    "branchCode": "023",
+    "branchName": "PILIYANDALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214087",
+    "branchCode": "087",
+    "branchName": "PITAKOTTE BARNCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214033",
+    "branchCode": "033",
+    "branchName": "PUTTALAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214005",
+    "branchCode": "005",
+    "branchName": "RAJAGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214073",
+    "branchCode": "073",
+    "branchName": "RATMALANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214700",
+    "branchCode": "700",
+    "branchName": "RUPEE DRAFT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214115",
+    "branchCode": "115",
+    "branchName": "SHANGRI-LA COLOMBO",
+    "branchAddress": "SHANGRI-LA COLOMBO",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214116",
+    "branchCode": "116",
+    "branchName": "TANGALLE",
+    "branchAddress": "TANGALLE",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214092",
+    "branchCode": "092",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "Tissamaharama",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214081",
+    "branchCode": "081",
+    "branchName": "URAGASMANHANDIYA BR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214101",
+    "branchCode": "101",
+    "branchName": "WARAKAPOLA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214056",
+    "branchCode": "056",
+    "branchName": "WARIYAPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214008",
+    "branchCode": "008",
+    "branchName": "WELLAWATTE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214036",
+    "branchCode": "036",
+    "branchName": "WENNAPPUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7214068",
+    "branchCode": "068",
+    "branchName": "YAKKALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7214",
+      "bankName": "NDB BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6214"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

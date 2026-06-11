@@ -1,0 +1,1769 @@
+[
+  {
+    "branchCodeUnique": "7922002",
+    "branchCode": "002",
+    "branchName": "AKURESSA BRANCH",
+    "branchAddress": "Akuressa",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922003",
+    "branchCode": "003",
+    "branchName": "AMBALANGODA",
+    "branchAddress": "Ambalangoda",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922004",
+    "branchCode": "004",
+    "branchName": "AMBALANTOTA",
+    "branchAddress": "Ambalntota",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922005",
+    "branchCode": "005",
+    "branchName": "AMPARA",
+    "branchAddress": "Ampara",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922006",
+    "branchCode": "006",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "Anuradhapura",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922007",
+    "branchCode": "007",
+    "branchName": "AWISSAWELLA",
+    "branchAddress": "Awissawella",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922008",
+    "branchCode": "008",
+    "branchName": "BADULLA",
+    "branchAddress": "Badulla",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922009",
+    "branchCode": "009",
+    "branchName": "BALANGODA",
+    "branchAddress": "Balangoda",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922010",
+    "branchCode": "010",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "Bandarawela",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922011",
+    "branchCode": "011",
+    "branchName": "BATTARAMULLA",
+    "branchAddress": "Battaramulla",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922012",
+    "branchCode": "012",
+    "branchName": "BATTICALOA",
+    "branchAddress": "Batticaloa",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922013",
+    "branchCode": "013",
+    "branchName": "BENTOTA",
+    "branchAddress": "Bentota",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922014",
+    "branchCode": "014",
+    "branchName": "CHILAW",
+    "branchAddress": "Chilaw",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922015",
+    "branchCode": "015",
+    "branchName": "CHUNNAKAM",
+    "branchAddress": "Chunnakam",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922016",
+    "branchCode": "016",
+    "branchName": "COLLPITY",
+    "branchAddress": "Kollutipiya",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922017",
+    "branchCode": "017",
+    "branchName": "DAMBULLA",
+    "branchAddress": "Dambulla",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922018",
+    "branchCode": "018",
+    "branchName": "DEHIWALA",
+    "branchAddress": "Dehiwala",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922019",
+    "branchCode": "019",
+    "branchName": "DENIYAYA",
+    "branchAddress": "Deniyaya",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922020",
+    "branchCode": "020",
+    "branchName": "DIGANA",
+    "branchAddress": "Digana",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922021",
+    "branchCode": "021",
+    "branchName": "ELPITIYA",
+    "branchAddress": "Elpitiya",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922022",
+    "branchCode": "022",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "Embilipitiya",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922023",
+    "branchCode": "023",
+    "branchName": "GALLE",
+    "branchAddress": "Galle",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922024",
+    "branchCode": "024",
+    "branchName": "GAMPAHA",
+    "branchAddress": "Gampaha",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922025",
+    "branchCode": "025",
+    "branchName": "GAMPOLA",
+    "branchAddress": "Gampola",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922026",
+    "branchCode": "026",
+    "branchName": "GIRIULLA",
+    "branchAddress": "Giriulla",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922027",
+    "branchCode": "027",
+    "branchName": "GRANDPASS",
+    "branchAddress": "Grandpass",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922028",
+    "branchCode": "028",
+    "branchName": "HAMBANTOTA",
+    "branchAddress": "Hambantota",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922029",
+    "branchCode": "029",
+    "branchName": "HATTON",
+    "branchAddress": "Hatton",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922030",
+    "branchCode": "030",
+    "branchName": "HAVELOCK CITY",
+    "branchAddress": "Havelock City",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "head office",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922031",
+    "branchCode": "031",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "Homagama",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922032",
+    "branchCode": "032",
+    "branchName": "HORANA",
+    "branchAddress": "Horana",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922033",
+    "branchCode": "033",
+    "branchName": "JA-ELA",
+    "branchAddress": "Ja-Ela",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922034",
+    "branchCode": "034",
+    "branchName": "JAFFNA",
+    "branchAddress": "Jaffna",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922035",
+    "branchCode": "035",
+    "branchName": "KADAWATHA",
+    "branchAddress": "Kadawatha",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922036",
+    "branchCode": "036",
+    "branchName": "KADUWEL",
+    "branchAddress": "Kaduwela",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922037",
+    "branchCode": "037",
+    "branchName": "KALAWANA",
+    "branchAddress": "Kalawana",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922040",
+    "branchCode": "040",
+    "branchName": "KALAWANCHIKUDY",
+    "branchAddress": "Kalawanchikudy",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922038",
+    "branchCode": "038",
+    "branchName": "KALMUNAI",
+    "branchAddress": "Kalmunai",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922039",
+    "branchCode": "039",
+    "branchName": "KALUTHARA",
+    "branchAddress": "Kaluthara",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922041",
+    "branchCode": "041",
+    "branchName": "KANDY",
+    "branchAddress": "Kandy",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922042",
+    "branchCode": "042",
+    "branchName": "KANDY - ALSAFA",
+    "branchAddress": "Kandy",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922043",
+    "branchCode": "043",
+    "branchName": "KANTALE",
+    "branchAddress": "Kantale",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922044",
+    "branchCode": "044",
+    "branchName": "KATTANKUDY",
+    "branchAddress": "Kattankudy",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922045",
+    "branchCode": "045",
+    "branchName": "KEGALLE",
+    "branchAddress": "Kegalle",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922046",
+    "branchCode": "046",
+    "branchName": "KEKIRAWA",
+    "branchAddress": "Kekirawa",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922047",
+    "branchCode": "047",
+    "branchName": "KELANIYA",
+    "branchAddress": "Kelaniya",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922048",
+    "branchCode": "048",
+    "branchName": "KILINOCHCHI",
+    "branchAddress": "KILINOCHCHI",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922049",
+    "branchCode": "049",
+    "branchName": "KIRINDIWELA",
+    "branchAddress": "KIRINDIWELA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922050",
+    "branchCode": "050",
+    "branchName": "KULIYAPITIYA",
+    "branchAddress": "KULIYAPITIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922051",
+    "branchCode": "051",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "KURUNEGALA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922052",
+    "branchCode": "052",
+    "branchName": "MAHAIYAWA",
+    "branchAddress": "MAHAIYAWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922053",
+    "branchCode": "053",
+    "branchName": "MAHARAGAMA",
+    "branchAddress": "MAHARAGAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922054",
+    "branchCode": "054",
+    "branchName": "MAHIYANGANAYA",
+    "branchAddress": "MAHIYANGANAYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922055",
+    "branchCode": "055",
+    "branchName": "MANNAR",
+    "branchAddress": "MANNAR",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922056",
+    "branchCode": "056",
+    "branchName": "MATALE",
+    "branchAddress": "MATALE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922057",
+    "branchCode": "057",
+    "branchName": "MATARA",
+    "branchAddress": "MATARA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922058",
+    "branchCode": "058",
+    "branchName": "MATHUGAMA",
+    "branchAddress": "MATHUGAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922059",
+    "branchCode": "059",
+    "branchName": "MEDAWACHCHIYA",
+    "branchAddress": "MEDAWACHCHIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922060",
+    "branchCode": "060",
+    "branchName": "MELSIRIPURA",
+    "branchAddress": "MELSIRIPURA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922061",
+    "branchCode": "061",
+    "branchName": "METROPOLITAN OFFICE",
+    "branchAddress": "COLOMBO",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922062",
+    "branchCode": "062",
+    "branchName": "MINUWANGODA",
+    "branchAddress": "MINUWANGODA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922063",
+    "branchCode": "063",
+    "branchName": "MIRIGAMA",
+    "branchAddress": "MIRIGAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922064",
+    "branchCode": "064",
+    "branchName": "MONARAGALA",
+    "branchAddress": "MONARAGALA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922065",
+    "branchCode": "065",
+    "branchName": "MORATUWA",
+    "branchAddress": "MORATUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922066",
+    "branchCode": "066",
+    "branchName": "MUTUR",
+    "branchAddress": "MUTUR",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922067",
+    "branchCode": "067",
+    "branchName": "NAWALAPITIYA",
+    "branchAddress": "NAWALAPITIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922068",
+    "branchCode": "068",
+    "branchName": "NEGAMBO",
+    "branchAddress": "NEGAMBO",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922069",
+    "branchCode": "069",
+    "branchName": "NELUWA",
+    "branchAddress": "NELUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922070",
+    "branchCode": "070",
+    "branchName": "NITTAMBUWA",
+    "branchAddress": "NITTAMBUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922071",
+    "branchCode": "071",
+    "branchName": "NUGEGODA",
+    "branchAddress": "NUGEGODA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922072",
+    "branchCode": "072",
+    "branchName": "NUWARA ELIYA",
+    "branchAddress": "NUWARA ELIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922073",
+    "branchCode": "073",
+    "branchName": "PANADURA",
+    "branchAddress": "PANADURA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922074",
+    "branchCode": "074",
+    "branchName": "PELMADULLA",
+    "branchAddress": "PELMADULLA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922075",
+    "branchCode": "075",
+    "branchName": "PETTAH",
+    "branchAddress": "PETTAH",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922076",
+    "branchCode": "076",
+    "branchName": "PILIMATHALAWA",
+    "branchAddress": "PILIMATHALAWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922077",
+    "branchCode": "077",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "PILIYANDALA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922078",
+    "branchCode": "078",
+    "branchName": "POLONNARUWA",
+    "branchAddress": "POLONNARUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922079",
+    "branchCode": "079",
+    "branchName": "PUTTALAM ALSAFA",
+    "branchAddress": "PUTTALAM",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922080",
+    "branchCode": "080",
+    "branchName": "RATNAPURA",
+    "branchAddress": "RATNAPURA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922081",
+    "branchCode": "081",
+    "branchName": "TANGALLE",
+    "branchAddress": "TANGALLE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922082",
+    "branchCode": "082",
+    "branchName": "THAMBUTTEGAMA",
+    "branchAddress": "THAMBUTTEGAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922083",
+    "branchCode": "083",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "TISSAMAHARAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922084",
+    "branchCode": "084",
+    "branchName": "TRINCOMALEE",
+    "branchAddress": "TRINCOMALEE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922085",
+    "branchCode": "085",
+    "branchName": "UNION PLACE ALSAFA",
+    "branchAddress": "UNION PLACE ALSAFA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922086",
+    "branchCode": "086",
+    "branchName": "VAVUNIYA",
+    "branchAddress": "VAVUNIYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922087",
+    "branchCode": "087",
+    "branchName": "WARD PLACE",
+    "branchAddress": "WARD PLACE",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922088",
+    "branchCode": "088",
+    "branchName": "WARIYAPOLA",
+    "branchAddress": "WARIYAPOLA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922089",
+    "branchCode": "089",
+    "branchName": "WATTALA",
+    "branchAddress": "WATTALA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922090",
+    "branchCode": "090",
+    "branchName": "WELIMADA",
+    "branchAddress": "WELIMADA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922091",
+    "branchCode": "091",
+    "branchName": "WELLAWATTA",
+    "branchAddress": "WELLAWATTA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922092",
+    "branchCode": "092",
+    "branchName": "WELLAWAYA",
+    "branchAddress": "WELLAWAYA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7922093",
+    "branchCode": "093",
+    "branchName": "WENNAPPUWA",
+    "branchAddress": "WENNAPPUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7922",
+      "bankName": "PEOPLES LEASING",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6922"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

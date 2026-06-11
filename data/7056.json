@@ -1,0 +1,5246 @@
+[
+  {
+    "branchCodeUnique": "7056172",
+    "branchCode": "172",
+    "branchName": "AKKARAIPATTU BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056219",
+    "branchCode": "219",
+    "branchName": "AKURANA (MINICOM)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056035",
+    "branchCode": "035",
+    "branchName": "AKURESSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056188",
+    "branchCode": "188",
+    "branchName": "ALAWWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056040",
+    "branchCode": "040",
+    "branchName": "ALUTHGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056097",
+    "branchCode": "097",
+    "branchName": "AMBALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056063",
+    "branchCode": "063",
+    "branchName": "AMBALANTOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056100",
+    "branchCode": "100",
+    "branchName": "AMPARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056294",
+    "branchCode": "294",
+    "branchName": "ANAMADUWA",
+    "branchAddress": "No.78, Uswewa Road, Anamaduwa",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056254",
+    "branchCode": "254",
+    "branchName": "ANIWATTA (NIHALS SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056053",
+    "branchCode": "053",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056185",
+    "branchCode": "185",
+    "branchName": "ANURADHAPURA NEW TO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056234",
+    "branchCode": "234",
+    "branchName": "ARPICO SUPER CENTRE",
+    "branchAddress": "ARPICO",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056256",
+    "branchCode": "256",
+    "branchName": "ARPICOSUPER NEGOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056156",
+    "branchCode": "156",
+    "branchName": "ATCHCHUVELY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056130",
+    "branchCode": "130",
+    "branchName": "ATHURUGIRIYA BRANH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056231",
+    "branchCode": "231",
+    "branchName": "ATTIDIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056070",
+    "branchCode": "070",
+    "branchName": "AVISSAWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056098",
+    "branchCode": "098",
+    "branchName": "BADDEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056052",
+    "branchCode": "052",
+    "branchName": "BADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056244",
+    "branchCode": "244",
+    "branchName": "BADULLA MINICOM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056263",
+    "branchCode": "263",
+    "branchName": "BALAGOLLA CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056082",
+    "branchCode": "082",
+    "branchName": "BALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056106",
+    "branchCode": "106",
+    "branchName": "BAMBALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056258",
+    "branchCode": "258",
+    "branchName": "BAMBALAPITIYA(MAJESTIC CITY)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056084",
+    "branchCode": "084",
+    "branchName": "BANDARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056247",
+    "branchCode": "247",
+    "branchName": "BANDARAWATTA(LAUGFS",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056080",
+    "branchCode": "080",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056113",
+    "branchCode": "113",
+    "branchName": "BASELINE ROAD BR",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056240",
+    "branchCode": "240",
+    "branchName": "BATAPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056029",
+    "branchCode": "029",
+    "branchName": "BATTARAMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056252",
+    "branchCode": "252",
+    "branchName": "BATTARAMULLA ARPICO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056105",
+    "branchCode": "105",
+    "branchName": "BATTICALOA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056242",
+    "branchCode": "242",
+    "branchName": "BATTICALOA MINICOM",
+    "branchAddress": "BATTICALOA MINICOM",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056181",
+    "branchCode": "181",
+    "branchName": "BELIATTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056220",
+    "branchCode": "220",
+    "branchName": "BERUWELA (MINICOM)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056249",
+    "branchCode": "249",
+    "branchName": "BIA COUNTER",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056147",
+    "branchCode": "147",
+    "branchName": "BIYAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056226",
+    "branchCode": "226",
+    "branchName": "BOKUNDARA (MINICOM)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056280",
+    "branchCode": "280",
+    "branchName": "BOPITIYA",
+    "branchAddress": "BOPITIYA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056132",
+    "branchCode": "132",
+    "branchName": "BORALESGAMUWA (LAUGFS SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056142",
+    "branchCode": "142",
+    "branchName": "BORALESGAMUWA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056019",
+    "branchCode": "019",
+    "branchName": "BORELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056239",
+    "branchCode": "239",
+    "branchName": "CHANKANAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056126",
+    "branchCode": "126",
+    "branchName": "CHAVAKACHCHERI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056043",
+    "branchCode": "043",
+    "branchName": "CHILAW BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056107",
+    "branchCode": "107",
+    "branchName": "CHUNAKKAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056002",
+    "branchCode": "002",
+    "branchName": "CITY OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056237",
+    "branchCode": "237",
+    "branchName": "COLOMBO GOLD CENTER",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056050",
+    "branchCode": "050",
+    "branchName": "COLOMBO-7",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056054",
+    "branchCode": "054",
+    "branchName": "DAMBULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056164",
+    "branchCode": "164",
+    "branchName": "DANKOTUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056251",
+    "branchCode": "251",
+    "branchName": "DEH ARPICO SUPER",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056058",
+    "branchCode": "058",
+    "branchName": "DEHIWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056276",
+    "branchCode": "276",
+    "branchName": "DEIYANDARA BRANCH",
+    "branchAddress": "DEIYANDARA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056269",
+    "branchCode": "269",
+    "branchName": "DELGODA LAUGFS SUPER",
+    "branchAddress": "DELGODA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056134",
+    "branchCode": "134",
+    "branchName": "DELKANDA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056111",
+    "branchCode": "111",
+    "branchName": "DENIYAYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056140",
+    "branchCode": "140",
+    "branchName": "DIGANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056180",
+    "branchCode": "180",
+    "branchName": "DIVULAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056068",
+    "branchCode": "068",
+    "branchName": "DUPLICATION ROAD",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056158",
+    "branchCode": "158",
+    "branchName": "EHELIYAGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056071",
+    "branchCode": "071",
+    "branchName": "EKALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056169",
+    "branchCode": "169",
+    "branchName": "ELITE BRANCH",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056103",
+    "branchCode": "103",
+    "branchName": "ELPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056030",
+    "branchCode": "030",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056287",
+    "branchCode": "287",
+    "branchName": "EMBULDENIYA BRANCH",
+    "branchAddress": "NUGEGODA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056284",
+    "branchCode": "284",
+    "branchName": "ENDERAMULLA",
+    "branchAddress": "Enderamulla",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056168",
+    "branchCode": "168",
+    "branchName": "ERAVUR BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056003",
+    "branchCode": "003",
+    "branchName": "FOREIGN BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056009",
+    "branchCode": "009",
+    "branchName": "GALEWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056005",
+    "branchCode": "005",
+    "branchName": "GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056027",
+    "branchCode": "027",
+    "branchName": "GALLE CITY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056271",
+    "branchCode": "271",
+    "branchName": "GALLE MAIN STREET BRANCH",
+    "branchAddress": "GALLE",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056044",
+    "branchCode": "044",
+    "branchName": "GAMPAHA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056218",
+    "branchCode": "218",
+    "branchName": "GAMPAHA CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056102",
+    "branchCode": "102",
+    "branchName": "GAMPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056177",
+    "branchCode": "177",
+    "branchName": "GANEMULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056265",
+    "branchCode": "265",
+    "branchName": "GELIOYA(ARPICO SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056182",
+    "branchCode": "182",
+    "branchName": "GIRIULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056197",
+    "branchCode": "197",
+    "branchName": "GODAKAWELA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056057",
+    "branchCode": "057",
+    "branchName": "GRANDPASS",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056166",
+    "branchCode": "166",
+    "branchName": "HAMBANTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056264",
+    "branchCode": "264",
+    "branchName": "HANDALA - CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056143",
+    "branchCode": "143",
+    "branchName": "HANWELLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056115",
+    "branchCode": "115",
+    "branchName": "HATTON",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": true,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056289",
+    "branchCode": "289",
+    "branchName": "HETTIPOLA BRANCH",
+    "branchAddress": "HETTIPOLA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056014",
+    "branchCode": "014",
+    "branchName": "HIKKADUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056015",
+    "branchCode": "015",
+    "branchName": "HINGURAKGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056075",
+    "branchCode": "075",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056076",
+    "branchCode": "076",
+    "branchName": "HORANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056224",
+    "branchCode": "224",
+    "branchName": "HORANA(WIJEMANNA SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056232",
+    "branchCode": "232",
+    "branchName": "HULFTSDROP BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056253",
+    "branchCode": "253",
+    "branchName": "HYDE PARK ARPICO SE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056286",
+    "branchCode": "286",
+    "branchName": "IBBAGAMUWA",
+    "branchAddress": "KURUNEGALA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056901",
+    "branchCode": "901",
+    "branchName": "ISLAMIC BANKING UNI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056081",
+    "branchCode": "081",
+    "branchName": "JA-ELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056230",
+    "branchCode": "230",
+    "branchName": "JA-ELA (K-ZONE)",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056006",
+    "branchCode": "006",
+    "branchName": "JAFFNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056127",
+    "branchCode": "127",
+    "branchName": "JAFFNA CUSTOMER POI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056067",
+    "branchCode": "067",
+    "branchName": "KADAWATHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056088",
+    "branchCode": "088",
+    "branchName": "KADURUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056042",
+    "branchCode": "042",
+    "branchName": "KADUWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056133",
+    "branchCode": "133",
+    "branchName": "KAHAWATTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056138",
+    "branchCode": "138",
+    "branchName": "KALAWANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056152",
+    "branchCode": "152",
+    "branchName": "KALMUNAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056036",
+    "branchCode": "036",
+    "branchName": "KALUTARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056267",
+    "branchCode": "267",
+    "branchName": "KALUTARA-ARPICO SUP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056104",
+    "branchCode": "104",
+    "branchName": "KAMBURUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056031",
+    "branchCode": "031",
+    "branchName": "KANDANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056004",
+    "branchCode": "004",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056150",
+    "branchCode": "150",
+    "branchName": "KANDY CITY OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056298",
+    "branchCode": "298",
+    "branchName": "KANDY STATION ROAD",
+    "branchAddress": "KANDY",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056295",
+    "branchCode": "295",
+    "branchName": "KANTALE",
+    "branchAddress": "Kantale",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056135",
+    "branchCode": "135",
+    "branchName": "KARAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056279",
+    "branchCode": "279",
+    "branchName": "KATANA",
+    "branchAddress": "KATANA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056173",
+    "branchCode": "173",
+    "branchName": "KATARAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056193",
+    "branchCode": "193",
+    "branchName": "KATTANKUDY BRANCH",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056167",
+    "branchCode": "167",
+    "branchName": "KATUBEDDA (MINICOM)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056114",
+    "branchCode": "114",
+    "branchName": "KATUBEDDA(CSP)",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056045",
+    "branchCode": "045",
+    "branchName": "KATUGASTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056245",
+    "branchCode": "245",
+    "branchName": "KATUGASTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056227",
+    "branchCode": "227",
+    "branchName": "KATUKURUNDA MINICOM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056025",
+    "branchCode": "025",
+    "branchName": "KATUNAYAKE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056190",
+    "branchCode": "190",
+    "branchName": "KATUNAYAKE EXT. OFF",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056021",
+    "branchCode": "021",
+    "branchName": "KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056110",
+    "branchCode": "110",
+    "branchName": "KEKIRAWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056275",
+    "branchCode": "275",
+    "branchName": "KELANIYA BRANCH",
+    "branchAddress": "KELANIYA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056039",
+    "branchCode": "039",
+    "branchName": "KEYZER STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056155",
+    "branchCode": "155",
+    "branchName": "KILINOCHCHI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056272",
+    "branchCode": "272",
+    "branchName": "KILINOCHCHI MINICOM",
+    "branchAddress": "KILINOCHCHI MINICOM",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056069",
+    "branchCode": "069",
+    "branchName": "KIRIBATHGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056257",
+    "branchCode": "257",
+    "branchName": "KIRIBATHGODA (LAUGFS SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056292",
+    "branchCode": "292",
+    "branchName": "KIRILLAWALA",
+    "branchAddress": "Kirillawala",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056139",
+    "branchCode": "139",
+    "branchName": "KIRINDIWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056047",
+    "branchCode": "047",
+    "branchName": "KIRULAPONE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056217",
+    "branchCode": "217",
+    "branchName": "KIRULAPONE MINICOM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056074",
+    "branchCode": "074",
+    "branchName": "KOCHCHIKADE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056198",
+    "branchCode": "198",
+    "branchName": "KODIKAMAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056028",
+    "branchCode": "028",
+    "branchName": "KOGGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056087",
+    "branchCode": "087",
+    "branchName": "KOHUWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056266",
+    "branchCode": "266",
+    "branchName": "KOHUWALA (KEELLS SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056011",
+    "branchCode": "011",
+    "branchName": "KOLLUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056196",
+    "branchCode": "196",
+    "branchName": "KOLLUPITIYA (LIBERTY PLAZA)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056282",
+    "branchCode": "282",
+    "branchName": "KOLONNAWA",
+    "branchAddress": "KOLONNAWA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056012",
+    "branchCode": "012",
+    "branchName": "KOTAHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056119",
+    "branchCode": "119",
+    "branchName": "KOTIKAWATTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056121",
+    "branchCode": "121",
+    "branchName": "KOTTAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056051",
+    "branchCode": "051",
+    "branchName": "KULIYAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056255",
+    "branchCode": "255",
+    "branchName": "KUNDASALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056016",
+    "branchCode": "016",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056212",
+    "branchCode": "212",
+    "branchName": "KURUNEGALA (MINICOM)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056122",
+    "branchCode": "122",
+    "branchName": "KURUNEGALA CITY OFFICE",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056175",
+    "branchCode": "175",
+    "branchName": "KURUWITA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056293",
+    "branchCode": "293",
+    "branchName": "MADAMPE",
+    "branchAddress": "Madampe",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056018",
+    "branchCode": "018",
+    "branchName": "MAHARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056209",
+    "branchCode": "209",
+    "branchName": "MAHARAGAMA (LAUGFS SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056137",
+    "branchCode": "137",
+    "branchName": "MAHIYANGANAYA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056199",
+    "branchCode": "199",
+    "branchName": "MAKOLA CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056086",
+    "branchCode": "086",
+    "branchName": "MALABE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056153",
+    "branchCode": "153",
+    "branchName": "MANIPAY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056154",
+    "branchCode": "154",
+    "branchName": "MANNAR BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056032",
+    "branchCode": "032",
+    "branchName": "MARADANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056183",
+    "branchCode": "183",
+    "branchName": "MARAWILA CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056195",
+    "branchCode": "195",
+    "branchName": "MASKELIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056008",
+    "branchCode": "008",
+    "branchName": "MATALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056007",
+    "branchCode": "007",
+    "branchName": "MATARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056222",
+    "branchCode": "222",
+    "branchName": "MATARA (KEELLS SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056151",
+    "branchCode": "151",
+    "branchName": "MATARA CITY OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056096",
+    "branchCode": "096",
+    "branchName": "MATHUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056268",
+    "branchCode": "268",
+    "branchName": "MATTEGODA(LAUGFS SP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056079",
+    "branchCode": "079",
+    "branchName": "MAWANELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056161",
+    "branchCode": "161",
+    "branchName": "MAWATHAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056200",
+    "branchCode": "200",
+    "branchName": "MEDAWACHCHIYA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056176",
+    "branchCode": "176",
+    "branchName": "MIDDENIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056033",
+    "branchCode": "033",
+    "branchName": "MINUWANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056066",
+    "branchCode": "066",
+    "branchName": "MIRIGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056120",
+    "branchCode": "120",
+    "branchName": "MONARAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056059",
+    "branchCode": "059",
+    "branchName": "MORATUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056210",
+    "branchCode": "210",
+    "branchName": "MORATUWA (LAUGFS SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056277",
+    "branchCode": "277",
+    "branchName": "MORAWAKA",
+    "branchAddress": "MORAWAKA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056093",
+    "branchCode": "093",
+    "branchName": "MOUNT LAVINIA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056229",
+    "branchCode": "229",
+    "branchName": "MULLIYAWALAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056023",
+    "branchCode": "023",
+    "branchName": "MUTUWAL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056022",
+    "branchCode": "022",
+    "branchName": "NARAHENPITA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056060",
+    "branchCode": "060",
+    "branchName": "NARAMMALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056055",
+    "branchCode": "055",
+    "branchName": "NATTANDIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056101",
+    "branchCode": "101",
+    "branchName": "NAWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056208",
+    "branchCode": "208",
+    "branchName": "NAWALA - CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056089",
+    "branchCode": "089",
+    "branchName": "NAWALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056259",
+    "branchCode": "259",
+    "branchName": "NAWAM MW SERV POINT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056238",
+    "branchCode": "238",
+    "branchName": "NAWINNA(ARPICO SUPA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056013",
+    "branchCode": "013",
+    "branchName": "NEGOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056118",
+    "branchCode": "118",
+    "branchName": "NEGOMBO CITY OFFICE BRANCH",
+    "branchAddress": "NEGAMBO",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056108",
+    "branchCode": "108",
+    "branchName": "NELLIADY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056125",
+    "branchCode": "125",
+    "branchName": "NELUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056083",
+    "branchCode": "083",
+    "branchName": "NIKAWERATIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056065",
+    "branchCode": "065",
+    "branchName": "NITTAMBUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056261",
+    "branchCode": "261",
+    "branchName": "NITTAMBUWA(NIHAL SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056241",
+    "branchCode": "241",
+    "branchName": "NOCHCHIYAGAMA BRAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056020",
+    "branchCode": "020",
+    "branchName": "NUGEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056034",
+    "branchCode": "034",
+    "branchName": "NUWARA ELIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056017",
+    "branchCode": "017",
+    "branchName": "OLD MOOR STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056187",
+    "branchCode": "187",
+    "branchName": "PADUKKA CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056206",
+    "branchCode": "206",
+    "branchName": "PALAVI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056041",
+    "branchCode": "041",
+    "branchName": "PANADURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056189",
+    "branchCode": "189",
+    "branchName": "PANADURA EXTENTION",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056223",
+    "branchCode": "223",
+    "branchName": "PANADURA(KEELLS SUPER)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056038",
+    "branchCode": "038",
+    "branchName": "PANCHIKAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056144",
+    "branchCode": "144",
+    "branchName": "PANNALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056186",
+    "branchCode": "186",
+    "branchName": "PASSARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056262",
+    "branchCode": "262",
+    "branchName": "PELAWATTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056165",
+    "branchCode": "165",
+    "branchName": "PELIYAGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056149",
+    "branchCode": "149",
+    "branchName": "PELMADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056073",
+    "branchCode": "073",
+    "branchName": "PERADENIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056024",
+    "branchCode": "024",
+    "branchName": "PETTAH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056072",
+    "branchCode": "072",
+    "branchName": "PETTAH MAIN STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056109",
+    "branchCode": "109",
+    "branchName": "PILIMATHALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056077",
+    "branchCode": "077",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056117",
+    "branchCode": "117",
+    "branchName": "PITAKOTTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056283",
+    "branchCode": "283",
+    "branchName": "PITIGALA",
+    "branchAddress": "GALLE",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056274",
+    "branchCode": "274",
+    "branchName": "POINT PEDRO",
+    "branchAddress": "POINT PEDRO",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056141",
+    "branchCode": "141",
+    "branchName": "POLGAHAWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056194",
+    "branchCode": "194",
+    "branchName": "POTTUVIL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056296",
+    "branchCode": "296",
+    "branchName": "PUTHUKKUDIYIRUPU",
+    "branchAddress": "PUTHUKKUDIYIRUPU",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056148",
+    "branchCode": "148",
+    "branchName": "PUTTALAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056131",
+    "branchCode": "131",
+    "branchName": "RADDOLUGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056221",
+    "branchCode": "221",
+    "branchName": "RAGAMA",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056062",
+    "branchCode": "062",
+    "branchName": "RAJAGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056216",
+    "branchCode": "216",
+    "branchName": "RAMANAYAKE MAWATHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056278",
+    "branchCode": "278",
+    "branchName": "RAMBUKKANA",
+    "branchAddress": "Rambukkana",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056046",
+    "branchCode": "046",
+    "branchName": "RATHMALANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056049",
+    "branchCode": "049",
+    "branchName": "RATHNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056213",
+    "branchCode": "213",
+    "branchName": "RATNAPURA (MINICOM)",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056116",
+    "branchCode": "116",
+    "branchName": "REID AVENUE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056163",
+    "branchCode": "163",
+    "branchName": "RUWANWELLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056064",
+    "branchCode": "064",
+    "branchName": "SEEDUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056204",
+    "branchCode": "204",
+    "branchName": "SLIC-CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056123",
+    "branchCode": "123",
+    "branchName": "TANGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056288",
+    "branchCode": "288",
+    "branchName": "TELDENIYA BRANCH",
+    "branchAddress": "TELDENIYA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056184",
+    "branchCode": "184",
+    "branchName": "THALAWAKELLE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056078",
+    "branchCode": "078",
+    "branchName": "THALAWATHUGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056162",
+    "branchCode": "162",
+    "branchName": "THAMBUTTEGAMA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056157",
+    "branchCode": "157",
+    "branchName": "THIRUNELVELY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056124",
+    "branchCode": "124",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056037",
+    "branchCode": "037",
+    "branchName": "TRINCOMALEE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056129",
+    "branchCode": "129",
+    "branchName": "UDUGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056048",
+    "branchCode": "048",
+    "branchName": "UNION PLACE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056211",
+    "branchCode": "211",
+    "branchName": "UNION PLACE (KEELS)",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056236",
+    "branchCode": "236",
+    "branchName": "URUBOKKA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056159",
+    "branchCode": "159",
+    "branchName": "VALACHCHENAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056061",
+    "branchCode": "061",
+    "branchName": "VAVUNIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056171",
+    "branchCode": "171",
+    "branchName": "VAVUNIYA CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056170",
+    "branchCode": "170",
+    "branchName": "VELANAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056250",
+    "branchCode": "250",
+    "branchName": "VEYANGODA",
+    "branchAddress": "VEYANGODA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056146",
+    "branchCode": "146",
+    "branchName": "WADDUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056128",
+    "branchCode": "128",
+    "branchName": "WARAKAPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056145",
+    "branchCode": "145",
+    "branchName": "WARD PLACE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056174",
+    "branchCode": "174",
+    "branchName": "WARIYAPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056056",
+    "branchCode": "056",
+    "branchName": "WATTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056225",
+    "branchCode": "225",
+    "branchName": "WATTALA MINICOM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056260",
+    "branchCode": "260",
+    "branchName": "WATTALA SERVICE POI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056246",
+    "branchCode": "246",
+    "branchName": "WATTEGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056112",
+    "branchCode": "112",
+    "branchName": "WELIGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056136",
+    "branchCode": "136",
+    "branchName": "WELIMADA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056228",
+    "branchCode": "228",
+    "branchName": "WELIWERIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056010",
+    "branchCode": "010",
+    "branchName": "WELLAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056179",
+    "branchCode": "179",
+    "branchName": "WELLAWATTE CSP",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056160",
+    "branchCode": "160",
+    "branchName": "WELLAWAYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056026",
+    "branchCode": "026",
+    "branchName": "WENNAPPUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056248",
+    "branchCode": "248",
+    "branchName": "WENNAPUWA(ARPICO)SU",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056178",
+    "branchCode": "178",
+    "branchName": "WORLD TRADE CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056085",
+    "branchCode": "085",
+    "branchName": "YAKKALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7056281",
+    "branchCode": "281",
+    "branchName": "YATIYANTOTA",
+    "branchAddress": "YATIYANTOTA",
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7056",
+      "bankName": "COMMERCIAL BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6056"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "branchCodeUnique": "7296001",
+    "branchCode": "001",
+    "branchName": "COLOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7296",
+      "bankName": "PUBLIC BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6296"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7296099",
+    "branchCode": "099",
+    "branchName": "RUPEE DRAFT",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7296",
+      "bankName": "PUBLIC BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6296"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

@@ -1,0 +1,1902 @@
+[
+  {
+    "branchCodeUnique": "7773055",
+    "branchCode": "055",
+    "branchName": "AKKARAIPATTU",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773087",
+    "branchCode": "087",
+    "branchName": "AKURESSA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773069",
+    "branchCode": "069",
+    "branchName": "ALUTHGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773015",
+    "branchCode": "015",
+    "branchName": "AMBALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773016",
+    "branchCode": "016",
+    "branchName": "AMPARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773008",
+    "branchCode": "008",
+    "branchName": "ANURADHAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773059",
+    "branchCode": "059",
+    "branchName": "ANURADHAPURA 02",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773017",
+    "branchCode": "017",
+    "branchName": "AVISSAWELLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773006",
+    "branchCode": "006",
+    "branchName": "BADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773082",
+    "branchCode": "082",
+    "branchName": "BADULLA CITY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773024",
+    "branchCode": "024",
+    "branchName": "BALANGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773026",
+    "branchCode": "026",
+    "branchName": "BANDARAWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773092",
+    "branchCode": "092",
+    "branchName": "BATTARAMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773029",
+    "branchCode": "029",
+    "branchName": "BATTICALOA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773022",
+    "branchCode": "022",
+    "branchName": "BORALESGAMUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773046",
+    "branchCode": "046",
+    "branchName": "CHAVAKACHCHERI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773019",
+    "branchCode": "019",
+    "branchName": "CHILAW",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773044",
+    "branchCode": "044",
+    "branchName": "CHUNNAKAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773002",
+    "branchCode": "002",
+    "branchName": "CORPORATE OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773086",
+    "branchCode": "086",
+    "branchName": "DAM STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773023",
+    "branchCode": "023",
+    "branchName": "DAMBULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773027",
+    "branchCode": "027",
+    "branchName": "DEHIWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773084",
+    "branchCode": "084",
+    "branchName": "DELKADA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773122",
+    "branchCode": "122",
+    "branchName": "DHARGA TOWN",
+    "branchAddress": "ALUTHGAMA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773030",
+    "branchCode": "030",
+    "branchName": "ELPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773028",
+    "branchCode": "028",
+    "branchName": "EMBILIPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773009",
+    "branchCode": "009",
+    "branchName": "GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773018",
+    "branchCode": "018",
+    "branchName": "GAMPAHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773040",
+    "branchCode": "040",
+    "branchName": "GAMPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773050",
+    "branchCode": "050",
+    "branchName": "HATTON",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773075",
+    "branchCode": "075",
+    "branchName": "HOMAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773041",
+    "branchCode": "041",
+    "branchName": "HORANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773083",
+    "branchCode": "083",
+    "branchName": "JA ELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773043",
+    "branchCode": "043",
+    "branchName": "JAFFNA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773042",
+    "branchCode": "042",
+    "branchName": "KADAWATHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773073",
+    "branchCode": "073",
+    "branchName": "KADUWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773066",
+    "branchCode": "066",
+    "branchName": "KALAWANCHIKUDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773064",
+    "branchCode": "064",
+    "branchName": "KALMUNAI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773014",
+    "branchCode": "014",
+    "branchName": "KALUTARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773032",
+    "branchCode": "032",
+    "branchName": "KANDANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773005",
+    "branchCode": "005",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773070",
+    "branchCode": "070",
+    "branchName": "KANDY CITY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773123",
+    "branchCode": "123",
+    "branchName": "KARAPITIYA",
+    "branchAddress": "GALLE",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773085",
+    "branchCode": "085",
+    "branchName": "KATHTHANKUDI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773063",
+    "branchCode": "063",
+    "branchName": "KATUGASTHOTA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773025",
+    "branchCode": "025",
+    "branchName": "KEGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773047",
+    "branchCode": "047",
+    "branchName": "KILINOCHCHI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773010",
+    "branchCode": "010",
+    "branchName": "KIRIBATHGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773057",
+    "branchCode": "057",
+    "branchName": "KOCHCHIKADE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773127",
+    "branchCode": "127",
+    "branchName": "KOHUWALA",
+    "branchAddress": "Kohuwala",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773058",
+    "branchCode": "058",
+    "branchName": "KOTAHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773081",
+    "branchCode": "081",
+    "branchName": "KOTTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773037",
+    "branchCode": "037",
+    "branchName": "KULIYAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773076",
+    "branchCode": "076",
+    "branchName": "KURUNAGALA CITY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773011",
+    "branchCode": "011",
+    "branchName": "KURUNEGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773093",
+    "branchCode": "093",
+    "branchName": "KURUNEGALA PREMIER",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773036",
+    "branchCode": "036",
+    "branchName": "MAHARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773033",
+    "branchCode": "033",
+    "branchName": "MAHIYANGANAYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773072",
+    "branchCode": "072",
+    "branchName": "MALABE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773045",
+    "branchCode": "045",
+    "branchName": "MANIPAY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773031",
+    "branchCode": "031",
+    "branchName": "MARADANA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773077",
+    "branchCode": "077",
+    "branchName": "MASKELIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773035",
+    "branchCode": "035",
+    "branchName": "MATALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773013",
+    "branchCode": "013",
+    "branchName": "MATARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773068",
+    "branchCode": "068",
+    "branchName": "MATARA CITY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773052",
+    "branchCode": "052",
+    "branchName": "MATUGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773088",
+    "branchCode": "088",
+    "branchName": "MONARAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773065",
+    "branchCode": "065",
+    "branchName": "MORATUMULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773094",
+    "branchCode": "094",
+    "branchName": "MORATUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773090",
+    "branchCode": "090",
+    "branchName": "MOUNT LAVINIA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773074",
+    "branchCode": "074",
+    "branchName": "NAWALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773004",
+    "branchCode": "004",
+    "branchName": "NEGAMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773051",
+    "branchCode": "051",
+    "branchName": "NELLIADY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773091",
+    "branchCode": "091",
+    "branchName": "NELUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773003",
+    "branchCode": "003",
+    "branchName": "NUGEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773049",
+    "branchCode": "049",
+    "branchName": "NUWARAELIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773007",
+    "branchCode": "007",
+    "branchName": "PANADURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773062",
+    "branchCode": "062",
+    "branchName": "PILIMATHALAWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773021",
+    "branchCode": "021",
+    "branchName": "PILIYANDALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773078",
+    "branchCode": "078",
+    "branchName": "PITIGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773020",
+    "branchCode": "020",
+    "branchName": "POLONNARUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773056",
+    "branchCode": "056",
+    "branchName": "POTHUVIL",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773128",
+    "branchCode": "128",
+    "branchName": "PREMIER COLOMBO 07",
+    "branchAddress": "COLOMBO",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773038",
+    "branchCode": "038",
+    "branchName": "PUTTALAM",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773060",
+    "branchCode": "060",
+    "branchName": "RAJAGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773012",
+    "branchCode": "012",
+    "branchName": "RATNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773080",
+    "branchCode": "080",
+    "branchName": "SAINDAMARTHU",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773079",
+    "branchCode": "079",
+    "branchName": "SAMANTUREI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773067",
+    "branchCode": "067",
+    "branchName": "SEA STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773089",
+    "branchCode": "089",
+    "branchName": "TANGALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773054",
+    "branchCode": "054",
+    "branchName": "THAMBUTHTHEGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773034",
+    "branchCode": "034",
+    "branchName": "TISSAMAHARAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773039",
+    "branchCode": "039",
+    "branchName": "TRINCOMALE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773048",
+    "branchCode": "048",
+    "branchName": "VAVUNIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773121",
+    "branchCode": "121",
+    "branchName": "WADDUWA BRANCH",
+    "branchAddress": "KALUTARA",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773071",
+    "branchCode": "071",
+    "branchName": "WARAKAPOLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773102",
+    "branchCode": "102",
+    "branchName": "WATTALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773061",
+    "branchCode": "061",
+    "branchName": "WELIMADA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7773053",
+    "branchCode": "053",
+    "branchName": "WENNAPPUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 1,
+      "bankCode": "7773",
+      "bankName": "LB FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6773"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

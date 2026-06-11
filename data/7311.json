@@ -1,0 +1,1636 @@
+[
+  {
+    "branchCodeUnique": "7311060",
+    "branchCode": "060",
+    "branchName": "AKKARAIPATHTHU BRN.",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311072",
+    "branchCode": "072",
+    "branchName": "AKURESSA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311041",
+    "branchCode": "041",
+    "branchName": "AMBALANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311053",
+    "branchCode": "053",
+    "branchName": "AMBALANTHOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311032",
+    "branchCode": "032",
+    "branchName": "ANURADHAPURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311045",
+    "branchCode": "045",
+    "branchName": "BADULLA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311062",
+    "branchCode": "062",
+    "branchName": "BALANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311009",
+    "branchCode": "009",
+    "branchName": "BAMBALAPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311048",
+    "branchCode": "048",
+    "branchName": "BANDARAWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311063",
+    "branchCode": "063",
+    "branchName": "BATTARAMULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311040",
+    "branchCode": "040",
+    "branchName": "BATTICALOA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311031",
+    "branchCode": "031",
+    "branchName": "BORELLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311036",
+    "branchCode": "036",
+    "branchName": "CHILAW BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311061",
+    "branchCode": "061",
+    "branchName": "CHUNNAKAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311078",
+    "branchCode": "078",
+    "branchName": "COLOMBO GOLD CENTER",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311049",
+    "branchCode": "049",
+    "branchName": "DAMBULLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311083",
+    "branchCode": "083",
+    "branchName": "DANKOTUWA BRANCH",
+    "branchAddress": "DANKOTUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311015",
+    "branchCode": "015",
+    "branchName": "DEHIWELA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311038",
+    "branchCode": "038",
+    "branchName": "EMBILIPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311071",
+    "branchCode": "071",
+    "branchName": "GALEWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311025",
+    "branchCode": "025",
+    "branchName": "GALLE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311011",
+    "branchCode": "011",
+    "branchName": "GAMPAHA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311030",
+    "branchCode": "030",
+    "branchName": "GAMPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311075",
+    "branchCode": "075",
+    "branchName": "HATTON BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311084",
+    "branchCode": "084",
+    "branchName": "HIKKADUWA",
+    "branchAddress": "HIKKADUWA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311076",
+    "branchCode": "076",
+    "branchName": "HOMAGAMA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311077",
+    "branchCode": "077",
+    "branchName": "HORANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311066",
+    "branchCode": "066",
+    "branchName": "JA-ELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311037",
+    "branchCode": "037",
+    "branchName": "JAFFNA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311026",
+    "branchCode": "026",
+    "branchName": "KADAWATHA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311052",
+    "branchCode": "052",
+    "branchName": "KADURUWELA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311081",
+    "branchCode": "081",
+    "branchName": "KADUWELA",
+    "branchAddress": "KADUWELA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311042",
+    "branchCode": "042",
+    "branchName": "KALMUNAI BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311047",
+    "branchCode": "047",
+    "branchName": "KALUBOWILA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311033",
+    "branchCode": "033",
+    "branchName": "KALUTARA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311005",
+    "branchCode": "005",
+    "branchName": "KANDY",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311044",
+    "branchCode": "044",
+    "branchName": "KANDY CITY CENTRE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311057",
+    "branchCode": "057",
+    "branchName": "KANTHANKUDY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311020",
+    "branchCode": "020",
+    "branchName": "KATUGASTOTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311027",
+    "branchCode": "027",
+    "branchName": "KEGALLE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311067",
+    "branchCode": "067",
+    "branchName": "KEKIRAWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311043",
+    "branchCode": "043",
+    "branchName": "KILINOCHCHI",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311054",
+    "branchCode": "054",
+    "branchName": "KIRIBATHGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311022",
+    "branchCode": "022",
+    "branchName": "KIRULAPONE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311003",
+    "branchCode": "003",
+    "branchName": "KOLLUPITIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311014",
+    "branchCode": "014",
+    "branchName": "KOTAHENA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311080",
+    "branchCode": "080",
+    "branchName": "KOTTAWA",
+    "branchAddress": "PAN ASIA BANK , KOTTAWA.",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311046",
+    "branchCode": "046",
+    "branchName": "KULIYAPITIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311058",
+    "branchCode": "058",
+    "branchName": "KUNDASALE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311012",
+    "branchCode": "012",
+    "branchName": "KURUNAGALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311023",
+    "branchCode": "023",
+    "branchName": "MAHARAGAMA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311035",
+    "branchCode": "035",
+    "branchName": "MALABE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311039",
+    "branchCode": "039",
+    "branchName": "MATALE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311013",
+    "branchCode": "013",
+    "branchName": "MATARA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311082",
+    "branchCode": "082",
+    "branchName": "MAWANELLA",
+    "branchAddress": "MAWANELLA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311001",
+    "branchCode": "001",
+    "branchName": "METRO (WORLD TRADE)",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": true,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311069",
+    "branchCode": "069",
+    "branchName": "MINUWANGODA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311059",
+    "branchCode": "059",
+    "branchName": "MONARAGALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311024",
+    "branchCode": "024",
+    "branchName": "MORATUWA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311021",
+    "branchCode": "021",
+    "branchName": "NARAHENPITA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311079",
+    "branchCode": "079",
+    "branchName": "NAWALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311010",
+    "branchCode": "010",
+    "branchName": "NEGAMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311056",
+    "branchCode": "056",
+    "branchName": "NELLIAY BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311008",
+    "branchCode": "008",
+    "branchName": "NUGEGODA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311018",
+    "branchCode": "018",
+    "branchName": "OLD MOOR STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311019",
+    "branchCode": "019",
+    "branchName": "PABC DAM STREET",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311017",
+    "branchCode": "017",
+    "branchName": "PANADURA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311002",
+    "branchCode": "002",
+    "branchName": "PANCHIKAWATTE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311051",
+    "branchCode": "051",
+    "branchName": "PERADENIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311004",
+    "branchCode": "004",
+    "branchName": "PETTAH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311065",
+    "branchCode": "065",
+    "branchName": "PILIMATHALAWA BRANC",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311055",
+    "branchCode": "055",
+    "branchName": "PILIYANDALA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311064",
+    "branchCode": "064",
+    "branchName": "PUTTALAM BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311006",
+    "branchCode": "006",
+    "branchName": "RAJAGIRIYA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311050",
+    "branchCode": "050",
+    "branchName": "RATMALANA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311007",
+    "branchCode": "007",
+    "branchName": "RATNAPURA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311074",
+    "branchCode": "074",
+    "branchName": "TANGALLE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311068",
+    "branchCode": "068",
+    "branchName": "THALAWATHUGODA BRAN",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311073",
+    "branchCode": "073",
+    "branchName": "TRINCOMALEE BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311034",
+    "branchCode": "034",
+    "branchName": "VAVUNIYA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311070",
+    "branchCode": "070",
+    "branchName": "WARAKAPOLA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311016",
+    "branchCode": "016",
+    "branchName": "WATTALA",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311085",
+    "branchCode": "085",
+    "branchName": "WELIGAMA",
+    "branchAddress": "WELIGAMA",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311029",
+    "branchCode": "029",
+    "branchName": "WELLAWATTA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7311028",
+    "branchCode": "028",
+    "branchName": "WENNAPPUWA BRANCH",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 3,
+      "bankCode": "7311",
+      "bankName": "PAN ASIA BANK LTD",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6311"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

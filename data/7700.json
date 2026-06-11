@@ -1,0 +1,21 @@
+[
+  {
+    "branchCodeUnique": "7700888",
+    "branchCode": "888",
+    "branchName": "COLOMBO",
+    "branchAddress": "No. 40, York Street, Colombo 01.",
+    "bankCode": {
+      "version": 0,
+      "bankCode": "7700",
+      "bankName": "BANK OF CHINA LIMITED",
+      "slipEnable": false,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6700"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

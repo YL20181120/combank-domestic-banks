@@ -1,0 +1,21 @@
+[
+  {
+    "branchCodeUnique": "6870001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "COLOMBO",
+    "bankCode": {
+      "version": 0,
+      "bankCode": "6870",
+      "bankName": "COMMERCIAL CREDIT AND FINANCE PLC",
+      "slipEnable": false,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6870"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

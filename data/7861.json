@@ -1,0 +1,21 @@
+[
+  {
+    "branchCodeUnique": "7861000",
+    "branchCode": "000",
+    "branchName": "HEAD OFFICE BRANCH",
+    "branchAddress": null,
+    "bankCode": {
+      "version": 5,
+      "bankCode": "7861",
+      "bankName": "LOLC FINANCE PLC",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": true,
+      "remarks": "",
+      "ceftBankCode": "6861"
+    },
+    "cardSlipEnable": true,
+    "status": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "branchCodeUnique": "7676001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "HEAD OFFICE",
+    "bankCode": {
+      "version": 0,
+      "bankCode": "7676",
+      "bankName": "ASIA ASSET FINANCE",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6676"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

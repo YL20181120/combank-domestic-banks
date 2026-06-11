@@ -1,0 +1,21 @@
+[
+  {
+    "branchCodeUnique": "6667001",
+    "branchCode": "001",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "HEAD OFFICE",
+    "bankCode": {
+      "version": 0,
+      "bankCode": "6667",
+      "bankName": "CBC FINANCE LIMITED",
+      "slipEnable": false,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": null,
+      "ceftBankCode": "6667"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]

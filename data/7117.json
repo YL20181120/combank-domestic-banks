@@ -1,0 +1,40 @@
+[
+  {
+    "branchCodeUnique": "7117000",
+    "branchCode": "000",
+    "branchName": "COLOMBO",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7117",
+      "bankName": "INDIAN OVERSEAS BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6117"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  },
+  {
+    "branchCodeUnique": "7117999",
+    "branchCode": "999",
+    "branchName": "HEAD OFFICE",
+    "branchAddress": "",
+    "bankCode": {
+      "version": 2,
+      "bankCode": "7117",
+      "bankName": "INDIAN OVERSEAS BANK",
+      "slipEnable": true,
+      "ceftEnable": true,
+      "cardSlipEnable": false,
+      "cardCeftEnable": false,
+      "remarks": "",
+      "ceftBankCode": "6117"
+    },
+    "cardSlipEnable": false,
+    "status": true
+  }
+]
