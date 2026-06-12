@@ -4,6 +4,7 @@ const path = require("path");
 const rootDir = path.resolve(__dirname, "..");
 const dataDir = path.join(rootDir, "data");
 const banksPath = path.join(dataDir, "banks.json");
+const legacyBanksPath = path.join(rootDir, "banks.json");
 const outputPath = path.join(rootDir, "banks.generated.json");
 
 function readJson(filePath) {
@@ -62,6 +63,29 @@ const invalidBranchFiles = [];
 const duplicateCodes = new Set();
 const seenCodes = new Set();
 
+function addRow(row) {
+  const code = normalizeName(row.code);
+  if (!code) {
+    return false;
+  }
+
+  if (seenCodes.has(code)) {
+    duplicateCodes.add(code);
+    return false;
+  }
+
+  seenCodes.add(code);
+  rows.push({
+    code,
+    bankName: normalizeName(row.bankName),
+    agentOption: row.agentOption || "SwiftCode",
+    bankCountry: row.bankCountry || "SRI LANKA",
+    countryCode: row.countryCode || "LK",
+  });
+
+  return true;
+}
+
 for (const bank of banks) {
   const bankCode = String(bank.bankCode);
   const branchPath = path.join(dataDir, `${bankCode}.json`);
@@ -95,18 +119,8 @@ for (const bank of banks) {
       continue;
     }
 
-    const code = normalizeName(branch.branchCodeUnique);
-    if (!code) {
-      continue;
-    }
-
-    if (seenCodes.has(code)) {
-      duplicateCodes.add(code);
-    }
-    seenCodes.add(code);
-
-    rows.push({
-      code,
+    addRow({
+      code: branch.branchCodeUnique,
       bankName: `${toTitleCase(bank.bankName)} / ${toTitleCase(branch.branchName)}`,
       agentOption: "SwiftCode",
       bankCountry: "SRI LANKA",
@@ -114,9 +128,19 @@ for (const bank of banks) {
     });
   }
 }
-rows.push({
-  code: ''
-})
+
+const legacyBanks = readJson(legacyBanksPath);
+const seylanRows = legacyBanks.filter((row) =>
+  normalizeName(row.bankName).startsWith("Seylan Bank")
+);
+
+let addedSeylanRows = 0;
+for (const row of seylanRows) {
+  if (addRow(row)) {
+    addedSeylanRows += 1;
+  }
+}
+
 rows.sort((left, right) => left.code.localeCompare(right.code));
 
 fs.writeFileSync(outputPath, `${JSON.stringify(rows, null, 4)}\n`);
@@ -126,6 +150,8 @@ console.log(`generated rows: ${rows.length}`);
 console.log(`empty branch files: ${emptyBranchFiles.length}`);
 console.log(`missing branch files: ${missingBranchFiles.length}`);
 console.log(`invalid branch files: ${invalidBranchFiles.length}`);
+console.log(`legacy Seylan rows: ${seylanRows.length}`);
+console.log(`added Seylan rows: ${addedSeylanRows}`);
 console.log(`duplicate codes: ${duplicateCodes.size}`);
 
 if (emptyBranchFiles.length > 0) {
