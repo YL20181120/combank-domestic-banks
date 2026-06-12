@@ -1,0 +1,249 @@
+[
+    {
+        "branchCodeUnique": "7038999",
+        "branchCode": "999",
+        "branchName": "HEAD OFFICE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038004",
+        "branchCode": "004",
+        "branchName": "KIRIBATHGODA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038005",
+        "branchCode": "005",
+        "branchName": "KIRULLAPONE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038002",
+        "branchCode": "002",
+        "branchName": "KOLLUPITIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038008",
+        "branchCode": "008",
+        "branchName": "KOLLUPITIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038011",
+        "branchCode": "011",
+        "branchName": "LIPTON  CIRCLE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038001",
+        "branchCode": "001",
+        "branchName": "MAIN OFFICE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": true,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038006",
+        "branchCode": "006",
+        "branchName": "MORATUWA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038012",
+        "branchCode": "012",
+        "branchName": "NEGOMBO BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038007",
+        "branchCode": "007",
+        "branchName": "RAJAGIRIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038015",
+        "branchCode": "015",
+        "branchName": "RUPEE DRAFT",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038014",
+        "branchCode": "014",
+        "branchName": "WATTALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7038003",
+        "branchCode": "003",
+        "branchName": "WELLAWATTA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7038",
+            "bankName": "STANDARD CHARTERED",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6038"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    }
+]

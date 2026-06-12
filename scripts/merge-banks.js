@@ -114,7 +114,9 @@ for (const bank of banks) {
     });
   }
 }
-
+rows.push({
+  code: ''
+})
 rows.sort((left, right) => left.code.localeCompare(right.code));
 
 fs.writeFileSync(outputPath, `${JSON.stringify(rows, null, 4)}\n`);

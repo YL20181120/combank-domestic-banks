@@ -1,0 +1,78 @@
+[
+    {
+        "branchCodeUnique": "7144001",
+        "branchCode": "001",
+        "branchName": "COLOMBO",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7144",
+            "bankName": "STATE BANK OF INDIA",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6144"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7144999",
+        "branchCode": "999",
+        "branchName": "HEAD OFFICE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7144",
+            "bankName": "STATE BANK OF INDIA",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6144"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7144003",
+        "branchCode": "003",
+        "branchName": "JAFFNA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7144",
+            "bankName": "STATE BANK OF INDIA",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6144"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7144002",
+        "branchCode": "002",
+        "branchName": "KANDY",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7144",
+            "bankName": "STATE BANK OF INDIA",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6144"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    }
+]

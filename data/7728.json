@@ -1,0 +1,1636 @@
+[
+    {
+        "branchCodeUnique": "7728001",
+        "branchCode": "001",
+        "branchName": "1ST COLOMBO CITY BR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728074",
+        "branchCode": "074",
+        "branchName": "AKKAREIPATTU BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728008",
+        "branchCode": "008",
+        "branchName": "AKURASSA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728080",
+        "branchCode": "080",
+        "branchName": "ALUTHGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728030",
+        "branchCode": "030",
+        "branchName": "AMBALANGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728023",
+        "branchCode": "023",
+        "branchName": "AMBALANTHOTA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728039",
+        "branchCode": "039",
+        "branchName": "AMPARA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728050",
+        "branchCode": "050",
+        "branchName": "ANAMADUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728051",
+        "branchCode": "051",
+        "branchName": "ANGUNAKOLAPALASSA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728017",
+        "branchCode": "017",
+        "branchName": "ANURADHAPURA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728052",
+        "branchCode": "052",
+        "branchName": "ARALAGANVILA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728044",
+        "branchCode": "044",
+        "branchName": "BADULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728003",
+        "branchCode": "003",
+        "branchName": "BATTARAMULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728029",
+        "branchCode": "029",
+        "branchName": "BATTICALOA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728062",
+        "branchCode": "062",
+        "branchName": "BUTTALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728011",
+        "branchCode": "011",
+        "branchName": "CHILAW BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728035",
+        "branchCode": "035",
+        "branchName": "DAMBULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728058",
+        "branchCode": "058",
+        "branchName": "DEHIATTAKANDIYA BRA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728086",
+        "branchCode": "086",
+        "branchName": "DEHIWALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728049",
+        "branchCode": "049",
+        "branchName": "DENIYAYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728057",
+        "branchCode": "057",
+        "branchName": "DERANIYAGALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728087",
+        "branchCode": "087",
+        "branchName": "EKALA",
+        "branchAddress": "EKALA",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728064",
+        "branchCode": "064",
+        "branchName": "ELPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728004",
+        "branchCode": "004",
+        "branchName": "EMBILIPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728053",
+        "branchCode": "053",
+        "branchName": "GALENBINDUNUWEWA BR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728032",
+        "branchCode": "032",
+        "branchName": "GALLE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728082",
+        "branchCode": "082",
+        "branchName": "GAMPAHA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728048",
+        "branchCode": "048",
+        "branchName": "GAMPOLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728033",
+        "branchCode": "033",
+        "branchName": "GIRIULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728076",
+        "branchCode": "076",
+        "branchName": "HATHARALIYADDA BRAN",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728999",
+        "branchCode": "999",
+        "branchName": "HEAD OFFICE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728077",
+        "branchCode": "077",
+        "branchName": "HINGURANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728005",
+        "branchCode": "005",
+        "branchName": "HORANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728042",
+        "branchCode": "042",
+        "branchName": "JAFFNA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728078",
+        "branchCode": "078",
+        "branchName": "KADUWELA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728022",
+        "branchCode": "022",
+        "branchName": "KALMUNAI BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728025",
+        "branchCode": "025",
+        "branchName": "KALUTARA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728010",
+        "branchCode": "010",
+        "branchName": "KANDY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728073",
+        "branchCode": "073",
+        "branchName": "KANTALE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728007",
+        "branchCode": "007",
+        "branchName": "KARAPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728067",
+        "branchCode": "067",
+        "branchName": "KATUWANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728002",
+        "branchCode": "002",
+        "branchName": "KEGALLE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728071",
+        "branchCode": "071",
+        "branchName": "KEKIRAWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728069",
+        "branchCode": "069",
+        "branchName": "KILINOCHCHI BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728006",
+        "branchCode": "006",
+        "branchName": "KIRIBATHGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728056",
+        "branchCode": "056",
+        "branchName": "KIRULAPONA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728026",
+        "branchCode": "026",
+        "branchName": "KULIYAPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728020",
+        "branchCode": "020",
+        "branchName": "KURUNEGALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728085",
+        "branchCode": "085",
+        "branchName": "MAHABAGE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728081",
+        "branchCode": "081",
+        "branchName": "MAHARAGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728037",
+        "branchCode": "037",
+        "branchName": "MAHO BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728084",
+        "branchCode": "084",
+        "branchName": "MALABE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728046",
+        "branchCode": "046",
+        "branchName": "MAPALAGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728009",
+        "branchCode": "009",
+        "branchName": "MATALE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728031",
+        "branchCode": "031",
+        "branchName": "MATARA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728047",
+        "branchCode": "047",
+        "branchName": "MATHUGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728068",
+        "branchCode": "068",
+        "branchName": "MAWANELLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728040",
+        "branchCode": "040",
+        "branchName": "MEDAWACHCHIYA BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728013",
+        "branchCode": "013",
+        "branchName": "MONARAGALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728075",
+        "branchCode": "075",
+        "branchName": "MORATUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728041",
+        "branchCode": "041",
+        "branchName": "MUTHUR BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728043",
+        "branchCode": "043",
+        "branchName": "NANATTAN BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728079",
+        "branchCode": "079",
+        "branchName": "NARAMMALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728027",
+        "branchCode": "027",
+        "branchName": "NEGAMBO BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728065",
+        "branchCode": "065",
+        "branchName": "NOCHCHIYAGAMA BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728070",
+        "branchCode": "070",
+        "branchName": "PADAVI PARAKRAMAPUR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728055",
+        "branchCode": "055",
+        "branchName": "PILIMATHALAWA BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728094",
+        "branchCode": "094",
+        "branchName": "PILIYANDALA",
+        "branchAddress": "PILIYANDALA",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728028",
+        "branchCode": "028",
+        "branchName": "POLONNARUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728045",
+        "branchCode": "045",
+        "branchName": "POTTUVIL BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728034",
+        "branchCode": "034",
+        "branchName": "RAMBUKKANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728015",
+        "branchCode": "015",
+        "branchName": "RATHNAPURA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728019",
+        "branchCode": "019",
+        "branchName": "RIKILLAGASKADA BRAN",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728014",
+        "branchCode": "014",
+        "branchName": "RUWANWELLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728018",
+        "branchCode": "018",
+        "branchName": "SAHASAPURA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728060",
+        "branchCode": "060",
+        "branchName": "SAMANTHUREI BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728061",
+        "branchCode": "061",
+        "branchName": "SIYABALANDUWA BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728036",
+        "branchCode": "036",
+        "branchName": "THAMBUTHTHEGAMA BRA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728021",
+        "branchCode": "021",
+        "branchName": "TRINCOMALEE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728072",
+        "branchCode": "072",
+        "branchName": "UHANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728063",
+        "branchCode": "063",
+        "branchName": "VALACHCHENA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728012",
+        "branchCode": "012",
+        "branchName": "VAVUNIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728016",
+        "branchCode": "016",
+        "branchName": "WARAKAPOLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728054",
+        "branchCode": "054",
+        "branchName": "WARIYAPOLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728038",
+        "branchCode": "038",
+        "branchName": "WENNAPPUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7728066",
+        "branchCode": "066",
+        "branchName": "YAKKALAMULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 2,
+            "bankCode": "7728",
+            "bankName": "SANASA DEVELOPMENT",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6728"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    }
+]

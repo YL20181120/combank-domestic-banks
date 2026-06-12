@@ -1,0 +1,1142 @@
+[
+    {
+        "branchCodeUnique": "7302063",
+        "branchCode": "063",
+        "branchName": "AKURESSA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302035",
+        "branchCode": "035",
+        "branchName": "AMBALANGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302049",
+        "branchCode": "049",
+        "branchName": "AMBALANTOTA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302031",
+        "branchCode": "031",
+        "branchName": "ANURADHAPURA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302022",
+        "branchCode": "022",
+        "branchName": "ATCHUVELY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302065",
+        "branchCode": "065",
+        "branchName": "ATTIDIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302033",
+        "branchCode": "033",
+        "branchName": "BADULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302051",
+        "branchCode": "051",
+        "branchName": "BALANGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302069",
+        "branchCode": "069",
+        "branchName": "BANDARAWELA",
+        "branchAddress": "Bandarawela",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302025",
+        "branchCode": "025",
+        "branchName": "BATTICALOA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302036",
+        "branchCode": "036",
+        "branchName": "CHILAW BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302021",
+        "branchCode": "021",
+        "branchName": "CHUNNAKKAM BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302002",
+        "branchCode": "002",
+        "branchName": "COLPETTY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302032",
+        "branchCode": "032",
+        "branchName": "DHAMBULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302060",
+        "branchCode": "060",
+        "branchName": "ELPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302044",
+        "branchCode": "044",
+        "branchName": "EMBILIPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302027",
+        "branchCode": "027",
+        "branchName": "GALLE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302024",
+        "branchCode": "024",
+        "branchName": "GAMPAHA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302043",
+        "branchCode": "043",
+        "branchName": "GAMPOLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302999",
+        "branchCode": "999",
+        "branchName": "HEAD OFFICE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302001",
+        "branchCode": "001",
+        "branchName": "HEAD OFFICE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302008",
+        "branchCode": "008",
+        "branchName": "HEAD OFFICE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302034",
+        "branchCode": "034",
+        "branchName": "HORANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302014",
+        "branchCode": "014",
+        "branchName": "JA ELA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302018",
+        "branchCode": "018",
+        "branchName": "JAFFNA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302029",
+        "branchCode": "029",
+        "branchName": "KADAWATHA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302003",
+        "branchCode": "003",
+        "branchName": "KANDY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302045",
+        "branchCode": "045",
+        "branchName": "KEGALLE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302066",
+        "branchCode": "066",
+        "branchName": "KOHUWALA BRANCH",
+        "branchAddress": "KOHUWALA-COLOMBO",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302012",
+        "branchCode": "012",
+        "branchName": "KOTAHENA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302056",
+        "branchCode": "056",
+        "branchName": "KULIYAPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302009",
+        "branchCode": "009",
+        "branchName": "KURUNEGALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302052",
+        "branchCode": "052",
+        "branchName": "MAHARAGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302019",
+        "branchCode": "019",
+        "branchName": "MANNAR BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302037",
+        "branchCode": "037",
+        "branchName": "MARAWILA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302011",
+        "branchCode": "011",
+        "branchName": "MATARA BRANCH",
+        "branchAddress": null,
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302053",
+        "branchCode": "053",
+        "branchName": "MATUGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302050",
+        "branchCode": "050",
+        "branchName": "MINUWANGODA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302058",
+        "branchCode": "058",
+        "branchName": "MONARAGALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302016",
+        "branchCode": "016",
+        "branchName": "MORATUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302004",
+        "branchCode": "004",
+        "branchName": "NAWALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302010",
+        "branchCode": "010",
+        "branchName": "NEGOMBO BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302067",
+        "branchCode": "067",
+        "branchName": "NEW BORELLA BRANCH",
+        "branchAddress": "BORELLA-COLOMBO",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302015",
+        "branchCode": "015",
+        "branchName": "NUGEGODA BRANCH",
+        "branchAddress": null,
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302007",
+        "branchCode": "007",
+        "branchName": "OLD MOOR STREET",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302038",
+        "branchCode": "038",
+        "branchName": "PANADURA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302040",
+        "branchCode": "040",
+        "branchName": "PELWATTA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302006",
+        "branchCode": "006",
+        "branchName": "PETTAH BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302057",
+        "branchCode": "057",
+        "branchName": "PILIMATHALAWA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302028",
+        "branchCode": "028",
+        "branchName": "PILIYANDALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302064",
+        "branchCode": "064",
+        "branchName": "RAJAGIRIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302062",
+        "branchCode": "062",
+        "branchName": "RATMALANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302030",
+        "branchCode": "030",
+        "branchName": "RATNAPURA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302026",
+        "branchCode": "026",
+        "branchName": "TRINCOMALEE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302997",
+        "branchCode": "997",
+        "branchName": "U B CORPORATE BRANCH",
+        "branchAddress": "COLOMBO",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302020",
+        "branchCode": "020",
+        "branchName": "VAVUNIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302046",
+        "branchCode": "046",
+        "branchName": "WARAKAPOLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302023",
+        "branchCode": "023",
+        "branchName": "WATTALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302005",
+        "branchCode": "005",
+        "branchName": "WELLAWATTA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7302017",
+        "branchCode": "017",
+        "branchName": "WENNAPPUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "7302",
+            "bankName": "UNION BNK OF CMB PLC",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": "",
+            "ceftBankCode": "6302"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    }
+]

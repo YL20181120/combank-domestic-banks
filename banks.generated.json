@@ -1,5 +1,22 @@
 [
     {
+        "code": ""
+    },
+    {
+        "code": "6603001",
+        "bankName": "Softlogic Finance / Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "6630001",
+        "bankName": "Singer Finance PLC / Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
         "code": "6667001",
         "bankName": "CBC Finance Limited / Head Office",
         "agentOption": "SwiftCode",
@@ -4181,6 +4198,97 @@
     {
         "code": "7010999",
         "bankName": "Bank Of Ceylon / Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038001",
+        "bankName": "Standard Chartered / Main Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038002",
+        "bankName": "Standard Chartered / Kollupitiya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038003",
+        "bankName": "Standard Chartered / Wellawatta",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038004",
+        "bankName": "Standard Chartered / Kiribathgoda",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038005",
+        "bankName": "Standard Chartered / Kirullapone",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038006",
+        "bankName": "Standard Chartered / Moratuwa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038007",
+        "bankName": "Standard Chartered / Rajagiriya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038008",
+        "bankName": "Standard Chartered / Kollupitiya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038011",
+        "bankName": "Standard Chartered / Lipton Circle",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038012",
+        "bankName": "Standard Chartered / Negombo Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038014",
+        "bankName": "Standard Chartered / Wattala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038015",
+        "bankName": "Standard Chartered / Rupee Draft",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7038999",
+        "bankName": "Standard Chartered / Head Office",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -10661,6 +10769,34 @@
         "countryCode": "LK"
     },
     {
+        "code": "7144001",
+        "bankName": "State Bank Of India / Colombo",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7144002",
+        "bankName": "State Bank Of India / Kandy",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7144003",
+        "bankName": "State Bank Of India / Jaffna Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7144999",
+        "bankName": "State Bank Of India / Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
         "code": "7162000",
         "bankName": "Nation'S Trust Bank / Colombo",
         "agentOption": "SwiftCode",
@@ -12306,6 +12442,1637 @@
         "countryCode": "LK"
     },
     {
+        "code": "7278001",
+        "bankName": "Sampath Bank / City Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278002",
+        "bankName": "Sampath Bank / Pettah",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278003",
+        "bankName": "Sampath Bank / Nugegoda",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278004",
+        "bankName": "Sampath Bank / Borella",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278005",
+        "bankName": "Sampath Bank / Kiribathgoda",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278006",
+        "bankName": "Sampath Bank / Kurunegala",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278007",
+        "bankName": "Sampath Bank / Kandy",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278008",
+        "bankName": "Sampath Bank / Wattala",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278009",
+        "bankName": "Sampath Bank / Navam Mawatha",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278010",
+        "bankName": "Sampath Bank / Matara",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278011",
+        "bankName": "Sampath Bank / Bambalapitiya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278012",
+        "bankName": "Sampath Bank / Fort",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278013",
+        "bankName": "Sampath Bank / Maharagama",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278014",
+        "bankName": "Sampath Bank / Deniyaya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278015",
+        "bankName": "Sampath Bank / Morawaka",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278016",
+        "bankName": "Sampath Bank / Gampaha Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278017",
+        "bankName": "Sampath Bank / Dehiwela",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278018",
+        "bankName": "Sampath Bank / Ratmalana",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278019",
+        "bankName": "Sampath Bank / Piliyandala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278020",
+        "bankName": "Sampath Bank / Eheliyagoda Sampath",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278021",
+        "bankName": "Sampath Bank / Anuradhapura",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278022",
+        "bankName": "Sampath Bank / Avissawella Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278023",
+        "bankName": "Sampath Bank / Kuliyapitiya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278024",
+        "bankName": "Sampath Bank / Negombo Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278025",
+        "bankName": "Sampath Bank / Matale",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278026",
+        "bankName": "Sampath Bank / Panadura Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278027",
+        "bankName": "Sampath Bank / Old Moor Street",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278028",
+        "bankName": "Sampath Bank / Tissamaharamaya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278029",
+        "bankName": "Sampath Bank / Corporate Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278030",
+        "bankName": "Sampath Bank / Wennappuwa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278031",
+        "bankName": "Sampath Bank / Moratuwa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278032",
+        "bankName": "Sampath Bank / Katugastota",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278033",
+        "bankName": "Sampath Bank / Ratnapura",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278034",
+        "bankName": "Sampath Bank / Thimbirigasyaya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278035",
+        "bankName": "Sampath Bank / Galle",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278036",
+        "bankName": "Sampath Bank / Wellawatte Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278037",
+        "bankName": "Sampath Bank / Kotahena",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278038",
+        "bankName": "Sampath Bank / Kaduruwela",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278039",
+        "bankName": "Sampath Bank / Malabe",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278040",
+        "bankName": "Sampath Bank / Narahenpita",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278041",
+        "bankName": "Sampath Bank / Kalawana",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278042",
+        "bankName": "Sampath Bank / Main Street",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278043",
+        "bankName": "Sampath Bank / Embilipitiya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278044",
+        "bankName": "Sampath Bank / Wariyapola",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278045",
+        "bankName": "Sampath Bank / Wellampitiya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278046",
+        "bankName": "Sampath Bank / Bandarawela",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278047",
+        "bankName": "Sampath Bank / Panadura Wekada Br.",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278048",
+        "bankName": "Sampath Bank / Thambuttegama",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278049",
+        "bankName": "Sampath Bank / Deraniyagala",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278050",
+        "bankName": "Sampath Bank / Kalutara",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278051",
+        "bankName": "Sampath Bank / Peradeniya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278052",
+        "bankName": "Sampath Bank / Kottawa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278053",
+        "bankName": "Sampath Bank / Alawwa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278054",
+        "bankName": "Sampath Bank / Neluwa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278055",
+        "bankName": "Sampath Bank / Vavuniya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278056",
+        "bankName": "Sampath Bank / Mahiyanganaya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278057",
+        "bankName": "Sampath Bank / Horana",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278058",
+        "bankName": "Sampath Bank / Harbour-View",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278059",
+        "bankName": "Sampath Bank / Bandaragama",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278060",
+        "bankName": "Sampath Bank / Kadawatha Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278061",
+        "bankName": "Sampath Bank / Battaramulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278062",
+        "bankName": "Sampath Bank / Ampara Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278063",
+        "bankName": "Sampath Bank / Pelawatte",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278064",
+        "bankName": "Sampath Bank / Kegalle Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278065",
+        "bankName": "Sampath Bank / Minuwangoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278066",
+        "bankName": "Sampath Bank / Trincomalee",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278067",
+        "bankName": "Sampath Bank / Ahturigiriya Saving",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278068",
+        "bankName": "Sampath Bank / Yakkala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278069",
+        "bankName": "Sampath Bank / Homagama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278070",
+        "bankName": "Sampath Bank / Gregory'S Rd B/Cent",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278071",
+        "bankName": "Sampath Bank / Nittambuwa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278072",
+        "bankName": "Sampath Bank / Ambalangoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278073",
+        "bankName": "Sampath Bank / Ragama Personal Ban",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278074",
+        "bankName": "Sampath Bank / Monoragala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278075",
+        "bankName": "Sampath Bank / Wadduwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278076",
+        "bankName": "Sampath Bank / Kandana",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278077",
+        "bankName": "Sampath Bank / Veyangoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278078",
+        "bankName": "Sampath Bank / Ganemulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278079",
+        "bankName": "Sampath Bank / Aluthgama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278080",
+        "bankName": "Sampath Bank / Hatton Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278081",
+        "bankName": "Sampath Bank / Welimada Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278082",
+        "bankName": "Sampath Bank / Singer Nugegoda",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278083",
+        "bankName": "Sampath Bank / Kirindiwela Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278084",
+        "bankName": "Sampath Bank / Nuwara Eliya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278085",
+        "bankName": "Sampath Bank / Digana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278086",
+        "bankName": "Sampath Bank / Mirigama",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278087",
+        "bankName": "Sampath Bank / Kottawa Sun Super",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278088",
+        "bankName": "Sampath Bank / Singer Mega",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278089",
+        "bankName": "Sampath Bank / Attidiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278090",
+        "bankName": "Sampath Bank / Dambulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278091",
+        "bankName": "Sampath Bank / Pitakotte",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278092",
+        "bankName": "Sampath Bank / Maharagama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278093",
+        "bankName": "Sampath Bank / Badulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278094",
+        "bankName": "Sampath Bank / Kohuwela",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278095",
+        "bankName": "Sampath Bank / Giriulla",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278096",
+        "bankName": "Sampath Bank / Hendala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278097",
+        "bankName": "Sampath Bank / Balangoda",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278098",
+        "bankName": "Sampath Bank / Ja-Ela Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278099",
+        "bankName": "Sampath Bank / Narammala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278100",
+        "bankName": "Sampath Bank / Kandy",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278101",
+        "bankName": "Sampath Bank / Gampola",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278102",
+        "bankName": "Sampath Bank / Nikaweratiya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278103",
+        "bankName": "Sampath Bank / Pelmadulla",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278104",
+        "bankName": "Sampath Bank / Ambalanthota",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278105",
+        "bankName": "Sampath Bank / Wattegama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278106",
+        "bankName": "Sampath Bank / Matugama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278107",
+        "bankName": "Sampath Bank / Batticaloa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278108",
+        "bankName": "Sampath Bank / Chilaw",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278109",
+        "bankName": "Sampath Bank / Mawathagama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278110",
+        "bankName": "Sampath Bank / Hingurakgoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278111",
+        "bankName": "Sampath Bank / Akkaraipattu",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278112",
+        "bankName": "Sampath Bank / Kalmunai Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278113",
+        "bankName": "Sampath Bank / Wellawaya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278114",
+        "bankName": "Sampath Bank / Embuldeniya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278115",
+        "bankName": "Sampath Bank / Kattankudy",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278116",
+        "bankName": "Sampath Bank / Tangalle Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278117",
+        "bankName": "Sampath Bank / Kirulapone Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278118",
+        "bankName": "Sampath Bank / Baddegama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278119",
+        "bankName": "Sampath Bank / Mannar Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278120",
+        "bankName": "Sampath Bank / Jaffna Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278121",
+        "bankName": "Sampath Bank / Chenkalady Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278122",
+        "bankName": "Sampath Bank / Rajagiriya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278123",
+        "bankName": "Sampath Bank / Kandy City Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278124",
+        "bankName": "Sampath Bank / Oddamavady",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278125",
+        "bankName": "Sampath Bank / Kaluwanchkudy Br",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278126",
+        "bankName": "Sampath Bank / Sainthamaruthu Br",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278127",
+        "bankName": "Sampath Bank / Grandpass Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278128",
+        "bankName": "Sampath Bank / Chunnakam Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278129",
+        "bankName": "Sampath Bank / Nelliady Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278130",
+        "bankName": "Sampath Bank / Pottuvil Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278131",
+        "bankName": "Sampath Bank / Platinum+Cambridge",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278132",
+        "bankName": "Sampath Bank / Nattandiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278133",
+        "bankName": "Sampath Bank / Kundasale Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278134",
+        "bankName": "Sampath Bank / Kollupitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278135",
+        "bankName": "Sampath Bank / Gangodawila Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278136",
+        "bankName": "Sampath Bank / Peliyagoda",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278137",
+        "bankName": "Sampath Bank / Hanwella Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278138",
+        "bankName": "Sampath Bank / Nochchiyagama",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278139",
+        "bankName": "Sampath Bank / Batticaloa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278140",
+        "bankName": "Sampath Bank / Ingiriya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278141",
+        "bankName": "Sampath Bank / Karapitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278142",
+        "bankName": "Sampath Bank / Boralesgamuwa Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278143",
+        "bankName": "Sampath Bank / Anamaduwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278144",
+        "bankName": "Sampath Bank / Maradana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278145",
+        "bankName": "Sampath Bank / Buttala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278146",
+        "bankName": "Sampath Bank / Passara Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278147",
+        "bankName": "Sampath Bank / Manipay Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278148",
+        "bankName": "Sampath Bank / Kilinochchi Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278149",
+        "bankName": "Sampath Bank / Kekirawa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278150",
+        "bankName": "Sampath Bank / Pilimathalawa Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278151",
+        "bankName": "Sampath Bank / Keselwatta Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278152",
+        "bankName": "Sampath Bank / Pussellawa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278153",
+        "bankName": "Sampath Bank / Matara Bazaar Bran",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278154",
+        "bankName": "Sampath Bank / Aralaganwila Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278155",
+        "bankName": "Sampath Bank / Moratumulla",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278156",
+        "bankName": "Sampath Bank / Puttalam Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278157",
+        "bankName": "Sampath Bank / Sooriyawewa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278158",
+        "bankName": "Sampath Bank / Middeniya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278159",
+        "bankName": "Sampath Bank / Galle Bazaar Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278160",
+        "bankName": "Sampath Bank / Mawanella Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278161",
+        "bankName": "Sampath Bank / Bibile Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278162",
+        "bankName": "Sampath Bank / Kaduwela Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278163",
+        "bankName": "Sampath Bank / Rikillagaskada Bran",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278164",
+        "bankName": "Sampath Bank / Chankanai Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278165",
+        "bankName": "Sampath Bank / Kochchikade Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278166",
+        "bankName": "Sampath Bank / Pannala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278167",
+        "bankName": "Sampath Bank / Dehiattakandiya Br",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278168",
+        "bankName": "Sampath Bank / Anuradhapura Newtow",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278169",
+        "bankName": "Sampath Bank / Chavakachcheri Br",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278170",
+        "bankName": "Sampath Bank / Vauniya Super Br.",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278171",
+        "bankName": "Sampath Bank / Kayts Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278172",
+        "bankName": "Sampath Bank / Kantale Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278173",
+        "bankName": "Sampath Bank / Gothatuwa Newtown",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278174",
+        "bankName": "Sampath Bank / Mallavi Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278175",
+        "bankName": "Sampath Bank / Dharmapala Mawatha",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278176",
+        "bankName": "Sampath Bank / Mattegoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278177",
+        "bankName": "Sampath Bank / Kinniya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278178",
+        "bankName": "Sampath Bank / Thalawathugoda Br",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278179",
+        "bankName": "Sampath Bank / Akuressa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278180",
+        "bankName": "Sampath Bank / Beliatta Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278181",
+        "bankName": "Sampath Bank / Habaraduwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278182",
+        "bankName": "Sampath Bank / Ahangama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278183",
+        "bankName": "Sampath Bank / Madadagahamula Brn.",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278184",
+        "bankName": "Sampath Bank / Menikhinna Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278185",
+        "bankName": "Sampath Bank / Ninthavur Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278186",
+        "bankName": "Sampath Bank / Thirunelvely Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278187",
+        "bankName": "Sampath Bank / Hettipola Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278188",
+        "bankName": "Sampath Bank / Rambukkana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278189",
+        "bankName": "Sampath Bank / Madampe Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278190",
+        "bankName": "Sampath Bank / Galewela Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278191",
+        "bankName": "Sampath Bank / Maligawatte Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278192",
+        "bankName": "Sampath Bank / Padukka Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278193",
+        "bankName": "Sampath Bank / Mutwal Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278194",
+        "bankName": "Sampath Bank / Marawila Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278195",
+        "bankName": "Sampath Bank / Nawalapitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278196",
+        "bankName": "Sampath Bank / Dankotuwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278197",
+        "bankName": "Sampath Bank / Maho Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278198",
+        "bankName": "Sampath Bank / Divulapitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278199",
+        "bankName": "Sampath Bank / Mt.Lavinia Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278200",
+        "bankName": "Sampath Bank / Kiribathgoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278201",
+        "bankName": "Sampath Bank / Ruwanwella Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278202",
+        "bankName": "Sampath Bank / Delgoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278203",
+        "bankName": "Sampath Bank / Kahatagasdigiliya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278204",
+        "bankName": "Sampath Bank / Elpitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278205",
+        "bankName": "Sampath Bank / Warakapola Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278206",
+        "bankName": "Sampath Bank / Kamburupitiya Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278207",
+        "bankName": "Sampath Bank / Makola Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278208",
+        "bankName": "Sampath Bank / Muttur Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278209",
+        "bankName": "Sampath Bank / Weligama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278210",
+        "bankName": "Sampath Bank / Karagampitiya Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278211",
+        "bankName": "Sampath Bank / Thalahena Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278212",
+        "bankName": "Sampath Bank / Gampaha Super Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278213",
+        "bankName": "Sampath Bank / Seeduwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278214",
+        "bankName": "Sampath Bank / Orugodawatte Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278215",
+        "bankName": "Sampath Bank / Kurunegala Metro Br",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278216",
+        "bankName": "Sampath Bank / Dickwella Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278217",
+        "bankName": "Sampath Bank / Prince Street Bran",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278218",
+        "bankName": "Sampath Bank / Borella Super",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278219",
+        "bankName": "Sampath Bank / World Trade Center",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278220",
+        "bankName": "Sampath Bank / Heerassagala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278221",
+        "bankName": "Sampath Bank / Pujapitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278222",
+        "bankName": "Sampath Bank / Thalawakele Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278223",
+        "bankName": "Sampath Bank / Nawala Koswatta Brn",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278224",
+        "bankName": "Sampath Bank / Kesbewa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278225",
+        "bankName": "Sampath Bank / Godakawela Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278226",
+        "bankName": "Sampath Bank / Ratnapura Metro",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278227",
+        "bankName": "Sampath Bank / Kelaniya",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278228",
+        "bankName": "Sampath Bank / Polgahawela",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278229",
+        "bankName": "Sampath Bank / Hikkaduwa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278873",
+        "bankName": "Sampath Bank / Inward Remittances",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278993",
+        "bankName": "Sampath Bank / Central Clearing",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278996",
+        "bankName": "Sampath Bank / Card Centre",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7278999",
+        "bankName": "Sampath Bank / Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
         "code": "7296001",
         "bankName": "Public Bank / Colombo",
         "agentOption": "SwiftCode",
@@ -12315,6 +14082,426 @@
     {
         "code": "7296099",
         "bankName": "Public Bank / Rupee Draft",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302001",
+        "bankName": "Union BNK Of CMB PLC / Head Office",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302002",
+        "bankName": "Union BNK Of CMB PLC / Colpetty Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302003",
+        "bankName": "Union BNK Of CMB PLC / Kandy Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302004",
+        "bankName": "Union BNK Of CMB PLC / Nawala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302005",
+        "bankName": "Union BNK Of CMB PLC / Wellawatta Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302006",
+        "bankName": "Union BNK Of CMB PLC / Pettah Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302007",
+        "bankName": "Union BNK Of CMB PLC / Old Moor Street",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302008",
+        "bankName": "Union BNK Of CMB PLC / Head Office Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302009",
+        "bankName": "Union BNK Of CMB PLC / Kurunegala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302010",
+        "bankName": "Union BNK Of CMB PLC / Negombo Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302011",
+        "bankName": "Union BNK Of CMB PLC / Matara Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302012",
+        "bankName": "Union BNK Of CMB PLC / Kotahena Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302014",
+        "bankName": "Union BNK Of CMB PLC / Ja Ela Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302015",
+        "bankName": "Union BNK Of CMB PLC / Nugegoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302016",
+        "bankName": "Union BNK Of CMB PLC / Moratuwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302017",
+        "bankName": "Union BNK Of CMB PLC / Wennappuwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302018",
+        "bankName": "Union BNK Of CMB PLC / Jaffna Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302019",
+        "bankName": "Union BNK Of CMB PLC / Mannar Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302020",
+        "bankName": "Union BNK Of CMB PLC / Vavuniya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302021",
+        "bankName": "Union BNK Of CMB PLC / Chunnakkam Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302022",
+        "bankName": "Union BNK Of CMB PLC / Atchuvely Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302023",
+        "bankName": "Union BNK Of CMB PLC / Wattala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302024",
+        "bankName": "Union BNK Of CMB PLC / Gampaha Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302025",
+        "bankName": "Union BNK Of CMB PLC / Batticaloa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302026",
+        "bankName": "Union BNK Of CMB PLC / Trincomalee Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302027",
+        "bankName": "Union BNK Of CMB PLC / Galle Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302028",
+        "bankName": "Union BNK Of CMB PLC / Piliyandala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302029",
+        "bankName": "Union BNK Of CMB PLC / Kadawatha Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302030",
+        "bankName": "Union BNK Of CMB PLC / Ratnapura Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302031",
+        "bankName": "Union BNK Of CMB PLC / Anuradhapura",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302032",
+        "bankName": "Union BNK Of CMB PLC / Dhambulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302033",
+        "bankName": "Union BNK Of CMB PLC / Badulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302034",
+        "bankName": "Union BNK Of CMB PLC / Horana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302035",
+        "bankName": "Union BNK Of CMB PLC / Ambalangoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302036",
+        "bankName": "Union BNK Of CMB PLC / Chilaw Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302037",
+        "bankName": "Union BNK Of CMB PLC / Marawila Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302038",
+        "bankName": "Union BNK Of CMB PLC / Panadura Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302040",
+        "bankName": "Union BNK Of CMB PLC / Pelwatta Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302043",
+        "bankName": "Union BNK Of CMB PLC / Gampola Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302044",
+        "bankName": "Union BNK Of CMB PLC / Embilipitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302045",
+        "bankName": "Union BNK Of CMB PLC / Kegalle Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302046",
+        "bankName": "Union BNK Of CMB PLC / Warakapola Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302049",
+        "bankName": "Union BNK Of CMB PLC / Ambalantota Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302050",
+        "bankName": "Union BNK Of CMB PLC / Minuwangoda",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302051",
+        "bankName": "Union BNK Of CMB PLC / Balangoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302052",
+        "bankName": "Union BNK Of CMB PLC / Maharagama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302053",
+        "bankName": "Union BNK Of CMB PLC / Matugama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302056",
+        "bankName": "Union BNK Of CMB PLC / Kuliyapitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302057",
+        "bankName": "Union BNK Of CMB PLC / Pilimathalawa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302058",
+        "bankName": "Union BNK Of CMB PLC / Monaragala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302060",
+        "bankName": "Union BNK Of CMB PLC / Elpitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302062",
+        "bankName": "Union BNK Of CMB PLC / Ratmalana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302063",
+        "bankName": "Union BNK Of CMB PLC / Akuressa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302064",
+        "bankName": "Union BNK Of CMB PLC / Rajagiriya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302065",
+        "bankName": "Union BNK Of CMB PLC / Attidiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302066",
+        "bankName": "Union BNK Of CMB PLC / Kohuwala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302067",
+        "bankName": "Union BNK Of CMB PLC / New Borella Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302069",
+        "bankName": "Union BNK Of CMB PLC / Bandarawela",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302997",
+        "bankName": "Union BNK Of CMB PLC / U B Corporate Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7302999",
+        "bankName": "Union BNK Of CMB PLC / Head Office",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"
@@ -15974,6 +18161,608 @@
         "countryCode": "LK"
     },
     {
+        "code": "7728001",
+        "bankName": "Sanasa Development / 1St Colombo City Br",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728002",
+        "bankName": "Sanasa Development / Kegalle Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728003",
+        "bankName": "Sanasa Development / Battaramulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728004",
+        "bankName": "Sanasa Development / Embilipitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728005",
+        "bankName": "Sanasa Development / Horana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728006",
+        "bankName": "Sanasa Development / Kiribathgoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728007",
+        "bankName": "Sanasa Development / Karapitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728008",
+        "bankName": "Sanasa Development / Akurassa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728009",
+        "bankName": "Sanasa Development / Matale Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728010",
+        "bankName": "Sanasa Development / Kandy Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728011",
+        "bankName": "Sanasa Development / Chilaw Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728012",
+        "bankName": "Sanasa Development / Vavuniya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728013",
+        "bankName": "Sanasa Development / Monaragala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728014",
+        "bankName": "Sanasa Development / Ruwanwella Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728015",
+        "bankName": "Sanasa Development / Rathnapura Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728016",
+        "bankName": "Sanasa Development / Warakapola Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728017",
+        "bankName": "Sanasa Development / Anuradhapura Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728018",
+        "bankName": "Sanasa Development / Sahasapura Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728019",
+        "bankName": "Sanasa Development / Rikillagaskada Bran",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728020",
+        "bankName": "Sanasa Development / Kurunegala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728021",
+        "bankName": "Sanasa Development / Trincomalee Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728022",
+        "bankName": "Sanasa Development / Kalmunai Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728023",
+        "bankName": "Sanasa Development / Ambalanthota Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728025",
+        "bankName": "Sanasa Development / Kalutara Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728026",
+        "bankName": "Sanasa Development / Kuliyapitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728027",
+        "bankName": "Sanasa Development / Negambo Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728028",
+        "bankName": "Sanasa Development / Polonnaruwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728029",
+        "bankName": "Sanasa Development / Batticaloa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728030",
+        "bankName": "Sanasa Development / Ambalangoda Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728031",
+        "bankName": "Sanasa Development / Matara Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728032",
+        "bankName": "Sanasa Development / Galle Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728033",
+        "bankName": "Sanasa Development / Giriulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728034",
+        "bankName": "Sanasa Development / Rambukkana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728035",
+        "bankName": "Sanasa Development / Dambulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728036",
+        "bankName": "Sanasa Development / Thambuththegama Bra",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728037",
+        "bankName": "Sanasa Development / Maho Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728038",
+        "bankName": "Sanasa Development / Wennappuwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728039",
+        "bankName": "Sanasa Development / Ampara Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728040",
+        "bankName": "Sanasa Development / Medawachchiya Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728041",
+        "bankName": "Sanasa Development / Muthur Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728042",
+        "bankName": "Sanasa Development / Jaffna Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728043",
+        "bankName": "Sanasa Development / Nanattan Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728044",
+        "bankName": "Sanasa Development / Badulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728045",
+        "bankName": "Sanasa Development / Pottuvil Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728046",
+        "bankName": "Sanasa Development / Mapalagama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728047",
+        "bankName": "Sanasa Development / Mathugama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728048",
+        "bankName": "Sanasa Development / Gampola Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728049",
+        "bankName": "Sanasa Development / Deniyaya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728050",
+        "bankName": "Sanasa Development / Anamaduwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728051",
+        "bankName": "Sanasa Development / Angunakolapalassa",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728052",
+        "bankName": "Sanasa Development / Aralaganvila Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728053",
+        "bankName": "Sanasa Development / Galenbindunuwewa Br",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728054",
+        "bankName": "Sanasa Development / Wariyapola Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728055",
+        "bankName": "Sanasa Development / Pilimathalawa Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728056",
+        "bankName": "Sanasa Development / Kirulapona Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728057",
+        "bankName": "Sanasa Development / Deraniyagala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728058",
+        "bankName": "Sanasa Development / Dehiattakandiya Bra",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728060",
+        "bankName": "Sanasa Development / Samanthurei Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728061",
+        "bankName": "Sanasa Development / Siyabalanduwa Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728062",
+        "bankName": "Sanasa Development / Buttala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728063",
+        "bankName": "Sanasa Development / Valachchena Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728064",
+        "bankName": "Sanasa Development / Elpitiya Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728065",
+        "bankName": "Sanasa Development / Nochchiyagama Branc",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728066",
+        "bankName": "Sanasa Development / Yakkalamulla Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728067",
+        "bankName": "Sanasa Development / Katuwana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728068",
+        "bankName": "Sanasa Development / Mawanella Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728069",
+        "bankName": "Sanasa Development / Kilinochchi Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728070",
+        "bankName": "Sanasa Development / Padavi Parakramapur",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728071",
+        "bankName": "Sanasa Development / Kekirawa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728072",
+        "bankName": "Sanasa Development / Uhana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728073",
+        "bankName": "Sanasa Development / Kantale Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728074",
+        "bankName": "Sanasa Development / Akkareipattu Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728075",
+        "bankName": "Sanasa Development / Moratuwa Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728076",
+        "bankName": "Sanasa Development / Hatharaliyadda Bran",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728077",
+        "bankName": "Sanasa Development / Hingurana Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728078",
+        "bankName": "Sanasa Development / Kaduwela Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728079",
+        "bankName": "Sanasa Development / Narammala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728080",
+        "bankName": "Sanasa Development / Aluthgama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728081",
+        "bankName": "Sanasa Development / Maharagama Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728082",
+        "bankName": "Sanasa Development / Gampaha Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728084",
+        "bankName": "Sanasa Development / Malabe Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728085",
+        "bankName": "Sanasa Development / Mahabage Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728086",
+        "bankName": "Sanasa Development / Dehiwala Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728087",
+        "bankName": "Sanasa Development / Ekala",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728094",
+        "bankName": "Sanasa Development / Piliyandala",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7728999",
+        "bankName": "Sanasa Development / Head Office Branch",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
         "code": "7737001",
         "bankName": "HDFC Bank / Head Office",
         "agentOption": "SwiftCode",
@@ -19126,6 +21915,13 @@
     {
         "code": "7773128",
         "bankName": "LB Finance PLC / Premier Colombo 07",
+        "agentOption": "SwiftCode",
+        "bankCountry": "SRI LANKA",
+        "countryCode": "LK"
+    },
+    {
+        "code": "7782001",
+        "bankName": "Senkadagala Finance / Head Office",
         "agentOption": "SwiftCode",
         "bankCountry": "SRI LANKA",
         "countryCode": "LK"

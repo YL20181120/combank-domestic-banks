@@ -1,0 +1,21 @@
+[
+    {
+        "branchCodeUnique": "6603001",
+        "branchCode": "001",
+        "branchName": "HEAD OFFICE",
+        "branchAddress": "Head Office",
+        "bankCode": {
+            "version": 0,
+            "bankCode": "6603",
+            "bankName": "SOFTLOGIC FINANCE",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": false,
+            "remarks": null,
+            "ceftBankCode": "6603"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    }
+]

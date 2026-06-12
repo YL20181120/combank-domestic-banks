@@ -1,0 +1,4429 @@
+[
+    {
+        "branchCodeUnique": "7278182",
+        "branchCode": "182",
+        "branchName": "AHANGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278067",
+        "branchCode": "067",
+        "branchName": "AHTURIGIRIYA SAVING",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278111",
+        "branchCode": "111",
+        "branchName": "AKKARAIPATTU",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278179",
+        "branchCode": "179",
+        "branchName": "AKURESSA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278053",
+        "branchCode": "053",
+        "branchName": "ALAWWA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278079",
+        "branchCode": "079",
+        "branchName": "ALUTHGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278072",
+        "branchCode": "072",
+        "branchName": "AMBALANGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278104",
+        "branchCode": "104",
+        "branchName": "AMBALANTHOTA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278062",
+        "branchCode": "062",
+        "branchName": "AMPARA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278143",
+        "branchCode": "143",
+        "branchName": "ANAMADUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278021",
+        "branchCode": "021",
+        "branchName": "ANURADHAPURA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278168",
+        "branchCode": "168",
+        "branchName": "ANURADHAPURA NEWTOW",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278154",
+        "branchCode": "154",
+        "branchName": "ARALAGANWILA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278089",
+        "branchCode": "089",
+        "branchName": "ATTIDIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278022",
+        "branchCode": "022",
+        "branchName": "AVISSAWELLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278118",
+        "branchCode": "118",
+        "branchName": "BADDEGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278093",
+        "branchCode": "093",
+        "branchName": "BADULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278097",
+        "branchCode": "097",
+        "branchName": "BALANGODA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278011",
+        "branchCode": "011",
+        "branchName": "BAMBALAPITIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278059",
+        "branchCode": "059",
+        "branchName": "BANDARAGAMA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278046",
+        "branchCode": "046",
+        "branchName": "BANDARAWELA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278061",
+        "branchCode": "061",
+        "branchName": "BATTARAMULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278107",
+        "branchCode": "107",
+        "branchName": "BATTICALOA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278139",
+        "branchCode": "139",
+        "branchName": "BATTICALOA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278180",
+        "branchCode": "180",
+        "branchName": "BELIATTA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278161",
+        "branchCode": "161",
+        "branchName": "BIBILE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278142",
+        "branchCode": "142",
+        "branchName": "BORALESGAMUWA BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278004",
+        "branchCode": "004",
+        "branchName": "BORELLA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278218",
+        "branchCode": "218",
+        "branchName": "BORELLA SUPER",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278145",
+        "branchCode": "145",
+        "branchName": "BUTTALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278996",
+        "branchCode": "996",
+        "branchName": "CARD CENTRE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": true,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278993",
+        "branchCode": "993",
+        "branchName": "CENTRAL CLEARING",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278164",
+        "branchCode": "164",
+        "branchName": "CHANKANAI BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278169",
+        "branchCode": "169",
+        "branchName": "CHAVAKACHCHERI BR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278121",
+        "branchCode": "121",
+        "branchName": "CHENKALADY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278108",
+        "branchCode": "108",
+        "branchName": "CHILAW",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278128",
+        "branchCode": "128",
+        "branchName": "CHUNNAKAM BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278001",
+        "branchCode": "001",
+        "branchName": "CITY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278029",
+        "branchCode": "029",
+        "branchName": "CORPORATE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278090",
+        "branchCode": "090",
+        "branchName": "DAMBULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278196",
+        "branchCode": "196",
+        "branchName": "DANKOTUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278167",
+        "branchCode": "167",
+        "branchName": "DEHIATTAKANDIYA BR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278017",
+        "branchCode": "017",
+        "branchName": "DEHIWELA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278202",
+        "branchCode": "202",
+        "branchName": "DELGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278014",
+        "branchCode": "014",
+        "branchName": "DENIYAYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278049",
+        "branchCode": "049",
+        "branchName": "DERANIYAGALA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278175",
+        "branchCode": "175",
+        "branchName": "DHARMAPALA MAWATHA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278216",
+        "branchCode": "216",
+        "branchName": "DICKWELLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278085",
+        "branchCode": "085",
+        "branchName": "DIGANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278198",
+        "branchCode": "198",
+        "branchName": "DIVULAPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278020",
+        "branchCode": "020",
+        "branchName": "EHELIYAGODA SAMPATH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278204",
+        "branchCode": "204",
+        "branchName": "ELPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278043",
+        "branchCode": "043",
+        "branchName": "EMBILIPITIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278114",
+        "branchCode": "114",
+        "branchName": "EMBULDENIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278012",
+        "branchCode": "012",
+        "branchName": "FORT",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278190",
+        "branchCode": "190",
+        "branchName": "GALEWELA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278035",
+        "branchCode": "035",
+        "branchName": "GALLE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278159",
+        "branchCode": "159",
+        "branchName": "GALLE BAZAAR BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278016",
+        "branchCode": "016",
+        "branchName": "GAMPAHA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278212",
+        "branchCode": "212",
+        "branchName": "GAMPAHA SUPER BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278101",
+        "branchCode": "101",
+        "branchName": "GAMPOLA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278078",
+        "branchCode": "078",
+        "branchName": "GANEMULLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278135",
+        "branchCode": "135",
+        "branchName": "GANGODAWILA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278095",
+        "branchCode": "095",
+        "branchName": "GIRIULLA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278225",
+        "branchCode": "225",
+        "branchName": "GODAKAWELA BRANCH",
+        "branchAddress": "GODAKAWELA",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278173",
+        "branchCode": "173",
+        "branchName": "GOTHATUWA NEWTOWN",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278127",
+        "branchCode": "127",
+        "branchName": "GRANDPASS BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278070",
+        "branchCode": "070",
+        "branchName": "GREGORY'S RD B/CENT",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278181",
+        "branchCode": "181",
+        "branchName": "HABARADUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278137",
+        "branchCode": "137",
+        "branchName": "HANWELLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278058",
+        "branchCode": "058",
+        "branchName": "HARBOUR-VIEW",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278080",
+        "branchCode": "080",
+        "branchName": "HATTON BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278999",
+        "branchCode": "999",
+        "branchName": "HEAD OFFICE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278220",
+        "branchCode": "220",
+        "branchName": "HEERASSAGALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278096",
+        "branchCode": "096",
+        "branchName": "HENDALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278187",
+        "branchCode": "187",
+        "branchName": "HETTIPOLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278229",
+        "branchCode": "229",
+        "branchName": "HIKKADUWA",
+        "branchAddress": "HIKKADUWA",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278110",
+        "branchCode": "110",
+        "branchName": "HINGURAKGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278069",
+        "branchCode": "069",
+        "branchName": "HOMAGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278057",
+        "branchCode": "057",
+        "branchName": "HORANA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278140",
+        "branchCode": "140",
+        "branchName": "INGIRIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278873",
+        "branchCode": "873",
+        "branchName": "INWARD REMITTANCES",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278098",
+        "branchCode": "098",
+        "branchName": "JA-ELA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278120",
+        "branchCode": "120",
+        "branchName": "JAFFNA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278060",
+        "branchCode": "060",
+        "branchName": "KADAWATHA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278038",
+        "branchCode": "038",
+        "branchName": "KADURUWELA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278162",
+        "branchCode": "162",
+        "branchName": "KADUWELA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278203",
+        "branchCode": "203",
+        "branchName": "KAHATAGASDIGILIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278041",
+        "branchCode": "041",
+        "branchName": "KALAWANA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278112",
+        "branchCode": "112",
+        "branchName": "KALMUNAI BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278050",
+        "branchCode": "050",
+        "branchName": "KALUTARA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278125",
+        "branchCode": "125",
+        "branchName": "KALUWANCHKUDY BR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278206",
+        "branchCode": "206",
+        "branchName": "KAMBURUPITIYA BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278076",
+        "branchCode": "076",
+        "branchName": "KANDANA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278007",
+        "branchCode": "007",
+        "branchName": "KANDY",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278100",
+        "branchCode": "100",
+        "branchName": "KANDY",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278123",
+        "branchCode": "123",
+        "branchName": "KANDY CITY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278172",
+        "branchCode": "172",
+        "branchName": "KANTALE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278210",
+        "branchCode": "210",
+        "branchName": "KARAGAMPITIYA BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278141",
+        "branchCode": "141",
+        "branchName": "KARAPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278115",
+        "branchCode": "115",
+        "branchName": "KATTANKUDY",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278032",
+        "branchCode": "032",
+        "branchName": "KATUGASTOTA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278171",
+        "branchCode": "171",
+        "branchName": "KAYTS BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278064",
+        "branchCode": "064",
+        "branchName": "KEGALLE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278149",
+        "branchCode": "149",
+        "branchName": "KEKIRAWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278227",
+        "branchCode": "227",
+        "branchName": "KELANIYA",
+        "branchAddress": "KELANIYA",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278224",
+        "branchCode": "224",
+        "branchName": "KESBEWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278151",
+        "branchCode": "151",
+        "branchName": "KESELWATTA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278148",
+        "branchCode": "148",
+        "branchName": "KILINOCHCHI BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278177",
+        "branchCode": "177",
+        "branchName": "KINNIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278005",
+        "branchCode": "005",
+        "branchName": "KIRIBATHGODA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278200",
+        "branchCode": "200",
+        "branchName": "KIRIBATHGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278083",
+        "branchCode": "083",
+        "branchName": "KIRINDIWELA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278117",
+        "branchCode": "117",
+        "branchName": "KIRULAPONE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278165",
+        "branchCode": "165",
+        "branchName": "KOCHCHIKADE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278094",
+        "branchCode": "094",
+        "branchName": "KOHUWELA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278134",
+        "branchCode": "134",
+        "branchName": "KOLLUPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278037",
+        "branchCode": "037",
+        "branchName": "KOTAHENA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278052",
+        "branchCode": "052",
+        "branchName": "KOTTAWA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278087",
+        "branchCode": "087",
+        "branchName": "KOTTAWA SUN SUPER",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278023",
+        "branchCode": "023",
+        "branchName": "KULIYAPITIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278133",
+        "branchCode": "133",
+        "branchName": "KUNDASALE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278006",
+        "branchCode": "006",
+        "branchName": "KURUNEGALA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278215",
+        "branchCode": "215",
+        "branchName": "KURUNEGALA METRO BR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278183",
+        "branchCode": "183",
+        "branchName": "MADADAGAHAMULA BRN.",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278189",
+        "branchCode": "189",
+        "branchName": "MADAMPE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278013",
+        "branchCode": "013",
+        "branchName": "MAHARAGAMA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278092",
+        "branchCode": "092",
+        "branchName": "MAHARAGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278056",
+        "branchCode": "056",
+        "branchName": "MAHIYANGANAYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278197",
+        "branchCode": "197",
+        "branchName": "MAHO BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278042",
+        "branchCode": "042",
+        "branchName": "MAIN STREET",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278207",
+        "branchCode": "207",
+        "branchName": "MAKOLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278039",
+        "branchCode": "039",
+        "branchName": "MALABE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278191",
+        "branchCode": "191",
+        "branchName": "MALIGAWATTE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278174",
+        "branchCode": "174",
+        "branchName": "MALLAVI BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278147",
+        "branchCode": "147",
+        "branchName": "MANIPAY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278119",
+        "branchCode": "119",
+        "branchName": "MANNAR BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278144",
+        "branchCode": "144",
+        "branchName": "MARADANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278194",
+        "branchCode": "194",
+        "branchName": "MARAWILA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278025",
+        "branchCode": "025",
+        "branchName": "MATALE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278010",
+        "branchCode": "010",
+        "branchName": "MATARA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278153",
+        "branchCode": "153",
+        "branchName": "MATARA BAZAAR BRAN",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278176",
+        "branchCode": "176",
+        "branchName": "MATTEGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278106",
+        "branchCode": "106",
+        "branchName": "MATUGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278160",
+        "branchCode": "160",
+        "branchName": "MAWANELLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278109",
+        "branchCode": "109",
+        "branchName": "MAWATHAGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278184",
+        "branchCode": "184",
+        "branchName": "MENIKHINNA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278158",
+        "branchCode": "158",
+        "branchName": "MIDDENIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278065",
+        "branchCode": "065",
+        "branchName": "MINUWANGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278086",
+        "branchCode": "086",
+        "branchName": "MIRIGAMA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278074",
+        "branchCode": "074",
+        "branchName": "MONORAGALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278155",
+        "branchCode": "155",
+        "branchName": "MORATUMULLA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278031",
+        "branchCode": "031",
+        "branchName": "MORATUWA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278015",
+        "branchCode": "015",
+        "branchName": "MORAWAKA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278199",
+        "branchCode": "199",
+        "branchName": "MT.LAVINIA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278208",
+        "branchCode": "208",
+        "branchName": "MUTTUR BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278193",
+        "branchCode": "193",
+        "branchName": "MUTWAL BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278040",
+        "branchCode": "040",
+        "branchName": "NARAHENPITA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278099",
+        "branchCode": "099",
+        "branchName": "NARAMMALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278132",
+        "branchCode": "132",
+        "branchName": "NATTANDIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278009",
+        "branchCode": "009",
+        "branchName": "NAVAM MAWATHA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278223",
+        "branchCode": "223",
+        "branchName": "NAWALA KOSWATTA BRN",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278195",
+        "branchCode": "195",
+        "branchName": "NAWALAPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278024",
+        "branchCode": "024",
+        "branchName": "NEGOMBO BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278129",
+        "branchCode": "129",
+        "branchName": "NELLIADY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278054",
+        "branchCode": "054",
+        "branchName": "NELUWA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278102",
+        "branchCode": "102",
+        "branchName": "NIKAWERATIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278185",
+        "branchCode": "185",
+        "branchName": "NINTHAVUR BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278071",
+        "branchCode": "071",
+        "branchName": "NITTAMBUWA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278138",
+        "branchCode": "138",
+        "branchName": "NOCHCHIYAGAMA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278003",
+        "branchCode": "003",
+        "branchName": "NUGEGODA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278084",
+        "branchCode": "084",
+        "branchName": "NUWARA ELIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278124",
+        "branchCode": "124",
+        "branchName": "ODDAMAVADY",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278027",
+        "branchCode": "027",
+        "branchName": "OLD MOOR STREET",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278214",
+        "branchCode": "214",
+        "branchName": "ORUGODAWATTE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278192",
+        "branchCode": "192",
+        "branchName": "PADUKKA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278026",
+        "branchCode": "026",
+        "branchName": "PANADURA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278047",
+        "branchCode": "047",
+        "branchName": "PANADURA WEKADA BR.",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278166",
+        "branchCode": "166",
+        "branchName": "PANNALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278146",
+        "branchCode": "146",
+        "branchName": "PASSARA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278063",
+        "branchCode": "063",
+        "branchName": "PELAWATTE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278136",
+        "branchCode": "136",
+        "branchName": "PELIYAGODA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278103",
+        "branchCode": "103",
+        "branchName": "PELMADULLA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278051",
+        "branchCode": "051",
+        "branchName": "PERADENIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278002",
+        "branchCode": "002",
+        "branchName": "PETTAH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278150",
+        "branchCode": "150",
+        "branchName": "PILIMATHALAWA BRANC",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278019",
+        "branchCode": "019",
+        "branchName": "PILIYANDALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278091",
+        "branchCode": "091",
+        "branchName": "PITAKOTTE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278131",
+        "branchCode": "131",
+        "branchName": "PLATINUM+CAMBRIDGE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278228",
+        "branchCode": "228",
+        "branchName": "POLGAHAWELA",
+        "branchAddress": "Polgahawela",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278130",
+        "branchCode": "130",
+        "branchName": "POTTUVIL BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278217",
+        "branchCode": "217",
+        "branchName": "PRINCE STREET BRAN",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278221",
+        "branchCode": "221",
+        "branchName": "PUJAPITIYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278152",
+        "branchCode": "152",
+        "branchName": "PUSSELLAWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278156",
+        "branchCode": "156",
+        "branchName": "PUTTALAM BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278073",
+        "branchCode": "073",
+        "branchName": "RAGAMA PERSONAL BAN",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278122",
+        "branchCode": "122",
+        "branchName": "RAJAGIRIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278188",
+        "branchCode": "188",
+        "branchName": "RAMBUKKANA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278018",
+        "branchCode": "018",
+        "branchName": "RATMALANA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278033",
+        "branchCode": "033",
+        "branchName": "RATNAPURA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278226",
+        "branchCode": "226",
+        "branchName": "RATNAPURA METRO",
+        "branchAddress": "RATHNAPURA",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278163",
+        "branchCode": "163",
+        "branchName": "RIKILLAGASKADA BRAN",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278201",
+        "branchCode": "201",
+        "branchName": "RUWANWELLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278126",
+        "branchCode": "126",
+        "branchName": "SAINTHAMARUTHU BR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278213",
+        "branchCode": "213",
+        "branchName": "SEEDUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278088",
+        "branchCode": "088",
+        "branchName": "SINGER MEGA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278082",
+        "branchCode": "082",
+        "branchName": "SINGER NUGEGODA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278157",
+        "branchCode": "157",
+        "branchName": "SOORIYAWEWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278116",
+        "branchCode": "116",
+        "branchName": "TANGALLE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278211",
+        "branchCode": "211",
+        "branchName": "THALAHENA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278222",
+        "branchCode": "222",
+        "branchName": "THALAWAKELE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278178",
+        "branchCode": "178",
+        "branchName": "THALAWATHUGODA BR",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278048",
+        "branchCode": "048",
+        "branchName": "THAMBUTTEGAMA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278034",
+        "branchCode": "034",
+        "branchName": "THIMBIRIGASYAYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278186",
+        "branchCode": "186",
+        "branchName": "THIRUNELVELY BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278028",
+        "branchCode": "028",
+        "branchName": "TISSAMAHARAMAYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278066",
+        "branchCode": "066",
+        "branchName": "TRINCOMALEE",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278170",
+        "branchCode": "170",
+        "branchName": "VAUNIYA SUPER BR.",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278055",
+        "branchCode": "055",
+        "branchName": "VAVUNIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278077",
+        "branchCode": "077",
+        "branchName": "VEYANGODA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278075",
+        "branchCode": "075",
+        "branchName": "WADDUWA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278205",
+        "branchCode": "205",
+        "branchName": "WARAKAPOLA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278044",
+        "branchCode": "044",
+        "branchName": "WARIYAPOLA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278008",
+        "branchCode": "008",
+        "branchName": "WATTALA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278105",
+        "branchCode": "105",
+        "branchName": "WATTEGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278209",
+        "branchCode": "209",
+        "branchName": "WELIGAMA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278081",
+        "branchCode": "081",
+        "branchName": "WELIMADA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278045",
+        "branchCode": "045",
+        "branchName": "WELLAMPITIYA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278036",
+        "branchCode": "036",
+        "branchName": "WELLAWATTE BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278113",
+        "branchCode": "113",
+        "branchName": "WELLAWAYA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278030",
+        "branchCode": "030",
+        "branchName": "WENNAPPUWA",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278219",
+        "branchCode": "219",
+        "branchName": "WORLD TRADE CENTER",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    },
+    {
+        "branchCodeUnique": "7278068",
+        "branchCode": "068",
+        "branchName": "YAKKALA BRANCH",
+        "branchAddress": "",
+        "bankCode": {
+            "version": 1,
+            "bankCode": "7278",
+            "bankName": "SAMPATH BANK",
+            "slipEnable": true,
+            "ceftEnable": true,
+            "cardSlipEnable": false,
+            "cardCeftEnable": true,
+            "remarks": "",
+            "ceftBankCode": "6278"
+        },
+        "cardSlipEnable": false,
+        "status": true
+    }
+]
